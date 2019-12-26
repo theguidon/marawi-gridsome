@@ -1,14 +1,22 @@
-# Default starter for Gridsome
+# Marawi interactives migration
 
-This is the project you get when you run `gridsome create new-project`.
+This repo contains the code for the marawi interactive project. It uses the Gridsome framework. Most of the content in `src/` is migrated code from https://github.com/theguidon/marawi-interactives modified to fit into the boilerplate created using `gridsome create [site-name]`.
 
-### 1. Install Gridsome CLI tool if you don't have
+## Installation for development: 
+
+### 1. Install Gridsome CLI tool (if you don't have it yet in your system)
 
 `npm install --global @gridsome/cli`
 
-### 2. Create a Gridsome project
+### 2. Clone this repo and navigate to the directory.
+`git init`
+`git remote add origin https://github.com/theguidon/marawi-gridsome.git`
+`cd marawi-gridsome`
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+
+### 3. Start your local dev server.
+To run on `localhost:8080`:
+`gridsome develop`
+
+# PLEASE DO NOT PUSH DIRECTLY TO MASTER. 
+
