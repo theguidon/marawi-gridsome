@@ -1,6 +1,6 @@
 # Marawi interactives migration
 
-This repo contains the code for the marawi interactive project. It uses the Gridsome framework. Most of the content in `src/` is migrated code from https://github.com/theguidon/marawi-interactives modified to fit into the boilerplate created using `gridsome create [site-name]`.
+This repo contains the code for the marawi interactive project. It uses the [Gridsome](gridsome.org) framework for optimization. Most of the content in `src/` is migrated code from https://github.com/theguidon/marawi-interactives modified to fit into the boilerplate created using `gridsome create [site-name]`.
 
 ## Installation for development: 
 
