@@ -8,7 +8,7 @@
             <h5 class="animated fadeInDown slow delay-1s">Published November 2019</h5>
             <div class="animated delay-3s scroll-animation-div">
                 <h6 class="animated delay-1s scroll-down-top">Scroll Down</h6>
-                <img class="animated delay-1s scroll-triangle" src="../assets/scroll-down-triangle.svg" />
+                <g-image class="animated delay-1s scroll-triangle" src="../assets/scroll-down-triangle.svg" />
             </div>
         </div>
         <div class="main-text">
@@ -18,7 +18,7 @@
         </div>
         <div class="the-narratives">
                 <h6 class="explore scroll-down-top2">Explore the Narratives</h6>
-                <img class="scroll-triangle scroll-down-top" src="../assets/scroll-down-triangle-blue.svg" />
+                <g-image class="scroll-triangle scroll-down-top" src="../assets/scroll-down-triangle-blue.svg" />
                 <h2 class="the-narratives-header">STORIES FROM THE ISLAMIC CITY</h2>
                 <div class="flex-container-1">
                     <div class=" animated fadeIn slow kf-box">
@@ -62,7 +62,7 @@
         </div>
         <div class="footer">
                 <!-- <div class="footer-content"> -->
-                <img class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
+                <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
                 <p class="first-footer-sent">ABOUT THE INTERACTIVE</p>
                 <p class="footer-content">An immersive journalism project by The GUIDON in 2019</p>
                 <p class="footer-content">Introduction written by [Name]</p>
