@@ -84,13 +84,6 @@ export default {
   name: 'Landing',
   metaInfo: {
     title: 'Marawi Interactives',
-    // meta: [
-    //   { name: 'author', content: 'John Doe' }
-    // ],
-    // link: [
-    //   { rel: 'stylesheet', href: '/css/index.css' },
-    // ]
-    // etc...
   }
 }
 

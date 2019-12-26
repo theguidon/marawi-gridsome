@@ -161,13 +161,27 @@
 
 <script>
 export default {
-    
+  name: 'WTD',
+  metaInfo: {
+    title: 'World Teacher\'s Day',
+    meta: [
+        {charset: 'UTF=8'},
+        {name: 'viewport', content: 'width=device-width, initial-scale=1.0'},
+        {httpEquiv: 'X-UA-Compatible', content: 'ie=edge'}
+    ],
+    link: [
+        {rel: 'stylesheet', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', integrity: 'sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T', crossorigin: 'anonymous'},
+        {rel: 'stylesheet', href: 'path/to/font-awesome/css/font-awesome.min.css'},
+        {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Chivo&display=swap'},
+        {rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css'}
+    ]
+  }
 }
 </script>
 
 <style scoped>
-@import url(http://../assets.theguidon.com/fonts/tiempos-text-bold);
-@import url(http://../assets.theguidon.com/fonts/tiempos-text-regular);
+@import url(http://assets.theguidon.com/fonts/tiempos-text-bold);
+@import url(http://assets.theguidon.com/fonts/tiempos-text-regular);
 
 *{
   font-family: Tiempos Text;
@@ -261,6 +275,7 @@ nav{
 
 .c-elem2{
   margin-bottom: 55px;
+  text-align: center;
 }
 
 #h61{
@@ -653,8 +668,8 @@ line-height: 25px;
     margin-top: 10px;
 }
 
-@import url(http://../assets.theguidon.com/fonts/tiempos-text-bold);
-@import url(http://../assets.theguidon.com/fonts/tiempos-text-regular);
+@import url(http://assets.theguidon.com/fonts/tiempos-text-bold);
+@import url(http://assets.theguidon.com/fonts/tiempos-text-regular);
 
 @media only screen and (max-width: 425px) {
 
