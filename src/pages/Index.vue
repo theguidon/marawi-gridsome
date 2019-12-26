@@ -1,7 +1,7 @@
 <template>
 <div>
         <div class="hdr">
-            <div class="animated fadeInDown header-logo slow delay-1s"><g-image src="../assets/logo-clear.png"/></div>
+            <div class="animated fadeInDown header-logo delay-1s"><g-image src="../assets/logo-clear.png"/></div>
             <h1 class="animated fadeInDown slow delay-1s">Catching Light</h1>
             <h3 class="animated fadeInDown slow delay-1s">The Faces of Marawi</h3>
             <hr class="animated fadeInDown slow delay-1s">
@@ -78,6 +78,7 @@
 </template>
 
 <script>
+import animated from 'animate.css';
 
 export default {
   name: 'Landing',
