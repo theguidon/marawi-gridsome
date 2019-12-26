@@ -41,14 +41,14 @@
     </span><br><br>
     PDRF President Rene Meily emphasized the need to prioritize access to education in war-torn areas like Marawi City. “Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable,” he said.
 
-      <span id="c-img1-container"><div id="c-img1"><img src="../assets/cimg1.png" alt=""><h6 id="ffe">FIGHT FOR EDUCATION. Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic shares the hardships she experienced as she pushed for the creation of a school for the internally displaced people of Marawi. | Photo by Jason Mariano</h6></div></span>
+      <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/cimg1.png" alt=""/><h6 id="ffe">FIGHT FOR EDUCATION. Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic shares the hardships she experienced as she pushed for the creation of a school for the internally displaced people of Marawi. | Photo by Jason Mariano</h6></div></span>
 
       <br>
 
       Such is the philosophy of Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic, who, along with other former Marawi-based professors, established a makeshift school at Sarimanok Tent City Area 2, Marawi City. <br><br><br>
       Selic shared that she and her fellow professors used to teach in various schools in Ground Zero. Not all of them were employed under the same institutions, but after the siege, Selic resolved to find enough teachers to join her mission to continue the education of the displaced Maranao youth. <i>“Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan (The most important thing for us is to ensure that we’re able to get anyone and everyone into school),”</i> she said. <br>
 
-      <span id="c-img1-container"><div id="c-img2"><img src="../assets/cimg2.png" alt=""><h6>MAKESHIFT SCHOOLS. The Marawi Sarimanok Elementary Pilot School was successfully established by a group of former Marawi-based professors with the help of Save the Children Philippines and the Philippine Red Cross. However, two years after the armed conflict that displaced many residents in the city, communities still struggle to build educational institutions due to the lack of quality facilities and materials. | Photo by Aldo Santiago</h6></div></span>
+      <span id="c-img1-container"><div id="c-img2"><g-image src="../assets/cimg2.png" alt=""/><h6>MAKESHIFT SCHOOLS. The Marawi Sarimanok Elementary Pilot School was successfully established by a group of former Marawi-based professors with the help of Save the Children Philippines and the Philippine Red Cross. However, two years after the armed conflict that displaced many residents in the city, communities still struggle to build educational institutions due to the lack of quality facilities and materials. | Photo by Aldo Santiago</h6></div></span>
 
       <br>
 
@@ -56,7 +56,7 @@
 
       However, aside from the facilities, educators in Marawi also value the <span id="uline">  Islamization of education,</span>  which has long catered to the distinct socio-cultural traditions of Muslim Mindanao. This is evident even in makeshift schools like that of Sarimanok Tent City Area 2, wherein students are taught about Arabic language and Islam alongside subjects like math, english, and social sciences. <br>
 
-      <span id="c-img1-container"><div id="c-img3"><img src="../assets/cimg3.png" alt=""><h6>ISLAMIC ROOTS. An elementary teacher lectures about the Arabic language in adherence to the Madrasah Educational Program. | Photo by Aldo Santiago</h6></div></span>
+      <span id="c-img1-container"><div id="c-img3"><g-image src="../assets/cimg3.png" alt=""/><h6>ISLAMIC ROOTS. An elementary teacher lectures about the Arabic language in adherence to the Madrasah Educational Program. | Photo by Aldo Santiago</h6></div></span>
 
       <br>
 
@@ -69,7 +69,7 @@
 
       However, the Madrasah Educational Program has its limitations. University of the Philippines Institute of Islamic Studies Assistant Professor Nassef Manabilang Adiong, PhD pointed out that majority of Madrasah schools provide Islamic education that is lacking in depth. <br>
 
-      <span id="c-img1-container"><div id="c-img4"><img src="../assets/cimg4.png" alt=""><h6>NEWFOUND LEARNING. Grade school students from Sarimanok Tent City Area 2 have regularly attended class since the school’s opening in July 2019. | Photo by Aldo Santiago</h6></div></span>
+      <span id="c-img1-container"><div id="c-img4"><g-image src="../assets/cimg4.png" alt=""/><h6>NEWFOUND LEARNING. Grade school students from Sarimanok Tent City Area 2 have regularly attended class since the school’s opening in July 2019. | Photo by Aldo Santiago</h6></div></span>
 
 
       “Ang Madrasah system dito…karamihan ang mga tinuturo ay lenggwahe ng Arabo. Mag-aaral [ang mga bata] ng Arabic language tapos aside from that yung basic knowledge sa Islam…Hindi siya in-depth, kung hindi napaka-basic lang yung tinuturo [sa kanila].” <br><br><br>
@@ -78,7 +78,7 @@
 
       Adiong added that to mitigate this, DepEd should conduct more training sessions for Madrasah teachers. “[They] must undergo training [that prepares them to] to be educated with various bodies of knowledge, not only of Islam, so that they can have all-around plurality of knowledge [that will be useful in teaching their students].” <br>
 
-      <span id="c-img1-container"><div id="c-img6"><img src="../assets/cimg6.png" alt=""><h6>HEALING THROUGH EDUCATION. Teachers at the Marawi Sarimanok Elementary Pilot School continue to push for a just and inclusive education for the displaced children of Marawi. These educators firmly believe that bringing the youth back to school will greatly help with the long-term healing of the community. | Photo by Jason Mariano</h6></div></span>
+      <span id="c-img1-container"><div id="c-img6"><g-image src="../assets/cimg6.png" alt=""/><h6>HEALING THROUGH EDUCATION. Teachers at the Marawi Sarimanok Elementary Pilot School continue to push for a just and inclusive education for the displaced children of Marawi. These educators firmly believe that bringing the youth back to school will greatly help with the long-term healing of the community. | Photo by Jason Mariano</h6></div></span>
 
   <span id='heading'><div><b>In classrooms again</b></div></span><br><br>
 
@@ -91,7 +91,7 @@
   </section>
 
   <section id='s3'>
-    <div class="s3Head"><img src="../assets/s3Head.png" alt=""></div>
+    <div class="s3Head"><g-image src="../assets/s3Head.png" alt=""/></div>
 
             <div class="the-narratives">
                 <div class="flex-container-1">
@@ -144,7 +144,7 @@
 
   <div class="footer">
                 <!-- <div class="footer-content"> -->
-                <img class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
+                <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
                 <p class="first-footer-sent">ABOUT THE INTERACTIVE</p>
                 <p class="footer-content">An immersive journalism project by The GUIDON in 2019</p>
                 <p class="footer-content">Introduction written by [Name]</p>
