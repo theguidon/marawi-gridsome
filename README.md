@@ -9,13 +9,16 @@ This repo contains the code for the marawi interactive project. It uses the Grid
 `npm install --global @gridsome/cli`
 
 ### 2. Clone this repo and navigate to the directory.
-`git init`
-`git remote add origin https://github.com/theguidon/marawi-gridsome.git`
-`cd marawi-gridsome`
+```
+git init
+git remote add origin https://github.com/theguidon/marawi-gridsome.git
+cd marawi-gridsome
+```
 
 
 ### 3. Start your local dev server.
 To run on `localhost:8080`:
+
 `gridsome develop`
 
 # PLEASE DO NOT PUSH DIRECTLY TO MASTER. 
