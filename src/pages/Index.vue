@@ -16,7 +16,12 @@
             <p class="p2">But gradually, after months of fighting between government forces and the insurgents, Secretary of Defense Delfin Lorenzana declared the end of combat operations on October 23, 2017, and the rehabilitation program could begin in earnest.</p>
             <p class="p3">The GUIDON looks into the situation in Marawi a year since the fated attack. The stories presented in this hub are the lived experiences of people affected by the siege and those trying to build back better from the carnage.</p>
         </div>
-        <CardsSection />
+        <CardsSection>
+            <div slot="explore-div">
+                <h6 class="explore scroll-down-top2">Explore the Narratives</h6>
+                <g-image class="scroll-triangle scroll-down-top" src="../assets/scroll-down-triangle-blue.svg" />
+            </div>
+        </CardsSection>
         <div class="footer">
                 <!-- <div class="footer-content"> -->
                 <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
@@ -208,6 +213,13 @@ hr{
 .scroll-animation-div{
     animation: fadeInDown;
     animation-duration: 2s;
+}
+
+.explore{
+    position: relative;
+    margin-top: 100px;
+    width: 80%;
+    text-align: center;
 }
 
 .scroll-down-top,

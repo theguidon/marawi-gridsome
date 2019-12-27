@@ -1,7 +1,6 @@
 <template>
     <div class="the-narratives">
-                <h6 class="explore scroll-down-top2">Explore the Narratives</h6>
-                <g-image class="scroll-triangle scroll-down-top" src="../assets/scroll-down-triangle-blue.svg" />
+                <slot name="explore-div"></slot>
                 <h2 class="the-narratives-header">STORIES FROM THE ISLAMIC CITY</h2>
                 <div class="flex-container-1">
                     <div class=" animated fadeIn slow kf-box">
@@ -76,12 +75,7 @@ export default {
     overflow: auto;
 }
 
-.explore{
-    position: relative;
-    margin-top: 100px;
-    width: 80%;
-    text-align: center;
-}
+
 
 .the-narratives-header{
     vertical-align: middle;
