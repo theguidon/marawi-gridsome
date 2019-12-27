@@ -24,6 +24,9 @@ export default {
 </script>
 
 <style scoped>
+*{
+    color: white;
+}
 .footer{
     height: 407px;
     background-color: #1C4480;

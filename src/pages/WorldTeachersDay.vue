@@ -1,5 +1,5 @@
 <template>
-    <div>
+<PageLayout>
         <section id='s1'>
     <div class="landing">
       <div class="fad">
@@ -91,7 +91,8 @@
   </section>
 
   <section id='s3'>
-    <div class="s3Head"><g-image src="../assets/s3Head.png" alt=""/></div>
+    <CardsSection />
+    <!-- <div class="s3Head"><g-image src="../assets/s3Head.png" alt=""/></div>
 
             <div class="the-narratives">
                 <div class="flex-container-1">
@@ -133,7 +134,7 @@
                             </div>
                     </div>
                 </div>
-        </div>
+        </div> -->
 
   </section>
   <div class="s3-mobile">
@@ -142,24 +143,11 @@
     </button>
   </div>
 
-  <div class="footer">
-                <!-- <div class="footer-content"> -->
-                <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
-                <p class="first-footer-sent">ABOUT THE INTERACTIVE</p>
-                <p class="footer-content">An immersive journalism project by The GUIDON in 2019</p>
-                <p class="footer-content">Introduction written by [Name]</p>
-                <p class="footer-content">Interactive by Alannah Mitra, Bea Martin, Bea Sison, Cobbie Quintos, Keith Bartido, Prezil Ong, and Zekie Ordoveza</p>
-                <p class="footer-content">Photos by Aldo Santiago and Jason Mariano</p>
-                <p class="footer-content">Videos by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia </p>
-
-
-            <!-- </div> -->
-        </div>
-
-    </div>
+</PageLayout>
 </template>
 
 <script>
+import CardsSection from '~/components/CardsSection.vue'
 export default {
   name: 'WTD',
   metaInfo: {
@@ -175,16 +163,29 @@ export default {
         {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Chivo&display=swap'},
         {rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css'}
     ]
+  },
+  components: {
+    CardsSection
   }
 }
 </script>
 
 <style scoped>
-@import url(http://assets.theguidon.com/fonts/tiempos-text-bold);
-@import url(http://assets.theguidon.com/fonts/tiempos-text-regular);
+/* @import url(http://assets.theguidon.com/fonts/tiempos-text-bold);
+@import url(http://assets.theguidon.com/fonts/tiempos-text-regular); */
+
+@font-face{
+	font-family: 'Tiempos Text';
+	src: url("../assets/Tiempos Text - Regular.otf");
+}
+
+@font-face{
+	font-family: 'Tiempos Bold';
+	src: url("../assets/Tiempos Text - Semibold.otf");
+}
 
 *{
-  font-family: Tiempos Text;
+  font-family: 'Tiempos Text';
 }
 
 html {
@@ -199,6 +200,10 @@ body{
 nav{
   background-color: #1C4480;
   height: 64px;
+}
+
+h1{
+  font-family: 'Tiempos Bold'
 }
 
 #s1{
@@ -474,202 +479,7 @@ nav{
   height: 30px;
 }
 
-.scroll-triangle{
-    margin-top: 8px;
-    position: relative
-}
 
-.scroll-animation-div{
-    animation: fadInDown;
-    animation-duration: 2s;
-}
-
-.scroll-down-top,
-.scroll-triangle,
-.explore{
-    -webkit-animation-name: scroll-animation;
-    -moz-animation-name: scroll-animation;
-    -o-animation-name: scroll-animation;
-    animation-name: scroll-animation;
-
-    -webkit-animation-iteration-count: infinite;
-    -moz-animation-iteration-count: infinite;
-    -o-animation-iteration-count: infinite;
-    animation-iteration-count: infinite;
-
-    -webkit-animation-duration: 0.8s;
-    -moz-animation-duration: 0.8s;
-    -o-animation-duration: 0.8s;
-    animation-duration: 0.8s;
-
-    -webkit-animation-delay: 2s;
-    -moz-animation-delay: 2s;
-    -o-animation-delay: 2s;
-    animation-delay: 2s;
-}
-
-
-
-@keyframes scroll-animation{
-    from {top: 0px;}
-    to {top: 18px;}
-}
-
-.main-text{
-    height: 282px;
-    z-index: 10;
-    margin-top: -282px;
-    overflow: visible;
-}
-.p1,
-.p2,
-.p3{
-    font-size: 16px;
-    z-index: 10;
-    width: 79%;
-    margin: 0 auto;
-    font-size: 16px;
-    line-height: 200%;
-    margin-top: 33px;
-}
-
-.the-narratives{
-    text-align: center;
-    height: 1324px;
-    margin: 0;
-    background-blend-mode: darken;
-    margin-top: -9px;
-    overflow: auto;
-    color: white;
-}
-
-.explore{
-    position: relative;
-    margin-top: 200px;
-    width: 80%;
-    text-align: center;
-}
-
-.flex-container-1{
-    display: flex;
-    width: 1112px;
-    justify-content: space-between;
-    margin: 0 auto;
-    margin-top: 64px;
-}
-
-.kf-box{
-    background-image: url(../assets/keepin-faith-thumbnail.png);
-}
-
-.kf-box,
-.photoessay-box{
-    width: 313px;
-    height:391px;
-}
-
-.bn-box{
-    width: 426px;
-    height:391px;
-    background-image: url(../assets/marawi-rehab-thumbnail.png);
-
-}
-
-.photoessay-box{
-    background-image: url(../assets/photoessay-thumbnail.png);
-}
-
-.flex-container-2{
-    display: flex;
-    width: 1112px;
-    justify-content: space-between;
-    margin: 0 auto;
-    margin-top: 31px;
-}
-
-.wtd-box{
-    width: 427px;
-    height: 391px;
-    background-image: url(../assets/wtd-thumbnail.png);
-}
-.docu-box{
-    width: 655px;
-    height: 391px;
-    background-image: url(../assets/mini-docu-thumbnail.png);
-}
-
-.textbox{
-    background: rgba(28, 68, 128, 0.75);
-    backdrop-filter: blur(20px);
-    position: relative;
-    overflow: auto;
-    height: 124px;
-    top: 267px;
-    cursor: pointer;
-    transition-duration: 0.7s;
-}
-
-.textbox:hover{
-    height: 391px;
-    top: 0px;
-    transition-duration: 0.7s;
-}
-
-.box-category,
-.box-title,
-.box-credits{
-    text-align: left;
-    margin-left: 25px;
-}
-.box-category{
-    color: #5597FB;
-    font-size: 10px;
-    line-height: 12px;
-    margin-top: 20px;
-}
-
-.box-title{
-    margin-top: 6px;
-    font-size: 21px;
-line-height: 25px;
-}
-
-.box-credits{
-    margin-top: 10.54px;
-    font-size: 12px;
-    line-height: 14px;
-    color: white;
-}
-
-.footer{
-    height: 360px;
-    background-color: #1C4480;
-    font-size: 14px;
-    line-height: 100%;
-    color: white;
-    text-align: left;
-
-    padding-bottom: 441px;
-}
-
-.gdn-horizontal
-{
-    margin-left: 87px;
-    margin-top: 101px;
-}
-
-.first-footer-sent{
-    margin-top: 48px;
-    margin-left: 87px;
-}
-
-.footer-content,.footer-content-spec{
-    margin-left: 87px;
-    margin-top: 10px;
-}
-
-@import url(http://assets.theguidon.com/fonts/tiempos-text-bold);
-@import url(http://assets.theguidon.com/fonts/tiempos-text-regular);
 
 @media only screen and (max-width: 425px) {
 

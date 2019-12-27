@@ -1,5 +1,4 @@
 <template>
-<!-- <div> -->
     <PageLayout>
         <div class="hdr">
             <div class="animated fadeInDown header-logo delay-1s"><g-image src="../assets/logo-clear.png"/></div>
@@ -24,8 +23,6 @@
             </div>
         </CardsSection>
         </PageLayout>
-        <!-- <div class=""></div> -->
-    <!-- </div> -->
 </template>
 
 <script>
