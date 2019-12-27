@@ -74,10 +74,11 @@ export default {
     );
   /* mix-blend-mode: lighten; */
 
-  height: 2422px;
+  height: 120%;
   margin: 0;
   background-blend-mode: overlay;
   margin-top: -34px;
+  padding-bottom: 40px;
   overflow: auto;
 }
 
@@ -190,7 +191,7 @@ export default {
 @media screen and (max-device-width: 420px) {
   .the-narratives {
     width: 100%;
-    height: 100%;
+height: 2422px;
     background-image: url(../assets/landing-bg-new.jpg),
     linear-gradient(
       rgba(252, 254, 255, 1) 0%,

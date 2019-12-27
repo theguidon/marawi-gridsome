@@ -22,19 +22,7 @@
                 <g-image class="scroll-triangle scroll-down-top" src="../assets/scroll-down-triangle-blue.svg" />
             </div>
         </CardsSection>
-        <div class="footer">
-                <!-- <div class="footer-content"> -->
-                <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
-                <p class="first-footer-sent">ABOUT THE INTERACTIVE</p>
-                <p class="footer-content">An immersive journalism project by The GUIDON in 2019</p>
-                <p class="footer-content">Introduction written by [Name]</p>
-                <p class="footer-content">Interactive by Alannah Mitra, Bea Martin, Bea Sison, Cobbie Quintos, Davin Cuaso, Keith Bartido, Prezil Ong, and Zekie Ordoveza</p>
-                <p class="footer-content">Photos by Aldo Santiago and Jason Mariano</p>
-                <p class="footer-content">Videos by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia </p>
-
-
-            <!-- </div> -->
-        </div>
+        <Footer />
         <div class=""></div>
     </div>
 </template>
@@ -42,6 +30,7 @@
 <script>
 import animated from 'animate.css';
 import CardsSection from '~/components/CardsSection.vue'
+import Footer from '~/components/Footer.vue'
 
 export default {
   name: 'Landing',
@@ -54,7 +43,8 @@ export default {
     ],
   },
   components: {
-      CardsSection
+      CardsSection,
+      Footer
   }
 }
  
@@ -275,27 +265,6 @@ hr{
 
 
 
-.footer{
-    height: 450px;
-    background-color: #1C4480;
-    font-size: 14px;
-    line-height: 150%;
-}
-
-.gdn-horizontal
-{
-    margin-left: 87px;
-    margin-top: 101px;
-}
-
-.first-footer-sent{
-    margin-top: 48px;
-    margin-left: 87px;
-}
-.footer-content{
-    margin-left: 87px;
-    margin-top: 10px;
-}
 
 .scroll-down-top2,
 .scroll-triangle-2{
@@ -304,6 +273,8 @@ hr{
 
 @media screen and (max-device-width: 420px) 
 {
+
+
     .main-text{
         height: 1000px;
     }
