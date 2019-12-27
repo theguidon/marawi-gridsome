@@ -1,5 +1,5 @@
 <template>
-<PageLayout>
+<PageLayout title="Marawi's Rehabilitation Efforts">
 
     <div class = 'landing-container'>
 				<h1 class = "animated slow scroll-animation-div landing-head">Marawi's Rehabilitation Efforts</h1>

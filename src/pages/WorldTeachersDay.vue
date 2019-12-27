@@ -1,5 +1,5 @@
 <template>
-<PageLayout>
+<PageLayout title="Beyond Makeshift Classrooms">
         <section id='s1'>
     <div class="landing">
       <div class="fad">

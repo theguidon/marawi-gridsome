@@ -1,6 +1,6 @@
 <template>
   <div>
-    <header class="masthead">
+     <header class="masthead">
       <div class="container h-100">
         <div class="row h-100 align-items-center">
           <div class="col-12 text-center">
@@ -13,7 +13,7 @@
               voluptate!
             </h3>
             <h2>By Jason Mariano and Aldo Santiago</h2>/
-            <!-- <div class="animated delay-1s scroll-animation-div"> -->
+
             
             <h6 class="animated delay-1s scroll-down-top">Scroll Down</h6>
             <g-image
@@ -25,7 +25,7 @@
         </div>
       </div>
     </header>
-    <div class="row">
+   <div class="row">
       <div class="col-md-7">
         <g-image
           class="landscape rounded mb-3 mb-md-0"
@@ -70,7 +70,7 @@
       <div class="col-md-7">
         <g-image
           class="portrait rounded mb-3 mb-md-0"
-          src="../assets/081119-Marawi IJP-Santiago-148.JPG"
+          src="../assets/081119-Marawi IJP-Santiago-148.jpg"
           alt
           style="margin: auto;"
         />
@@ -92,7 +92,7 @@
         </p>
       </div>
     </div>
-    <div class="row">
+   <div class="row">
       <div class="col-md-7">
         <g-image
           class="landscape rounded mb-3 mb-md-0"
@@ -115,11 +115,11 @@
         </p>
       </div>
     </div>
-    <div class="row">
+     <div class="row">
       <div class="col-md-7">
         <g-image
           class="portrait rounded mb-3 mb-md-0"
-          src="../assets/081319-Marawi IJP-Santiago-119.JPG"
+          src="../assets/081319-Marawi IJP-Santiago-119.jpg"
           alt
           style="margin: auto;"
         />
@@ -201,7 +201,7 @@
       <div class="col-md-7">
         <g-image
           class="landscape rounded mb-3 mb-md-0"
-          src="../assets/081319-Marawi IJP-Santiago-134.JPG"
+          src="../assets/081319-Marawi IJP-Santiago-134.jpg"
           alt
           style="margin: auto;"
         />
@@ -567,7 +567,7 @@
       <div class="col-md-7">
         <g-image
           class="landscape rounded mb-3 mb-md-0"
-          src="../assets/081219-Marawi IJP-Santiago-149.JPG"
+          src="../assets/081219-Marawi IJP-Santiago-149.jpg"
           alt
           style="margin: auto;"
         />
@@ -712,7 +712,7 @@
       <div class="col-md-7">
         <g-image
           class="landscape rounded mb-3 mb-md-0"
-          src="../assets/081319-Marawi IJP-Santiago-118.JPG"
+          src="../assets/081319-Marawi IJP-Santiago-118.jpg"
           alt
           style="margin: auto;"
         />
@@ -733,7 +733,7 @@
       <div class="col-md-7">
         <g-image
           class="landscape rounded mb-3 mb-md-0"
-          src="../assets/081319-Marawi IJP-Santiago-120.JPG"
+          src="../assets/081319-Marawi IJP-Santiago-120.jpg"
           alt
           style="margin: auto;"
         />
@@ -758,7 +758,7 @@
       <div class="col-md-7">
         <g-image
           class="landscape rounded mb-3 mb-md-0"
-          src="../assets/081319-Marawi IJP-Santiago-131.JPG"
+          src="../assets/081319-Marawi IJP-Santiago-131.jpg"
           alt
           style="margin: auto;"
         />
@@ -808,7 +808,7 @@
       <div class="col-md-7">
         <g-image
           class="landscape rounded mb-3 mb-md-0"
-          src="../assets/081319-Marawi IJP-Santiago-127.JPG"
+          src="../assets/081319-Marawi IJP-Santiago-127.jpg"
           alt
           style="margin: auto;"
         />
@@ -838,13 +838,13 @@
         the IDPs persist in
         <br />their hope for the day they can finally return to their own homes in peace.
       </h1>
-    </div>
+    </div> 
   </div>
 </template>
 
 <script>
 export default {
-  // name: "Foundations",
+  name: "Foundations",
   // metaInfo: {
   //   title: "Foundations",
   //   meta: [

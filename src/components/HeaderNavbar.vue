@@ -4,7 +4,7 @@
         <div class="left-side">
             <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/>
             <div class="hr"></div>
-            <span>Now viewing: Landing Page</span>
+            <span>Now viewing: {{title}}</span>
         </div>
         <div class="right-side">
             <g-image src="../assets/left-arrow.svg" class="arrow" />
@@ -23,7 +23,7 @@
         </div>
 
         <div id="sidebar">
-            <h1 class="title">MARAWI {{title}}</h1>
+            <h1 class="title">{{title}}</h1>
         
             <div class="section section-1"><g-link to="/keeping-faith/">Keeping Faith</g-link></div>
             <hr>
@@ -47,10 +47,10 @@ export default {
     name: 'HeaderNavbar',
     data(){
         return {
-            
         }
 
     },
+    props: ['title'],
     methods: {
         toggleSidebar: function(){
             var sidebar = document.getElementById("sidebar").style.display;
@@ -166,7 +166,7 @@ align-items: center;
 }
 
 .left-side{
-    width: 430px;
+    width: 540px;
 }
 
 .right-side{
