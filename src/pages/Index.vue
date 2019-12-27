@@ -1,5 +1,6 @@
 <template>
 <div>
+    <HeaderNavbar />
         <div class="hdr">
             <div class="animated fadeInDown header-logo delay-1s"><g-image src="../assets/logo-clear.png"/></div>
             <h1 class="animated fadeInDown slow delay-1s">Catching Light</h1>
@@ -31,6 +32,7 @@
 import animated from 'animate.css';
 import CardsSection from '~/components/CardsSection.vue'
 import Footer from '~/components/Footer.vue'
+import HeaderNavbar from '~/components/HeaderNavbar.vue'
 
 export default {
   name: 'Landing',
@@ -44,7 +46,8 @@ export default {
   },
   components: {
       CardsSection,
-      Footer
+      Footer,
+      HeaderNavbar
   }
 }
  
