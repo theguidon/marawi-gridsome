@@ -302,5 +302,40 @@ hr{
     color: #1C4480;
 }
 
+@media screen and (max-device-width: 420px) 
+{
+    .main-text{
+        height: 1000px;
+    }
+    .hdr{
+        height: 760px;
+        padding-top: 66px;
+    background-image: url(../assets/mobile-landing-hdr-bg.png), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
+        background-position: 80% 0%;
+    }
+    .hdr>h1{
+        width: 80vw;
+        font-size: 36px;
+        margin-top: 0px;
+        padding-top: 25px;
+    }
+    .hdr>h3{
+        margin-top: -15px;
+    }
+    .hdr>h3,
+    .hdr>h5{
+        font-size: 16px;
+        width: 60vw;
+    }
+    
+    .hdr>h6{
+        font-size: 12px;
+        width: 20vw;
+    }
 
+    .hdr>hr{
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+}
 </style>

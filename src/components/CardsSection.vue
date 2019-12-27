@@ -61,6 +61,7 @@ export default {
     font-family: 'Tiempos Text';
     color: #FFFFFF;
 }
+
 .the-narratives{
     text-align: center;
     /* background-image: url(../assets/bg-2.png), linear-gradient(to bottom, #000417 0%, rgba(196, 196, 196, 0) 194.29%);*/
@@ -68,7 +69,7 @@ export default {
     background-image: url(../assets/landing-bg-new.jpg), linear-gradient(to bottom, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
     /* mix-blend-mode: lighten; */
      
-    height: 1324px;
+    height: 2422px;
     margin: 0;
     background-blend-mode: overlay;
     margin-top: -34px;
@@ -183,5 +184,43 @@ line-height: 25px;
     font-size: 12px;
     line-height: 14px;
     color: #AFAFAF;
+}
+
+@media screen and (max-device-width: 420px) 
+{
+    .the-narratives{
+        width: 100%;
+        height: 100%;
+        /* height: 100vh; */
+    }
+
+    .flex-container-1,
+    .flex-container-2{
+        display: block;
+        width: 100vw;
+    }
+
+    .textbox {
+    width: 276px;
+    height: 132px;
+}
+
+.textbox:hover{
+    height: 413.83px;
+    top: 0px;
+    transition-duration: 0.7s;
+}
+
+.kf-box,
+.photoessay-box,
+.bn-box,
+.wtd-box,
+.docu-box{
+    width: 275px;
+    height: 413.83px;
+    text-align: center;
+        margin: 0 auto;
+
+}
 }
 </style>
