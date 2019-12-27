@@ -14,19 +14,60 @@
             <g-image src="../assets/left-arrow.svg" class="arrow right-arrow" />
         </div>
         </div>
+
+        <div id="header-flexbox-mobile">
+            <div class="flexbox-mobile">
+            <g-image id="burger" src="../assets/burger.svg" @click="toggleSidebar"></g-image>
+            <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/>
+            </div>
+        </div>
+
+        <div id="sidebar">
+            <h1 class="title">MARAWI {{title}}</h1>
+            <div class="section section-1">Keeping Faith</div>
+            <hr>
+            <div class="section">Marawi's Rehabilitation Efforts</div>
+            <div class="section">Foundations</div>
+            <div class="section">Beyond makeshift classrooms</div>
+            <hr>
+            <div class="section">The Maranao's Continued Displacement</div>
+            <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/>
+
+        </div>
     </div>
 </template>
 
 <script>
 export default {
-    name: 'HeaderNavbar'
+    name: 'HeaderNavbar',
+    data(){
+        return {
+            
+        }
+
+    },
+    methods: {
+        toggleSidebar: function(){
+            var sidebar = document.getElementById("sidebar").style.display;
+            sidebar = "none" ? document.getElementById("sidebar").style.display = "block" : document.getElementById("sidebar").style.display = "none"         
+            console.log('clicked');
+        }
+    }
 }
 </script>
 
 <style scoped>
+@font-face{
+	font-family: 'Tiempos Bold';
+	src: url("../assets/Tiempos Text - Semibold.otf");
+}
+
+@font-face{
+	font-family: 'Tiempos Text';
+	src: url("../assets/Tiempos Text - Regular.otf");
+}
 
 *{
-    font-family: Chivo;
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
@@ -44,8 +85,66 @@ line-height: 14px;
     width: 200px;
     height: 26px;
 }
+#header-flexbox-mobile>*{
+    display: none;
+}
+
+#sidebar{
+    display: none;
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    width: 75vw;
+    background: #1C4480;
+    color: #FFFDF9;
+    font-family: 'Tiempos Bold';
+    z-index: 3;
+}
+
+
+#sidebar>div{
+    font-family: 'Tiempos Text';
+    font-size: 16px;
+line-height: 19px;
+font-style: normal;
+font-weight: normal;
+}
+
+#sidebar>h1{
+    
+    font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+padding-top: 32px;
+}
+
+
+#sidebar>*{
+    padding-left: 32px;
+}
+    .section{
+    padding-top: 20px;
+    }
+
+.section-1{
+padding-top: 40px;
+}
+
+hr{
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    margin-top:20px;
+
+}
+
+#sidebar>.logo{
+    position: absolute;
+    bottom: 32px;
+}
+
+
 #header-container{
     height: 70px;
+    width: 100vw;
     background: #1C4480;
 }
 
@@ -56,6 +155,8 @@ padding-top: 19px;
 display: flex;
 justify-content: space-between;
 align-items: center;
+    font-family: Chivo;
+
 }
 
 .left-side{
@@ -98,4 +199,35 @@ align-items: center;
 .next, .prev, .arrow{
     cursor: pointer;
 }
+
+@media screen and (max-device-width: 420px) {
+
+#header-container{
+    height: 42px;
+    position: fixed;
+    z-index: 2;
+}
+#header-flexbox{
+    display: none
+}
+#header-flexbox-mobile>*{
+    display: flex;
+    width: 160px;
+    padding-top:15px;
+    justify-content: space-between;
+    padding-left: 20px;
+
+}
+
+#burger{
+    width: 18px;
+    height: 12px;
+}
+
+.logo{
+    width: 123px;
+    height: 15px;
+}
+}
+
 </style>

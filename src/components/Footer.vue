@@ -65,6 +65,7 @@ export default {
 
 .footer-content{
     padding-top: 13px;
+    width: 80vw;
     line-height: 170%;
 }
 
