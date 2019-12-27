@@ -84,6 +84,11 @@ export default {
   name: 'Landing',
   metaInfo: {
     title: 'Marawi Interactives',
+    meta: [
+        {charset: 'UTF=8'},
+        {name: 'viewport', content: 'width=device-width, initial-scale=1.0'},
+        {httpEquiv: 'X-UA-Compatible', content: 'ie=edge'}
+    ],
   }
 }
  
@@ -381,7 +386,7 @@ line-height: 35px;
 }
 
 .textbox{
-    background: rgba(1, 4, 24, 0.75);
+    background: rgba(28,68,128, 0.75);
     backdrop-filter: blur(20px);
     position: relative;
     overflow: auto;
@@ -425,7 +430,7 @@ line-height: 25px;
 
 .footer{
     height: 450px;
-    background-color: #010418;
+    background-color: #1C4480;
     font-size: 14px;
     line-height: 150%;
 }
