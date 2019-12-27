@@ -274,12 +274,13 @@ hr{
 @media screen and (max-device-width: 420px) 
 {
 
+ 
 
     .main-text{
         height: 1000px;
     }
     .hdr{
-        height: 760px;
+        height: 690px;
         padding-top: 66px;
     background-image: url(../assets/mobile-landing-hdr-bg.png), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
         background-position: 80% 0%;

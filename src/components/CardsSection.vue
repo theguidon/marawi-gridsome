@@ -191,7 +191,7 @@ export default {
 @media screen and (max-device-width: 420px) {
   .the-narratives {
     width: 100%;
-height: 2422px;
+    height: 100%;
     background-image: url(../assets/landing-bg-new.jpg),
     linear-gradient(
       rgba(252, 254, 255, 1) 0%,
