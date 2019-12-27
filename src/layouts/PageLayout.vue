@@ -14,7 +14,7 @@ export default {
     name: 'PageLayout',
     components: {
         Footer,
-        HeaderNavbar
+        HeaderNavbar,
     }
 }
 </script>

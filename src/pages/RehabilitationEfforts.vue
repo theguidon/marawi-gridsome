@@ -1,11 +1,7 @@
 <template>
-<div>
-    <div class = landing-container>
-		<!-- <div class = bg></div> -->
-			<g-image class = "bg" src= "../assets/bg.png" />
-			<div class = "landing-bg">
-				<div class = "landing-bn">
-				</div>
+<PageLayout>
+
+    <div class = 'landing-container'>
 				<h1 class = "animated slow scroll-animation-div landing-head">Marawi's Rehabilitation Efforts</h1>
 				<h3 class = "animated delay-1s fast scroll-animation-div landing-sub">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus <br>sodales porttitor risus, non viverra lorem vestibulum eget.</h3>
 				<h2 class = "animated delay-1s fast scroll-animation-div landing-credits">By Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</h2>
@@ -13,77 +9,25 @@
                 <h6 id = "button" class="animated delay-1s slow scroll-down-top">WATCH NOW</h6>
                 <g-image id = "button" class="animated delay-1s slow scroll-triangle" src="../assets/scroll-down-triangle.svg" />
             </div>
-			</div>	
 	</div>
-	<div id = "vid" class = "video-container">
-		<g-image class = video src="../assets/video.png" />
+	<div class = "video-container">
+		<g-image class = "video" src="../assets/video.png" />
 	</div>
 
-	<div class = text-container>
+	<div class = "text-container">
 		<h1 class = "animated bottom-animation-div bottom-text wow">“Lorem ipsum dolor sit amet, consectetur <br>adipiscing elit, sed do eiusmod tempor <br>incididunt ut labore et dolore magna aliqua.”</h1>
 	</div>
-
-	 <div class="stories">
-	 	<div class = "stories-box"><h2 class="stories-header">STORIES FROM THE ISLAMIC CITY</h2></div>
-                <div class="flex-container-1">
-                    <div class=" kf-box">
-                        <div class="textbox">
-                            <h6 class="box-category">ARTICLE</h6>
-                            <h2 class="box-title">Keeping Faith</h2>
-                            <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
-                        </div>
-                    </div>
-                    <div class="bn-box">
-                            <div class="textbox-bn">
-                                    <h6 class="box-category">BROADCAST NEWS</h6>
-                                    <h2 class="box-title grey">Marawi’s Rehabilitation Efforts</h2>
-                                    <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
-                            </div>
-                    </div>
-                    <div class="photoessay-box">
-                            <div class="textbox">
-                                    <h6 class="box-category">PHOTOESSAY</h6>
-                                    <h2 class="box-title">Foundations</h2>
-                                    <p class="box-credits">By: Jason Mariano and Aldo Santiago</p>
-                            </div>
-                    </div>
-                </div>
-                <div class="flex-container-2">
-                    <div class="wtd-box">
-                            <div class="textbox">
-                                    <h6 class="box-category">ARTICLE</h6>
-                                    <h2 class="box-title">World Teacher's Day</h2>
-                                    <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
-                            </div>
-                    </div>
-                    <div class="docu-box">
-                            <div class="textbox">
-                                    <h6 class="box-category">MINI DOCUMENTARY</h6>
-                                    <h2 class="box-title">The Maranao’s continued displacement</h2>
-                                    <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
-                            </div>
-                    </div>
-                </div>
-        </div>
-        <div class="footer">
-            
-                <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
-                <p class="first-footer-sent">ABOUT THE INTERACTIVE</p>
-                <p class="footer-content">An immersive journalism project by The GUIDON in 2019</p>
-                <p class="footer-content">Introduction written by [Name]</p>
-                <p class="footer-content">Interactive by Alannah Mitra, Bea Martin, Bea Sison, Cobbie Quintos, Keith Bartido, Prezil Ong, and Zekie Ordoveza</p>
-                <p class="footer-content">Photos by Aldo Santiago and Jason Mariano</p>
-                <p class="footer-content">Videos by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia </p>
-
-
-        </div>
-        <div class=""></div>
-    </div>
+<CardsSection />
+</PageLayout>
 </template>
 
 <script>
+import CardsSection from '~/components/CardsSection'
 export default {
-    
+    name: 'RehabilitationEfforts',
+    components: {
+        CardsSection
+    }
 }
 </script>
 
@@ -109,21 +53,6 @@ body {
 	font-family: 'Tiempos Text';
 	background-color: black;
 }
-html, body {
-    margin: 0;
-    padding: 0;
-}
-
-/*body {
-    opacity: 1;
-	transition: 1s opacity;
-    }
-
-body.fade-out {
-	opacity: 0;
-	transition: none;
-    }*/
-
 h5,h6{
 	 margin: auto;
     width: 50%;
@@ -188,11 +117,16 @@ h6{
 }
 
 .landing-container{
-	position: absolute; top: 0; left: 0;
-	/*position:relative;*/	
-	overflow:hidden;
-	  min-width: 100%;
-  	min-height: 100%;	
+    height: 100vh;
+    background: linear-gradient(0deg, #000000 0.05%, 
+				rgba(8, 8, 8, 0.885114) 22.53%, 
+				rgba(12, 12, 12, 0.764107) 40.97%, 
+				rgba(7, 7, 7, 0.665789) 45.26%, 
+				rgba(52, 52, 52, 0.513483) 60.65%, 
+				rgba(90, 91, 94, 0.346275) 82.36%, 
+				rgba(111, 111, 114, 0.205556) 90.42%, 
+				rgba(126, 126, 129, 0.112842) 97.68%, 
+				rgba(196, 196, 196, 0) 100%), url(../assets/bg.jpg) center 80%; 
 }
 
 
@@ -201,7 +135,6 @@ h6{
 	filter: contrast(0.8) brightness(1.1);
 	transform: scale(1.72);
 	background-repeat: no-repeat no-repeat;
-	/*background-position: center;*/
 	background-attachment: local;	
 	background-size: 100% 100%; 
 	max-width: 100%;
@@ -223,13 +156,10 @@ h6{
 
 .landing-bg{
 	display: block;
-    position: absolute;
+    /* position: absolute; */
     width: 100%;
     height: 101%;
     background-color: rgba(0,0,0,0.4);
-    z-index: 5;
-    top: 0;
-    left: 0;
 	background: linear-gradient(0deg, #000000 0.05%, 
 				rgba(8, 8, 8, 0.885114) 22.53%, 
 				rgba(12, 12, 12, 0.764107) 40.97%, 
@@ -244,20 +174,8 @@ h6{
 	box-sizing: border-box;
 }
 
-.landing-bn{ 
-	z-index: 1;
-	font-family: 'Tiempos Bold';
-	font-style: normal;
-	font-weight: normal;
-	padding-top: 31em;
-	font-size: 12px;
-	line-height: 21px;
-	letter-spacing: 0.05em;
-	text-align: center;
-	color: #BB97FB;
-}
-
 .landing-head{
+    padding-top: 200px;
 	text-align: center;
 	font-style: normal;
 	font-weight: normal;
@@ -291,14 +209,13 @@ h6{
 }
 
 .video-container{
-	padding-top: 10em;
-	padding-bottom: 74em;
+    height:100vh;
+    background-color: black;
 }
 .video{
 	position: relative;
-	width: 1258px;
+	/* width: 100%; */
 	height: 710px;
-	top: 998px;
  	display: block;
   	margin-left: auto;
   	margin-right: auto;
@@ -336,163 +253,5 @@ h6{
     animation: fadeIn;
     animation-duration: 3s;
     
-}
-
-.stories{
-    text-align: center;
-    background-image: url(../assets/bg-2.png), linear-gradient(to bottom, #000417 0%, rgba(196, 196, 196, 0) 194.29%);
-    height: 1324px;
-    margin: 0;
-    background-blend-mode: darken;
-    margin-top: -68px;
-    overflow: auto;
-    background: #F6F6F6;
-    margin-bottom: -170px;
-}
-
-.stories-box{
-	  background: #0F3976;
-	  width: 340px;
-	  height: 35px;
-	  margin-left: auto;
-      margin-right: auto;
-}
-
-.stories-header{
-	font-family: 'Tiempos Bold';
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 34px;
-    margin-top: 154px;
-    color: #FFFFFF;
-}
-
-.flex-container-1{
-    display: flex;
-    width: 1112px;
-    justify-content: space-between;
-    margin: 0 auto;
-    margin-top: 64px;
-}
-
-.kf-box{
-    background-image: url(../assets/keepin-faith-thumbnail.png);
-}
-
-.kf-box,
-.photoessay-box{
-    width: 313px;
-    height:391px;
-}
-
-.bn-box{
-    width: 426px;
-    height:391px;
-    filter: grayscale(1);
-    background-image: url(../assets/marawi-rehab-thumbnail.png);
-}
-
-.photoessay-box{
-    background-image: url(../assets/photoessay-thumbnail.png);
-}
-
-.flex-container-2{
-    display: flex;
-    width: 1112px;
-    justify-content: space-between;
-    margin: 0 auto;
-    margin-top: 31px;
-}
-
-.wtd-box{
-    width: 427px;
-    height: 391px;
-    background-image: url(../assets/wtd-thumbnail.png);
-
-}
-.docu-box{
-    width: 655px;
-    height: 391px;
-    background-image: url(../assets/mini-docu-thumbnail.png);
-}
-
-.textbox{
-    background: rgba(28,68,128, 0.75);
-    backdrop-filter: blur(20px);
-    position: relative;
-    overflow: auto;
-    height: 124px;
-    top: 267px;
-    cursor: pointer;
-    transition-duration: 0.7s;
-}
-
-.textbox:hover{
-    height: 391px;
-    top: 0px;
-    transition-duration: 0.7s;
-}
-
-.textbox-bn{
-    background: rgba(1, 4, 24, 0.75);
-    backdrop-filter: blur(20px);
-    position: relative;
-    overflow: auto;
-    height: 124px;
-    top: 267px;
-    
-    transition-duration: 0.7s;
-}
-.box-category,
-.box-title,
-.box-credits{
-    text-align: left;
-    margin-left: 25px;
-
-}
-.box-category{
-    color: #5597FB;
-    font-size: 10px;
-    line-height: 12px;
-    margin-top: 20px;
-}
-
-.box-title{
-    margin-top: 6px;
-    font-size: 21px;
-line-height: 25px;
-	color: #FFFFFF;
-}
-
-.box-credits{
-    margin-top: 10.54px;
-    font-size: 12px;
-    line-height: 14px;
-    color: #AFAFAF;
-}
-
-.footer{
-    height: 450px;
-    background-color: #1C4480;
-    font-size: 14px;
-    line-height: 150%;
-}
-
-.gdn-horizontal
-{
-    margin-left: 87px;
-    margin-top: 101px;
-}
-
-.first-footer-sent{
-    margin-top: 48px;
-    margin-left: 87px;
-     color: #FFFFFF;
-}
-.footer-content{
-    margin-left: 87px;
-    margin-top: 10px;
-     color: #FFFFFF;	
 }
 </style>

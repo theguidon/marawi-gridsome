@@ -28,8 +28,6 @@
 <script>
 import animated from 'animate.css';
 import CardsSection from '~/components/CardsSection.vue'
-import Footer from '~/components/Footer.vue'
-import HeaderNavbar from '~/components/HeaderNavbar.vue'
 
 export default {
   name: 'Landing',
@@ -43,8 +41,6 @@ export default {
   },
   components: {
       CardsSection,
-      Footer,
-      HeaderNavbar
   }
 }
  
