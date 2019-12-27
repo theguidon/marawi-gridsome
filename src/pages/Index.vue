@@ -1,6 +1,6 @@
 <template>
-<div>
-    <HeaderNavbar />
+<!-- <div> -->
+    <PageLayout>
         <div class="hdr">
             <div class="animated fadeInDown header-logo delay-1s"><g-image src="../assets/logo-clear.png"/></div>
             <h1 class="animated fadeInDown slow delay-1s">Catching Light</h1>
@@ -23,9 +23,9 @@
                 <g-image class="scroll-triangle scroll-down-top" src="../assets/scroll-down-triangle-blue.svg" />
             </div>
         </CardsSection>
-        <Footer />
-        <div class=""></div>
-    </div>
+        </PageLayout>
+        <!-- <div class=""></div> -->
+    <!-- </div> -->
 </template>
 
 <script>
