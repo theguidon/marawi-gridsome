@@ -86,7 +86,7 @@ export default {
     title: 'Marawi Interactives',
   }
 }
-
+ 
 // $(document).ready(function () {
 //     function isScrolledIntoView(elem)
 //     {
