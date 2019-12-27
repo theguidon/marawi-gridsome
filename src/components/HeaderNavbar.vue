@@ -4,7 +4,7 @@
         <div class="left-side">
             <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/>
             <div class="hr"></div>
-            <span>Now viewing: {{title}}</span>
+            <span>{{title}}</span>
         </div>
         <div class="right-side">
             <g-image src="../assets/left-arrow.svg" class="arrow" />
@@ -166,7 +166,7 @@ align-items: center;
 }
 
 .left-side{
-    width: 540px;
+    width: 460px;
 }
 
 .right-side{

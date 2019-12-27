@@ -1,7 +1,7 @@
 <template>
     <PageLayout title="The GUIDON Interactive: Marawi">
         <div class="hdr">
-            <div class="animated fadeInDown header-logo delay-1s"><g-image src="../assets/logo-clear.png"/></div>
+            <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/logo-clear.png"/></div>
             <h1 class="animated fadeInDown slow delay-1s">Catching Light</h1>
             <h3 class="animated fadeInDown slow delay-1s">The Faces of Marawi</h3>
             <hr class="animated fadeInDown slow delay-1s">
@@ -130,7 +130,6 @@ export default {
 
 .header-logo{
     animation-name: fadeInDown;
-    animation-duration: 9s;
 }
 
 .bounce{

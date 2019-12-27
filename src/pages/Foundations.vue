@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <PageLayout title='Foundations'>
      <header class="masthead">
       <div class="container h-100">
         <div class="row h-100 align-items-center">
@@ -839,10 +839,12 @@
         <br />their hope for the day they can finally return to their own homes in peace.
       </h1>
     </div> 
-  </div>
+    <CardsSection />
+  </PageLayout>
 </template>
 
 <script>
+import CardsSection from '~/components/CardsSection.vue'
 export default {
   name: "Foundations",
   metaInfo: {
@@ -861,8 +863,12 @@ export default {
         integrity:
           "sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
       }
-    ]
-  }
+    ],
+    
+  },
+  components: {
+      CardsSection
+    }
 };
 </script>
 
