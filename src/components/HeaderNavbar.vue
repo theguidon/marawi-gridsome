@@ -24,13 +24,18 @@
 
         <div id="sidebar">
             <h1 class="title">MARAWI {{title}}</h1>
-            <div class="section section-1">Keeping Faith</div>
+        
+            <div class="section section-1"><g-link to="/keeping-faith/">Keeping Faith</g-link></div>
             <hr>
-            <div class="section">Marawi's Rehabilitation Efforts</div>
-            <div class="section">Foundations</div>
-            <div class="section">Beyond makeshift classrooms</div>
+        
+            <div class="section"><g-link to="/rehabilitation-efforts/">Marawi's Rehabilitation Efforts</g-link></div>
+       
+            <div class="section"> <g-link to="/foundations/">Foundations </g-link></div>
+        
+            <div class="section"><g-link to="/world-teachers-day/">Beyond makeshift classrooms</g-link></div>
             <hr>
-            <div class="section">The Maranao's Continued Displacement</div>
+        
+            <div class="section"><g-link to="/vo/">The Maranao's Continued Displacement</g-link></div>
             <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/>
 
         </div>
@@ -72,6 +77,7 @@ font-style: normal;
 font-weight: normal;
 font-size: 12px;
 line-height: 14px;
+text-decoration: none;
   margin: 0;
   padding: 0;
   border: 0;

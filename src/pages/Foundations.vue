@@ -1,62 +1,5 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg static-top" style="background-color: #1C4480;">
-      <div class="container">
-        <span class="open-slide">
-          <a href="#" onclick="openSlideMenu()">
-            <i class="fas fa-bars"></i>
-          </a>
-        </span>
-        <g-image src="../assets/logo.png" alt />/
-        <!-- </a> -->
-        /
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a
-              class="nav-link"
-              style="color: white; margin-top: 10px; border-left: 1px solid rgba(246, 246, 246, 0.3);;"
-            >
-              Now
-              Viewing: Foundations
-            </a>
-          </li>
-        </ul>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="#">Prev</a>
-            </li>
-            <div class="divider-1"></div>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Next ></a>
-            </li>
-            <div class="divider-2"></div>
-            <li class="nav-item">
-              <a class="nav-link" href="#">
-                <i class="fab fa-facebook-f"></i>
-              </a>
-            </li>
-            <div class="divider-2"></div>
-            <li class="nav-item">
-              <a class="nav-link" href="#">
-                <i class="fab fa-twitter" style="border-left: thin;"></i>
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="side-menu" class="side-nav">
-          <a href="#" class="btn-close" onclick="closeSlideMenu()">&times;</a>
-          <p>STORIES FROM THE ISLAMIC CITY</p>
-          <a href="#">Keeping Faith</a>
-          <a href="#">Marawi's Rehabilitation Effort</a>
-          <a href="#">Foundations</a>
-          <a href="#">World Teachers Day</a>
-          <a href="#">The Maranao's Continued Displacement</a>
-          <g-image src="../assets/logo.png" />
-        </div>
-      </div>
-    </nav>
-
     <header class="masthead">
       <div class="container h-100">
         <div class="row h-100 align-items-center">
@@ -71,13 +14,12 @@
             </h3>
             <h2>By Jason Mariano and Aldo Santiago</h2>/
             <!-- <div class="animated delay-1s scroll-animation-div"> -->
-            /
+            
             <h6 class="animated delay-1s scroll-down-top">Scroll Down</h6>
             <g-image
               class="animated delay-1s scroll-triangle"
               src="../assets/scroll-down-triangle.svg"
             />
-            <!-- </div> -->
             
           </div>
         </div>
@@ -91,7 +33,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -133,7 +74,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
     
       </div>
       <div class="text col-md-5">
@@ -160,7 +100,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -184,7 +123,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -206,7 +144,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -233,7 +170,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -269,7 +205,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -294,7 +229,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -325,7 +259,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -347,7 +280,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -372,7 +304,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -397,7 +328,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -421,7 +351,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -452,7 +381,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -477,7 +405,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -503,7 +430,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -535,7 +461,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -560,7 +485,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -583,7 +507,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -605,7 +528,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -630,7 +552,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -650,7 +571,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -677,7 +597,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -698,7 +617,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -724,7 +642,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -748,7 +665,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -772,7 +688,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -801,7 +716,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -823,7 +737,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -849,7 +762,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -873,7 +785,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -901,7 +812,6 @@
           alt
           style="margin: auto;"
         />
-        <!-- </a> -->
         
       </div>
       <div class="text col-md-5">
@@ -929,92 +839,30 @@
         <br />their hope for the day they can finally return to their own homes in peace.
       </h1>
     </div>
-
-    <div class="the-narratives">
-      <h2 class="the-narratives-header">STORIES FROM THE ISLAMIC CITY</h2>
-      <div class="flex-container-1">
-        <div class="animated fadeIn slow kf-box">
-          <div class="textbox">
-            <h6 class="box-category">ARTICLE</h6>
-            <h2 class="box-title">Keeping Faith</h2>
-            <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
-          </div>
-        </div>
-        <div class="bn-box">
-          <div class="textbox">
-            <h6 class="box-category">BROADCAST NEWS</h6>
-            <h2 class="box-title">Marawi’s Rehabilitation Efforts</h2>
-            <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
-          </div>
-        </div>
-        <div class="photoessay-box">
-          <div class="textbox">
-            <h6 class="box-category">PHOTOESSAY</h6>
-            <h2 class="box-title">Foundations</h2>
-            <p class="box-credits">By: Jason Mariano and Aldo Santiago</p>
-          </div>
-        </div>
-      </div>
-      <div class="flex-container-2">
-        <div class="wtd-box">
-          <div class="textbox">
-            <h6 class="box-category">ARTICLE</h6>
-            <h2 class="box-title">World Teacher's Day</h2>
-            <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
-          </div>
-        </div>
-        <div class="docu-box">
-          <div class="textbox">
-            <h6 class="box-category">MINI DOCUMENTARY</h6>
-            <h2 class="box-title">The Maranao’s continued displacement</h2>
-            <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="footer">
-      /
-      <!-- <div class="footer-content"> -->
-      /
-      <g-image class="gdn-horizontal" src="../assets/logo.png" />
-      <p class="first-footer-sent">ABOUT THE INTERACTIVE</p>
-      <p class="footer-content">An immersive journalism project by The GUIDON in 2019</p>
-      <p class="footer-content">Introduction written by [Name]</p>
-      <p class="footer-content">
-        Interactive by Alannah Mitra, Bea Martin, Bea Sison, Cobbie Quintos,
-        Davin Cuaso, Keith Bartido, Prezil Ong, and Zekie Ordoveza
-      </p>
-      <p class="footer-content">Photos by Aldo Santiago and Jason Mariano</p>
-      <p
-        class="footer-content"
-      >Videos by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>/
-      <!-- </div> -->
-      /
-    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "Foundations",
-  metaInfo: {
-    title: "Foundations",
-    meta: [
-      { name: "viewport", content: "width=device-width, initial-scale=1.0" },
-      { charset: "UTF-8" },
-      { httpEquiv: "X-UA-Compatible", content: "ie=edge" }
-    ],
-    link: [
-      {
-        rel: "stylesheet",
-        href:
-          "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
-        crossorigin: "anonymous",
-        integrity:
-          "sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-      }
-    ]
-  }
+  // name: "Foundations",
+  // metaInfo: {
+  //   title: "Foundations",
+  //   meta: [
+  //     { name: "viewport", content: "width=device-width, initial-scale=1.0" },
+  //     { charset: "UTF-8" },
+  //     { httpEquiv: "X-UA-Compatible", content: "ie=edge" }
+  //   ],
+  //   link: [
+  //     {
+  //       rel: "stylesheet",
+  //       href:
+  //         "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
+  //       crossorigin: "anonymous",
+  //       integrity:
+  //         "sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+  //     }
+  //   ]
+  // }
 };
 </script>
 

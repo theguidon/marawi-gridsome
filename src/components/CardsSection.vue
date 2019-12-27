@@ -4,41 +4,51 @@
     <h2 class="the-narratives-header">STORIES FROM THE ISLAMIC CITY</h2>
     <div class="flex-container-1">
       <div class="animated fadeIn slow kf-box">
+        <g-link to="/keeping-faith/">
         <div class="textbox">
           <h6 class="box-category">ARTICLE</h6>
           <h2 class="box-title">Keeping Faith</h2>
           <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
         </div>
+        </g-link>
       </div>
       <div class="bn-box">
+        <g-link to="/rehabilitation-efforts/">
         <div class="textbox">
           <h6 class="box-category">BROADCAST NEWS</h6>
           <h2 class="box-title">Marawi’s Rehabilitation Efforts</h2>
           <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
         </div>
+        </g-link>
       </div>
       <div class="photoessay-box">
+        <g-link to="/foundations/">
         <div class="textbox">
           <h6 class="box-category">PHOTOESSAY</h6>
           <h2 class="box-title">Foundations</h2>
           <p class="box-credits">By: Jason Mariano and Aldo Santiago</p>
         </div>
+        </g-link>
       </div>
     </div>
     <div class="flex-container-2">
       <div class="wtd-box">
+      <g-link to="/world-teachers-day/">
         <div class="textbox">
           <h6 class="box-category">ARTICLE</h6>
           <h2 class="box-title">World Teacher's Day</h2>
           <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
         </div>
+        </g-link>
       </div>
       <div class="docu-box">
+        <g-link to="/vo/">
         <div class="textbox">
           <h6 class="box-category">MINI DOCUMENTARY</h6>
           <h2 class="box-title">The Maranao’s continued displacement</h2>
           <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
         </div>
+        </g-link>
       </div>
     </div>
   </div>
@@ -60,6 +70,7 @@ export default {
   background: transparent;
   font-family: "Tiempos Text";
   color: #ffffff;
+  text-decoration: none;
 }
 
 .the-narratives {

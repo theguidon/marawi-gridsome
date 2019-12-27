@@ -15,12 +15,9 @@ export default function (Vue, { router, head, isClient }) {
     rel: 'stylesheet'
   })
 
-  // head.link.push({
-  //   rel: 'stylesheet',
-  //   href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css'
-  // })
+  router.scrollBehavior = function(to, from, savedPosition) {
+    // ...
+    return {x:0, y:0}
+  }
 
-  // head.script.push({
-  //   src: 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'
-  // })
 }
