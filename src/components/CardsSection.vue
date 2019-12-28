@@ -42,7 +42,7 @@
         </g-link>
       </div>
       <div class="docu-box">
-        <g-link to="/vo/">
+        <g-link to="/continued-displacement/">
         <div class="textbox">
           <h6 class="box-category">MINI DOCUMENTARY</h6>
           <h2 class="box-title">The Maranao’s continued displacement</h2>
@@ -190,13 +190,13 @@ export default {
   margin-top: 6px;
   font-size: 21px;
   line-height: 25px;
+  font-family: 'Tiempos Bold';
 }
 
 .box-credits {
   margin-top: 10.54px;
   font-size: 12px;
   line-height: 14px;
-  color: #afafaf;
 }
 
 @media screen and (max-device-width: 420px) {

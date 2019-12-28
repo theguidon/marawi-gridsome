@@ -2,9 +2,10 @@
     <div id="header-container">
         <div id="header-flexbox">
         <div class="left-side">
-            <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/>
+            <!-- <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/> -->
+            <g-image src="../assets/GDN_Horizontal-whitetext.svg" class="logo"/>
             <div class="hr"></div>
-            <span>{{title}}</span>
+            <span class="page-title">{{title}}</span>
         </div>
         <div class="right-side">
             <g-image src="../assets/left-arrow.svg" class="arrow" />
@@ -91,6 +92,11 @@ text-decoration: none;
     width: 200px;
     height: 26px;
 }
+
+.page-title{
+    font-size: 14px;
+    font-family: 'Tiempos Text'
+}
 #header-flexbox-mobile>*{
     display: none;
 }
@@ -149,7 +155,8 @@ hr{
 
 
 #header-container{
-    height: 70px;
+    /* height: 70px; */
+    height: 5vw;
     width: 100vw;
     background: #1C4480;
 }
@@ -166,7 +173,8 @@ align-items: center;
 }
 
 .left-side{
-    width: 460px;
+    width: 40vw;
+    height: 1vw;
 }
 
 .right-side{
@@ -184,7 +192,7 @@ align-items: center;
 .hr{
     border: 1px solid rgba(246, 246, 246, 0.3);
     transform: rotate(90deg);
-    width: 70px;
+    width: 5vw;
 }
 
 .hr-2{

@@ -1,6 +1,7 @@
 <template>
     <div class="footer">
-                <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" />
+                <!-- <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" /> -->
+                <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.svg" />
                 <p class="footer-content">
                     ABOUT THE INTERACTIVE
                     <br>
@@ -24,8 +25,15 @@ export default {
 </script>
 
 <style scoped>
-*{
+@font-face{
+	font-family: 'Tiempos Text';
+	src: url("../assets/Tiempos Text - Regular.otf");
+}
+
+* {
+    font-family: 'Tiempos Text';
     color: white;
+
 }
 .footer{
     height: 407px;
@@ -38,6 +46,8 @@ export default {
 .gdn-horizontal
 {
     margin-top: 60px;
+    width: 276px;
+    height: 45px;
 }
 
 .footer-content{

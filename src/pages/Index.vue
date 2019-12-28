@@ -1,7 +1,9 @@
 <template>
     <PageLayout title="The GUIDON Interactive: Marawi">
         <div class="hdr">
-            <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/logo-clear.png"/></div>
+            <!-- <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/logo-clear.png"/></div> -->
+            <!-- <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/90thYear_Logo (WHITE).png"/></div> -->
+            <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/03 90th Year Logo (WHITE).svg"/></div>
             <h1 class="animated fadeInDown slow delay-1s">Catching Light</h1>
             <h3 class="animated fadeInDown slow delay-1s">The Faces of Marawi</h3>
             <hr class="animated fadeInDown slow delay-1s">
@@ -43,63 +45,18 @@ export default {
       CardsSection,
   }
 }
- 
-// $(document).ready(function () {
-//     function isScrolledIntoView(elem)
-//     {
-//         var docViewTop = $(window).scrollTop();
-//         var docViewBottom = docViewTop + $(window).height();
-    
-//         var elemTop = $(elem).offset().top;
-//         var elemBottom = elemTop + $(elem).height();
-    
-//         return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
-//     }
-    
-//     var item = document.getElementsByClassName("p1");
-//     if (isScrolledIntoView(item)){
-//         console.log('visible');
-//     }
-
-//     $(".scroll-triangle").click(function (e) { 
-//         e.preventDefault();
-//         $(".p1")[0].scrollIntoView()
-//     });
-
-//     var comeFromTop = true;
-//     var aboveNarratives = true;
-//     var secondScrollPos = $(".scroll-down-top2").offset().top - 450;
-//     $(window).scroll(function (event) {
-//         console.log(`secondScrollPos: ${secondScrollPos}`);
-//         var scroll = $(window).scrollTop();
-//         console.log(`scroll: ${scroll}`);
-//         // Do something
-//         if (scroll >= 232 && comeFromTop){
-//             $([document.documentElement, document.body]).animate({
-//                 scrollTop: $(".main-text").offset().top - 70
-//             }, 2000);
-//             comeFromTop = false;
-//             console.log('set comeFromTop to false');
-//             $(".p1, .p2, .p3").addClass("animated fadeInDown delay-2s")
-
-//         } else if (scroll < 232 && !comeFromTop){
-//             comeFromTop = true;
-//             console.log('set comeFromTop to true');
-//         } else if (scroll >= secondScrollPos && aboveNarratives){
-//             aboveNarratives = false;
-//             $([document.documentElement, document.body]).animate({
-//                 scrollTop: $(".the-narratives-header").offset().top - 70
-//             }, 2000);
-//         } else if (scroll < secondScrollPos && !aboveNarratives){
-//             aboveNarratives = true;
-//             console.log('aboveNarratives set to true')
-//         }
-//     });
-//     console.log(window.pageYOffset);
-// });
 </script>
 
 <style scoped>
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("../assets/Tiempos Text - Regular.otf");
+}
+
+@font-face {
+    font-family: 'Tiempos Text - Bold Italic';
+    src: url("../assets/Tiempos Text - Bold Italic.otf")
+}
 * {
     margin: 0;
     padding: 0;
@@ -128,39 +85,37 @@ export default {
     
 }
 
-.header-logo{
-    animation-name: fadeInDown;
-}
 
 .bounce{
     animation-iteration-count: infinite;
     animation-duration: 4s;
 }
 
-.header-logo{
-     margin-top: 128px;
-}
 .header-logo,
 h1,
 h3, 
 hr, 
 h5,
 h6{
-        margin: auto;
+        margin: 0 auto;
         width: 50%;
 }
+.header-logo{
+    animation-name: fadeInDown;
+     margin-top: -80px;
+}
+
 h1{
     font-size: 64px;
     line-height: 77px;
     width: 485px;
-    font-style: italic;
     margin-top: 64px;
-    font-family: 'Tiempos Text - Bold Italic'
+    font-family: 'Tiempos Text - Bold Italic';
 }
 
 h3{
     margin-top: 8px;
-    font-family: 'Tiempos Text - Regular';
+    font-family: 'Tiempos Text';
     font-size: 24px;
     line-height: 29px;
     font-weight: normal;
@@ -275,7 +230,7 @@ hr{
         height: 690px;
         padding-top: 66px;
     background-image: url(../assets/mobile-landing-hdr-bg.png), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
-        background-position: 80% 0%;
+        background-position: 60% 0%;
     }
     .hdr>h1{
         width: 80vw;
