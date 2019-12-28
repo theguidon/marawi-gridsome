@@ -7,17 +7,15 @@ import PageLayout from '~/layouts/PageLayout.vue'
 
 
 export default function (Vue, { router, head, isClient }) {
-  // Set default layout as a global component
   Vue.component('PageLayout', PageLayout)
 
-  head.link.push({
-    href: 'https://fonts.googleapis.com/css?family=Chivo&display=swap',
-    rel: 'stylesheet'
-  })
+    router.options.scrollBehavior = function(to, from , savedPosition) {
+      document.getElementById('app').scrollIntoView();
+      return null;
+    }
 
-  router.scrollBehavior = function(to, from, savedPosition) {
-    // ...
-    return {x:0, y:0}
+    head.link.push({
+      href: 'https://fonts.googleapis.com/css?family=Chivo&display=swap',
+      rel: 'stylesheet'
+    })
   }
-
-}
