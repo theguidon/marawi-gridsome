@@ -24,7 +24,7 @@
       </div>
     </div>
 
-    <div id="sidebar">
+    <div id="sidebar" v-show="showSideBar">
       <h1 class="title">{{title}}</h1>
 
       <div class="section section-1">
@@ -57,15 +57,18 @@
 export default {
   name: "HeaderNavbar",
   data() {
-    return {};
+    return {
+        showSideBar:false,
+    };
   },
   props: ['title', 'prev', 'next'],
   methods: {
     toggleSidebar: function() {
-      var sidebar = document.getElementById("sidebar").style.display;
-      sidebar = "none"
-        ? (document.getElementById("sidebar").style.display = "block")
-        : (document.getElementById("sidebar").style.display = "none");
+    //   var sidebar = document.getElementById("sidebar").style.display;
+    //   sidebar = "none"
+    //     ? (document.getElementById("sidebar").style.display = "block")
+    //     : (document.getElementById("sidebar").style.display = "none");
+    this.showSideBar = !this.showSideBar
       console.log("clicked");
     }
   }
@@ -121,7 +124,7 @@ export default {
   /* align-items: center; */
 }
 #sidebar {
-  display: none;
+  display: block;
   position: fixed;
   top: 0;
   height: 100vh;
