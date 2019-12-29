@@ -29,7 +29,7 @@
     enter-active-class="animated slideInLeft"
     leave-active-class="animated slideOutLeft"
     key="sidebarKey">
-        <div id="sidebar" v-if="showSideBar">
+        <div id="sidebar" v-if="showSideBar" v-click-outside="hideSideBar" :duration="{ enter: 500, leave: 800 }">
           <h1 class="title">{{title}}</h1>
     
           <div class="section section-1">
@@ -61,6 +61,8 @@
 
 <script>
 import animated from 'animate.css';
+import vClickOutside from 'v-click-outside'
+
 export default {
   name: "HeaderNavbar",
   data() {
@@ -77,7 +79,16 @@ export default {
     //     : (document.getElementById("sidebar").style.display = "none");
     this.showSideBar = !this.showSideBar
       console.log("clicked");
+    },
+
+    hideSideBar(event){
+        if (this.showSideBar === true){
+            this.showSideBar = false
+        }
     }
+  },
+  directives: {
+      clickOutside: vClickOutside.directive
   }
 };
 </script>
@@ -246,10 +257,10 @@ hr {
 .fade-leave-active{
     transition: opacity .5s
 }
-.fade-enter,
+/* .fade-enter,
 .fade-leave-to{
     opacity: 0
-}
+} */
 
 @media screen and (max-device-width: 420px) {
   #header-container {

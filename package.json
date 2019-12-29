@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "animate.css": "^3.7.2",
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.0",
+    "v-click-outside": "^3.0.0"
   }
 }
