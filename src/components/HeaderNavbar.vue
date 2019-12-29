@@ -4,8 +4,9 @@
         <div class="left-side">
             <!-- <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/> -->
             <g-image src="../assets/GDN_Horizontal-whitetext.svg" class="logo"/>
-            <div class="hr"></div>
-            <span class="page-title">{{title}}</span>
+            <!-- <div class="hr-1"></div> -->
+            <!-- <hr> -->
+            <div class="page-title">{{title}}</div>
         </div>
         <div class="right-side">
             <g-image src="../assets/left-arrow.svg" class="arrow" />
@@ -94,8 +95,11 @@ text-decoration: none;
 }
 
 .page-title{
-    font-size: 14px;
-    font-family: 'Tiempos Text'
+    font-size: 16px;
+    padding-top: 5px;
+    font-family: 'Tiempos Text';
+    overflow-x: visible;
+    overflow-y: visible
 }
 #header-flexbox-mobile>*{
     display: none;
@@ -148,6 +152,7 @@ hr{
 
 }
 
+
 #sidebar>.logo{
     position: absolute;
     bottom: 32px;
@@ -155,8 +160,8 @@ hr{
 
 
 #header-container{
-    /* height: 70px; */
-    height: 5vw;
+    height: 65px;
+    /* height: 5vw; */
     width: 100vw;
     background: #1C4480;
 }
@@ -164,17 +169,20 @@ hr{
 #header-flexbox{
 width: 90vw;
 margin-left: 3vw;
-padding-top: 19px;
+padding-top: 23px;
 display: flex;
 justify-content: space-between;
 align-items: center;
-    font-family: Chivo;
+font-family: Chivo;
 
 }
 
 .left-side{
-    width: 40vw;
+    width: 300px;
+    /* width: 30vw; */
     height: 1vw;
+    overflow: visible;
+    overflow-x: visible;
 }
 
 .right-side{
@@ -185,15 +193,18 @@ align-items: center;
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 
 
-.hr{
+.hr-1{
     border: 1px solid rgba(246, 246, 246, 0.3);
     transform: rotate(90deg);
-    width: 5vw;
-}
+    width: 67px;
+    visibility: hidden;
+} 
+
 
 .hr-2{
     border: 0.5px solid white;

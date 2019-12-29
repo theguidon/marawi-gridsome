@@ -24,7 +24,10 @@
 <script>
 import CardsSection from '~/components/CardsSection'
 export default {
-    name: 'RehabilitationEfforts',
+	name: 'RehabilitationEfforts',
+	metaInfo: {
+		title: 'Marawi\'s Rehabilitation Efforts'
+	},
     components: {
         CardsSection
     }
