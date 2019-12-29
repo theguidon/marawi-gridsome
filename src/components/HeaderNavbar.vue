@@ -6,7 +6,7 @@
         <g-image src="../assets/GDN_Horizontal-whitetext.svg" class="logo" />
         <!-- <div class="hr-1"></div> -->
         <!-- <hr> -->
-        <div class="page-title">{{title}}</div>
+        <!-- <div class="page-title">{{title}}</div> -->
       </div>
       <div class="right-side">
         <g-link :to='prev'><g-image src="../assets/left-arrow.svg" class="arrow" /></g-link>
@@ -126,6 +126,7 @@ export default {
 .page-title {
   font-size: 16px;
   padding-top: 5px;
+  /* width: 150px; */
   font-family: "Tiempos Text";
   overflow-x: visible;
   overflow-y: visible;
