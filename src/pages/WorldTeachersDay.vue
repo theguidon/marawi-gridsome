@@ -5,8 +5,8 @@
       <div class="fad">
         <div class="landing-elems">
           <span><h6 id='h61'>ARTICLE</h6></span>
-          <h1 style="color:#FFFFFF;">Beyond makeshift classrooms</h1>
-          <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus<br> sodales porttitor risus, non viverra lorem vestibulum eget.</h5>
+          <h1 style="color:#FFFFFF;" class="main-title">Beyond makeshift classrooms</h1>
+          <h5 id = "blurb-header1">Despite lacking facilities, determined educators have established makeshift schools so that the displaced youth may find themselves in classrooms once again. But what else can government and non-government agencies provide to ease their plight?</h5>
           <h6 id='h6-2'>By Danielle R. Garcia and Alithea C. Soriano</h6>
         </div>
       </div>
@@ -19,7 +19,7 @@
     <div class="c-elem2">
       <span><h6 id='h61'>ARTICLE</h6></span>
       <span><h1>Beyond makeshift classrooms</h1></span>
-      <span><h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus<br> sodales porttitor risus, non viverra lorem vestibulum eget.</h5></span>
+      <span><h5>Despite lacking facilities, determined educators have established makeshift schools so that the displaced youth may find themselves in classrooms once again. But what else can government and non-government agencies provide to ease their plight?</h5></span>
       <span><h6 style="font-family: Chivo; font-size:15px;">By Danielle R. Garcia and Alithea C. Soriano</h6></span>
     <br>
   </div>
@@ -162,6 +162,30 @@ h1{
   font-family: 'Tiempos Bold'
 }
 
+#blurb-header1{
+  font-size: 16px;
+  line-height: 22px;
+  /* width: 578px; */
+  width: 80vw;
+  padding-top: 8px;
+  padding-bottom: 50px;
+  font-weight: normal;
+  /* height: 44px; */
+  text-align: center;
+  margin: 0 auto;
+}
+
+#blurb-header2{
+width: 578px;
+height: 44px;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #3F3F3F;
+
+}
+
 #s1{
   height: 854px;
   margin-bottom: 10px;
@@ -237,6 +261,7 @@ h1{
 .c-elem2{
   margin-bottom: 55px;
   text-align: center;
+
 }
 
 #h61{
@@ -264,6 +289,15 @@ h1{
 .c-elem2>span>h5,.landing-elems>h5{
   margin-bottom: 48px;
   font-size: 18px;
+  
+}
+
+.c-elem2>span>h5{
+  width: 578px;
+height: 44px;
+margin: 0 auto;
+display: block;
+padding-bottom: 100px;
 }
 
 .c-elem3{
@@ -447,11 +481,15 @@ h1{
 
   .fad>.landing-elems>h1{
     margin-bottom: 13px !important;
+font-size: 28px;
+line-height: 34px;
   }
 
   .fad>.landing-elems>h5{
     width: 50%;
     margin-left: 26%;
+    font-size: 16px;
+
   }
 
   #h6-2{
