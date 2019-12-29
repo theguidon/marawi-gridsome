@@ -92,50 +92,6 @@
 
   <section id='s3'>
     <CardsSection />
-    <!-- <div class="s3Head"><g-image src="../assets/s3Head.png" alt=""/></div>
-
-            <div class="the-narratives">
-                <div class="flex-container-1">
-                    <div class=" animated fadIn slow kf-box">
-                        <div class="textbox">
-                            <h6 class="box-category">ARTICLE</h6>
-                            <h2 class="box-title">Keeping Faith</h2>
-                            <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
-                        </div>
-                    </div>
-                    <div class="bn-box">
-                            <div class="textbox">
-                                    <h6 class="box-category">BROADCAST NEWS</h6>
-                                    <h2 class="box-title">Marawi’s Rehabilitation Efforts</h2>
-                                    <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
-                            </div>
-                    </div>
-                    <div class="photoessay-box">
-                            <div class="textbox">
-                                    <h6 class="box-category">PHOTOESSAY</h6>
-                                    <h2 class="box-title">Foundations</h2>
-                                    <p class="box-credits">By: Jason Mariano and Aldo Santiago</p>
-                            </div>
-                    </div>
-                </div>
-                <div class="flex-container-2">
-                    <div class="wtd-box">
-                            <div class="textbox">
-                                    <h6 class="box-category">ARTICLE</h6>
-                                    <h2 class="box-title">World Teacher's Day</h2>
-                                    <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
-                            </div>
-                    </div>
-                    <div class="docu-box">
-                            <div class="textbox">
-                                    <h6 class="box-category">MINI DOCUMENTARY</h6>
-                                    <h2 class="box-title">The Maranao’s continued displacement</h2>
-                                    <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
-                            </div>
-                    </div>
-                </div>
-        </div> -->
-
   </section>
   <div class="s3-mobile">
     <button type="button" id="next-page">NEXT: The Maranao’s<br> continued displacement<span id="arrow"><i class="fas fa-arrow-right" style="color: white;"></i></span>
@@ -151,7 +107,7 @@ import CardsSection from '~/components/CardsSection.vue'
 export default {
   name: 'WTD',
   metaInfo: {
-    title: 'World Teacher\'s Day',
+    title: 'Beyond makeshift classrooms',
     meta: [
         {charset: 'UTF=8'},
         {name: 'viewport', content: 'width=device-width, initial-scale=1.0'},
