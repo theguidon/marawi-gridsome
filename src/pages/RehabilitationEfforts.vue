@@ -1,5 +1,5 @@
 <template>
-<PageLayout title="Marawi's Rehabilitation Efforts">
+<PageLayout title="Marawi's Rehabilitation Efforts" prev='/keeping-faith/' next='/foundations/'>
 
     <div class = 'landing-container'>
 				<h1 class = "animated slow scroll-animation-div landing-head">Marawi's Rehabilitation Efforts</h1>

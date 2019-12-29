@@ -1,5 +1,5 @@
 <template>
-    <PageLayout title="Continued Displacement">
+    <PageLayout title="Continued Displacement" next='/keeping-faith/' prev='world-teachers-day'>
 <div class="temporary">
 <!-- code for the page here -->
 </div>

@@ -1,5 +1,5 @@
 <template>
-  <PageLayout title='Foundations'>
+  <PageLayout title='Foundations' prev='/rehabilitation-efforts/' next='world-teachers-day'>
      <header class="masthead">
       <div class="container h-100">
         <div class="row h-100 align-items-center">

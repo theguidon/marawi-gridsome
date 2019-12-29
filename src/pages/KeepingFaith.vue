@@ -1,5 +1,5 @@
 <template>
-  <PageLayout title="Keeping Faith">
+  <PageLayout title="Keeping Faith" prev='/continued-displacement/' next='/rehabilitation-efforts/'>
     <div class="temporary">
       <!-- code for the page here -->
     </div>
