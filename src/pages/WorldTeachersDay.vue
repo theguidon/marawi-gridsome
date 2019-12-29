@@ -34,7 +34,7 @@
     <span id=quote>
       <div class="ql"><i class="fas fa-quote-left"></i></div>
 
-      <h2><i><span class="qlb">"</span>Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable<span class="qrb">"</span></i></h2>
+      <h2><i><span class="qlb">"</span>"Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable"<span class="qrb">"</span></i></h2>
 
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
@@ -344,6 +344,9 @@ padding-bottom: 100px;
   /* padding: 0 40%; */
   margin: 5px 0% 0px;
   border-style: solid none;
+  border-color: #9FA2C0;
+  /* text-decoration-line: line-through;
+  text-decoration-color: rgba(233, 185, 202, 0.7); */
   border-width: 0.5px;
   text-align: center;
 }

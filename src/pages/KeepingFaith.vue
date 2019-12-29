@@ -57,7 +57,7 @@
     <span id=quote>
       <div class="ql"><i class="fas fa-quote-left"></i></div>
 
-      <h2><i><span class="qlb">"</span>Muslims and Christians protecting each other from harm. Muslims have protected and helped Christians to escape from almost certain death. Even now Christians are assisting thousands of Muslims who have fled from Marawi for safety. These are indisputable signs that there is no religious war,<span class="qrb">"</span></i></h2>
+      <h2><i><span class="qlb">"</span>"Muslims and Christians protecting each other from harm. Muslims have protected and helped Christians to escape from almost certain death. Even now Christians are assisting thousands of Muslims who have fled from Marawi for safety. These are indisputable signs that there is no religious war,"<span class="qrb">"</span></i></h2>
 
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
@@ -112,7 +112,7 @@
       <span id=quote>
         <div class="ql"><i class="fas fa-quote-left"></i></div>
 
-        <h2><i><span class="qlb">"</span><span style="transform: translate(50px,0);">We don’t hold the right to label [Muslims], whether [they] are extreme or moderate,</span><span class="qrb">"</span></i></h2>
+        <h2><i><span class="qlb">"</span><span style="transform: translate(50px,0);">"We don’t hold the right to label [Muslims], whether [they] are extreme or moderate,"</span><span class="qrb">"</span></i></h2>
 
         <div class="qr"><i class="fas fa-quote-right"></i></div>
 
@@ -371,7 +371,7 @@ padding-top: 20px;
   margin-bottom: 50px;
 }
 
-.c-elem3>h4>#blue{
+.c-elem3>#blue{
   background-color: #1C4480;
   color: white;
   padding: 2px 5px;
