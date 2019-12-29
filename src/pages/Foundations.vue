@@ -3,16 +3,13 @@
      <header class="masthead">
       <div class="container h-100">
         <div class="row h-100 align-items-center">
-          <div class="col-12 text-center">
+          <div class="col-12 text-center header-text-div">
             <h5>PHOTOESSAY</h5>
             <h1>Foundations</h1>
             <h3>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-              laboriosam pariatur soluta
-              <br />similique dignissimos delectus et tenetur excepturi debitis
-              voluptate!
+             It has been more than two years since the liberation of Marawi City from armed conflict, but many displaced Maranaos still find themselves situated in temporary shelters. The recent Mindanao calamities and the prolonged rehabilitation process leave Marawi’s former residents to wonder when they will be able to truly start anew.
             </h3>
-            <h2>By Jason Mariano and Aldo Santiago</h2>/
+            <h2>By Jason Mariano and Aldo Santiago</h2>
 
             
             <h6 class="animated delay-1s scroll-down-top">Scroll Down</h6>
@@ -902,6 +899,11 @@ html {
   transition: 0.5s;
 }
 
+.header-text-div>h3{
+  width: 70vw;
+  line-height: 30px;
+  margin: 0 auto;
+}
 .open-slide i {
   color: white;
   margin-right: 20px;
