@@ -115,7 +115,7 @@ export default {
 
 #flexbox-mobile-container {
   width: 60vw;
-  display: flex;
+  display: none;
   justify-content: space-between;
   margin-bottom: 5px;
   /* align-items: center; */
@@ -241,6 +241,11 @@ hr {
   #header-flexbox {
     display: none;
   }
+
+
+#flexbox-mobile-container{
+    display: flex;
+}
   #header-flexbox-mobile > * {
     display: flex;
     width: 160px;
