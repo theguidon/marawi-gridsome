@@ -10,9 +10,9 @@
       </div>
       <div class="right-side">
         <g-link :to='prev'><g-image src="../assets/left-arrow.svg" class="arrow" /></g-link>
-        <span class="prev">Prev</span>
+        <g-link :to='prev'><span class="prev">Prev</span></g-link>
         <div class="hr-2"></div>
-        <span class="next">Next</span>
+       <g-link :to='next'><span class="next">Next</span></g-link>
         <g-link :to='next'><g-image src="../assets/left-arrow.svg" class="arrow right-arrow" /></g-link>
       </div>
     </div>
