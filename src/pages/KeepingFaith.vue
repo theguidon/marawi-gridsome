@@ -190,7 +190,7 @@ export default {
 }
 
 *{
-  font-family: Tiempos Text;
+  font-family: 'Tiempos Text';
 }
 
 html {
@@ -594,6 +594,31 @@ padding-top: 20px;
   background-size:cover;
 }
 
+.landing-elems>h1{
+  font-size: 28px;
+line-height: 34px;
+}
+
+.landing-elems>h5{
+  font-size: 13px;
+  width: 80vw;
+line-height: 24px;
+/* display: none; */
+}
+
+.landing-elems>h6{
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.c-elem2{
+  height: 60vh;
+}
+
+.c-elem2>span>h5{
+  font-size: 13px;
+  height:30vh
+}
 #arrow{
   padding-left: 20px;
   margin-bottom: 30px;
@@ -641,6 +666,16 @@ padding-top: 20px;
 
 .qrb{
   color: black !important;
+}
+
+.c-elem3{
+  width: 80vw;
+  margin: 0 auto;
+}
+#quote>h2{
+  font-size: 26px;
+  line-height: 42px;
+
 }
 }
 
@@ -762,6 +797,8 @@ padding-top: 20px;
   margin-top: 50px !important;
   overflow: hidden;
 }
+
+
 
 .s3-mobile{
   height: 758px !important;
