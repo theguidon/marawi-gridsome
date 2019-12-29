@@ -377,8 +377,15 @@ padding-top: 20px;
   padding: 2px 5px;
 }
 
-#heading{
+/* #heading{
   padding-top: 30px;
+} */
+
+#heading>div{
+  padding-top: 50px;
+  margin-bottom: -40px;
+  text-align: center;
+
 }
 
 .c-elem3>h4>#uline{
