@@ -3,7 +3,7 @@
 
     <div class = 'landing-container'>
 				<h1 class = "animated slow scroll-animation-div landing-head">Marawi's Rehabilitation Efforts</h1>
-				<h3 class = "animated delay-1s fast scroll-animation-div landing-sub">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus <br>sodales porttitor risus, non viverra lorem vestibulum eget.</h3>
+				<h3 class = "animated delay-1s fast scroll-animation-div landing-sub">As Marawi City commemorates the second year since President Rodrigo Duterte declared its liberation from the extremist group Maute, #TheGlimpses on The GUIDON looks into the residents’ various efforts to rebuild their beloved city.‬</h3>
 				<h2 class = "animated delay-1s fast scroll-animation-div landing-credits">By Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</h2>
 				<div id = "button" class="animated delay-2s scroll-animation-div">
                 <h6 id = "button" class="animated delay-1s slow scroll-down-top">WATCH NOW</h6>
@@ -11,7 +11,8 @@
             </div>
 	</div>
 	<div class = "video-container">
-		<g-image class = "video" src="../assets/video.png" />
+		<!-- <g-image class = "video" src="../assets/video.png" /> -->
+		<iframe src="https://www.youtube.com/embed/5mwLaIIX7rQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
 	<div class = "text-container">
@@ -64,6 +65,13 @@ h5,h6{
 h6{
     font-family: 'Chivo', sans-serif;
     color: #FFFFFF;
+}
+
+iframe{
+	width: 80vw;
+	height: 90vh;
+	margin: 0 auto;
+	text-align: center;
 }
 
 .scroll-down-top{
@@ -193,9 +201,12 @@ h6{
 .landing-sub{
 	font-family: 'Tiempos Text';
 	font-size: 18px;
+	width: 70vw;
+  	line-height: 30px;
+  	margin: 0 auto;
 	font-style: normal;
-	font-weight: 100;
-	line-height: 22px;
+	font-weight: normal;
+	padding-top: 20px;
 	text-align: center;
 	color: #FFFFFF;
 }
@@ -212,7 +223,8 @@ h6{
 }
 
 .video-container{
-    height:100vh;
+	height:100vh;
+	text-align: center;
     background-color: black;
 }
 .video{
