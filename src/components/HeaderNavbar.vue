@@ -24,36 +24,43 @@
       </div>
     </div>
 
-    <div id="sidebar" v-show="showSideBar">
-      <h1 class="title">{{title}}</h1>
-
-      <div class="section section-1">
-        <g-link to="/keeping-faith/">Keeping Faith</g-link>
+    <transition 
+    name='fade'  
+    enter-active-class="animated slideInLeft"
+    leave-active-class="animated slideOutLeft"
+    key="sidebarKey">
+        <div id="sidebar" v-if="showSideBar">
+          <h1 class="title">{{title}}</h1>
+    
+          <div class="section section-1">
+            <g-link to="/keeping-faith/">Keeping Faith</g-link>
+          </div>
+          <hr />
+    
+          <div class="section">
+            <g-link to="/rehabilitation-efforts/">Marawi's Rehabilitation Efforts</g-link>
+          </div>
+    
+          <div class="section">
+            <g-link to="/foundations/">Foundations</g-link>
+          </div>
+    
+          <div class="section">
+            <g-link to="/world-teachers-day/">Beyond makeshift classrooms</g-link>
+          </div>
+          <hr />
+    
+          <div class="section">
+            <g-link to="/vo/">The Maranao's Continued Displacement</g-link>
+          </div>
+          <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo" />
+        </div>
+    </transition>
       </div>
-      <hr />
-
-      <div class="section">
-        <g-link to="/rehabilitation-efforts/">Marawi's Rehabilitation Efforts</g-link>
-      </div>
-
-      <div class="section">
-        <g-link to="/foundations/">Foundations</g-link>
-      </div>
-
-      <div class="section">
-        <g-link to="/world-teachers-day/">Beyond makeshift classrooms</g-link>
-      </div>
-      <hr />
-
-      <div class="section">
-        <g-link to="/vo/">The Maranao's Continued Displacement</g-link>
-      </div>
-      <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo" />
-    </div>
-  </div>
 </template>
 
 <script>
+import animated from 'animate.css';
 export default {
   name: "HeaderNavbar",
   data() {
@@ -233,6 +240,15 @@ hr {
 .prev,
 .arrow {
   cursor: pointer;
+}
+
+.fade-enter-active,
+.fade-leave-active{
+    transition: opacity .5s
+}
+.fade-enter,
+.fade-leave-to{
+    opacity: 0
 }
 
 @media screen and (max-device-width: 420px) {
