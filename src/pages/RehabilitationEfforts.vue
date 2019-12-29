@@ -273,7 +273,15 @@ iframe {
   min-height: 100%;
   position: relative;
   padding-top: 8em;
-  padding-bottom: 8em;
+}
+
+.text-container>h1{
+	text-align: center;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .bottom-text {
@@ -325,8 +333,19 @@ iframe {
   }
 
   .video-container{
-	  height: 30vh;
+	  height: 80vh;
   }
 
+.text-container{
+	height: 100vh;
+}
+.text-container>h1{
+	
+	width: 80vw;
+	margin: 0 auto;
+	height: 101px;
+	font-size: 26px;
+	line-height: 42px;
+}
 }
 </style>
