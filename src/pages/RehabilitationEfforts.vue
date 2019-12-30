@@ -1,12 +1,12 @@
 <template>
   <PageLayout title="Marawi's Rehabilitation Efforts" prev="/keeping-faith/" next="/foundations/">
     <div class="landing-container">
-      <h1 class="animated slow scroll-animation-div landing-head">Marawi's rehabilitation efforts</h1>
+      <h1 class="landing-head">Marawi's rehabilitation efforts</h1>
       <h3
-        class="animated delay-1s fast scroll-animation-div landing-sub"
+        class="landing-sub"
       >As Marawi City commemorates the second year since President Rodrigo Duterte declared its liberation from the extremist group Maute, #TheGlimpses on The GUIDON looks into the residents’ various efforts to rebuild their beloved city.‬</h3>
       <h2
-        class="animated delay-1s fast scroll-animation-div landing-credits"
+        class="landing-credits"
       >by Mariana Gardoce and Tatiana Maligro</h2>
       <div id="button" class="animated delay-2s scroll-animation-div">
         <h6 id="button" class="animated delay-1s slow scroll-down-top">WATCH NOW</h6>
@@ -23,7 +23,7 @@
 
     <div class="text-container">
       <h1 class="animated bottom-animation-div bottom-text wow">
-        ‪”Islam is peace, so I don’t think kailangan nating ilagay sa isip natin yung Muslims are terrorists. Terrorists are bad people, not Muslims.‬”
+        ‪"Islam is peace, so I don’t think kailangan nating ilagay sa isip natin yung Muslims are terrorists. Terrorists are bad people, not Muslims.‬"
       </h1>
     </div>
     <CardsSection />
@@ -244,6 +244,8 @@ iframe {
 .video-container {
   height: 100vh;
   text-align: center;
+  padding-top: 150px;
+  padding-bottom: 100px;
   background-color: black;
 }
 .video {
@@ -258,8 +260,7 @@ iframe {
 
 .text-container {
   background-color: #ffffff;
-  top: 0;
-  left: 0;
+  height: 100vh;
   overflow: hidden;
   min-width: 100%;
   min-height: 100%;
@@ -283,9 +284,7 @@ iframe {
   font-weight: 500;
   font-size: 36px;
   line-height: 50px;
-  display: flex;
-  align-items: center;
-  text-align: center;
+  margin: 0 auto;
   display: block;
   color: #1c4480;
 }
@@ -335,8 +334,6 @@ iframe {
 .text-container>h1{
 	
 	width: 80vw;
-	margin: 0 auto;
-	height: 101px;
 	font-size: 26px;
 	line-height: 42px;
 }
