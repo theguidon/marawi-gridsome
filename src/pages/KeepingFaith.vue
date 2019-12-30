@@ -386,23 +386,16 @@ padding-top: 20px;
   margin-bottom: -48px;
 }
 
-/* .c-elem3>h4>#uline{ */
-
-
-  /* text-decoration: underline;
-  text-decoration-color: #1C4480; */
-
-
-  /* width: 30px;
-  height: 22px;
-  padding: 3px 5px 1.8px;
-  border-bottom: 1px solid #1C4480;
-}
-
-.c-elem3>h4>#uline:hover{
+#uline:hover{
   background-color: #1C4480;
   color: white;
-} */
+  cursor: pointer;
+}
+
+a:hover{
+color: white;
+text-decoration: none;
+}
 
 .c-elem3>h4>#heading>div{
   /* padding: 0 40%; */
