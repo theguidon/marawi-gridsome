@@ -13,7 +13,7 @@
 
             
             <h6 class="animated delay-1s scroll-down-top">Scroll Down</h6>
-            <g-image
+            <g-image fit="contain"
               class="animated delay-1s scroll-triangle"
               src="../assets/scroll-down-triangle.svg"
             />
@@ -24,8 +24,8 @@
     </header>
    <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081119-Marawi IJP-Santiago-1a.jpg"
           alt
           style="margin: auto;"
@@ -65,8 +65,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="portrait rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="portrait rounded mb-3 mb-md-0 pe-img"
           src="../assets/081119-Marawi IJP-Santiago-148.jpg"
         />
     
@@ -89,8 +89,8 @@
     </div>
    <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP Photoessay-Mariano-5.jpg"
           alt
           style="margin: auto;"
@@ -112,8 +112,8 @@
     </div>
      <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="portrait rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="portrait rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP-Santiago-119.jpg"
           alt
           style="margin: auto;"
@@ -133,8 +133,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP Photoessay-Mariano-9.jpg"
           alt
           style="margin: auto;"
@@ -159,8 +159,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP Photoessay-Mariano-10.jpg"
           alt
           style="margin: auto;"
@@ -194,8 +194,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP-Santiago-134.jpg"
           alt
           style="margin: auto;"
@@ -218,8 +218,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP Photoessay-Mariano-16.jpg"
           alt
           style="margin: auto;"
@@ -248,8 +248,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP Photoessay-Mariano-18.jpg"
           alt
           style="margin: auto;"
@@ -269,8 +269,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP Photoessay-Mariano-17.jpg"
           alt
           style="margin: auto;"
@@ -293,8 +293,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP-Santiago-33.jpg"
           alt
           style="margin: auto;"
@@ -317,8 +317,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081119-Marawi IJP-Santiago-15.jpg"
           alt
           style="margin: auto;"
@@ -340,8 +340,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP Photoessay-Mariano-6.jpg"
           alt
           style="margin: auto;"
@@ -370,8 +370,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP Photoessay-Mariano-7.jpg"
           alt
           style="margin: auto;"
@@ -394,8 +394,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP Photoessay-Mariano-8.jpg"
           alt
           style="margin: auto;"
@@ -419,8 +419,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP Photoessay-Mariano-11.jpg"
           alt
           style="margin: auto;"
@@ -450,8 +450,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP Photoessay-Mariano-12.jpg"
           alt
           style="margin: auto;"
@@ -474,8 +474,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="portrait rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="portrait rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP-Santiago-63.jpg"
           alt
           style="margin: auto;"
@@ -496,8 +496,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP-Santiago-100.jpg"
           alt
           style="margin: auto;"
@@ -517,8 +517,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-[Second Close] Marawi IJP-Mariano-98 1.png"
           alt
           style="margin: auto;"
@@ -541,8 +541,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP-Santiago-65 1.png"
           alt
           style="margin: auto;"
@@ -560,8 +560,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP-Santiago-149.jpg"
           alt
           style="margin: auto;"
@@ -586,8 +586,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081219-Marawi IJP-Santiago-62.jpg"
           alt
           style="margin: auto;"
@@ -606,8 +606,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="portrait rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="portrait rounded mb-3 mb-md-0 pe-img"
           src="../assets/081119-Marawi IJP Photoessay-Mariano-1.jpg"
           alt
           style="margin: auto;"
@@ -631,8 +631,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081119-Marawi IJP Photoessay-Mariano-4.jpg"
           alt
           style="margin: auto;"
@@ -654,8 +654,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP Photoessay-Mariano-15.jpg"
           alt
           style="margin: auto;"
@@ -677,8 +677,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP Photoessay-Mariano-14.jpg"
           alt
           style="margin: auto;"
@@ -705,8 +705,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP-Santiago-118.jpg"
           alt
           style="margin: auto;"
@@ -726,8 +726,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP-Santiago-120.jpg"
           alt
           style="margin: auto;"
@@ -751,8 +751,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP-Santiago-131.jpg"
           alt
           style="margin: auto;"
@@ -774,8 +774,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP Photoessay-Mariano-13.jpg"
           alt
           style="margin: auto;"
@@ -801,8 +801,8 @@
     </div>
     <div class="row">
       <div class="col-md-7">
-        <g-image
-          class="landscape rounded mb-3 mb-md-0"
+        <g-image fit="contain"
+          class="landscape rounded mb-3 mb-md-0 pe-img"
           src="../assets/081319-Marawi IJP-Santiago-127.jpg"
           alt
           style="margin: auto;"
@@ -925,7 +925,7 @@ html {
   font-family: "Tiempos Text", sans-serif;
 }
 
-.side-nav g-image {
+.side-nav g-image fit="contain" {
   padding: 200px 10px 10px 30px;
 }
 
@@ -1251,6 +1251,10 @@ html {
   color: white;
 }
 
+.pe-img{
+  object-fit: contain;
+}
+
 @media only screen and (max-width: 1200px) {
   br {
     display: none;
@@ -1282,5 +1286,13 @@ html {
     height: 50vh;
     width: 100vw;
   }
+}
+
+@media only screen and (max-width: 425px){
+.text{
+      width: 80vw;
+    margin: 0 auto;
+    padding-right: 0px;
+}
 }
 </style>
