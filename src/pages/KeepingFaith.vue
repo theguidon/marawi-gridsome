@@ -16,13 +16,12 @@
   <section id='s2'>
     
     <div class="c-elem3">
-    <!-- <h4> -->
-      <span id="c-img1-container"><div id="c-img1" class="photo-1"><g-image src="../assets/kf-3.jpg" alt=""/><h6 id="ffe">Residents of Sarimanok Tent City 2 look on as a sacrificial cow is slaughtered in honor of the Eid al-Adha celebrations. | Photo by Jason Mariano</h6></div></span>
 
       <span id=blue>AMONG MOUNTAINS of crushed cement,</span> tangles of overgrown vines, and scatterings of misshapen steel, a silver crescent sits atop the rubble as it furiously glints under the harsh rays of the Mindanao sun.<br>
 
       <br>
-      <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/kf-bg.jpg" alt=""/><h6 id="ffe">The ruins of a mosque that once stood tall in Marawi City remain untouched despite the ongoing demolition operations. | Photo by Aldo Santiago</h6></div></span>
+      <span id="c-img1-container"><div id="c-img1" class="photo-1"><g-image src="../assets/kf-3.jpg" alt=""/><h6 id="ffe">Residents of Sarimanok Tent City 2 look on as a sacrificial cow is slaughtered in honor of the Eid al-Adha celebrations. | Photo by Jason Mariano</h6></div></span>
+
 <br>
 
       It has been two years since the <span id="uline"><a href="https://www.aljazeera.com/indepth/features/2017/10/happened-marawi-171029085314348.html">siege</a></span> that devastated Marawi City. What started out as an Armed Forces of the Philippines (AFP) mission to detain Abu Sayyaf subleader and Maute Group member Isnilon Hapilon led to a five-month battle that displaced nearly <span id="uline"><a href="https://www.aljazeera.com/indepth/features/2017/10/happened-marawi-171029085314348.html">300,000 Maranaos</a></span> and even residents from nearby municipalities. <br>
@@ -368,6 +367,7 @@ padding-top: 20px;
 }
 
 .c-elem3{
+  margin-top:40px;
   width: 57.3%;
   margin-left: 21%
 }
@@ -711,6 +711,7 @@ margin-bottom: 0px;
 .c-elem3{
   width: 80vw;
   margin: 0 auto;
+  margin-top:40px;
 }
 #quote>h2{
   font-size: 26px;
