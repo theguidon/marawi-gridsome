@@ -582,6 +582,7 @@ padding-top: 20px;
 
   :root{--font-increase: 3px;}
 
+
 #s3{
   height: 0px !important;
   margin-top: 50px !important;
@@ -596,6 +597,10 @@ padding-top: 20px;
   background-size:cover;
 }
 
+.fad>.landing-elems>h1{
+  line-height: 60px;
+}
+
 .landing-elems>h1{
   font-size: 28px;
 line-height: 34px;
@@ -605,6 +610,7 @@ line-height: 34px;
   font-size: 13px;
   width: 80vw;
 line-height: 24px;
+margin-bottom: 0px;
 /* display: none; */
 }
 
