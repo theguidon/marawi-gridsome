@@ -317,7 +317,7 @@ iframe {
   }
 
   .landing-sub {
-    height: 160px;
+    height: 260px;
     line-height: 25px;
   }
 

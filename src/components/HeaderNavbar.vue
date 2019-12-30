@@ -51,7 +51,7 @@
           <hr />
     
           <div class="section">
-            <g-link to="/vo/">The Maranao's Continued Displacement</g-link>
+            <g-link to="/continued-displacement/">The Maranao's Continued Displacement</g-link>
           </div>
           <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo" />
         </div>

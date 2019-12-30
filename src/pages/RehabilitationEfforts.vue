@@ -1,7 +1,7 @@
 <template>
   <PageLayout title="Marawi's Rehabilitation Efforts" prev="/keeping-faith/" next="/foundations/">
     <div class="landing-container">
-      <h1 class="animated slow scroll-animation-div landing-head">Marawi's Rehabilitation Efforts</h1>
+      <h1 class="animated slow scroll-animation-div landing-head">Marawi's rehabilitation efforts</h1>
       <h3
         class="animated delay-1s fast scroll-animation-div landing-sub"
       >As Marawi City commemorates the second year since President Rodrigo Duterte declared its liberation from the extremist group Maute, #TheGlimpses on The GUIDON looks into the residents’ various efforts to rebuild their beloved city.‬</h3>

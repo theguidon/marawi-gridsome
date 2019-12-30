@@ -12,7 +12,7 @@
             <h2>By Jason Mariano and Aldo Santiago</h2>
 
             
-            <h6 class="animated delay-1s scroll-down-top">Scroll Down</h6>
+            <h6 class="animated delay-1s scroll-down-top">SCROLL DOWN</h6>
             <g-image fit="contain"
               class="animated delay-1s scroll-triangle"
               src="../assets/scroll-down-triangle.svg"

@@ -4,12 +4,12 @@
             <!-- <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/logo-clear.png"/></div> -->
             <!-- <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/90thYear_Logo (WHITE).png"/></div> -->
             <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/03 90th Year Logo (WHITE).svg"/></div>
-            <h1 class="animated fadeInDown slow delay-1s">Catching Light</h1>
-            <h3 class="animated fadeInDown slow delay-1s">The Faces of Marawi</h3>
+            <h1 class="animated fadeInDown slow delay-1s">Catching light:</h1>
+            <h3 class="animated fadeInDown slow delay-1s">Faces of hope from Marawi City</h3>
             <hr class="animated fadeInDown slow delay-1s">
-            <h5 class="animated fadeInDown slow delay-1s">Published November 2019</h5>
+            <h5 class="animated fadeInDown slow delay-1s">December 2019</h5>
             <div class="animated delay-3s scroll-animation-div">
-                <h6 class="animated delay-1s scroll-down-top">Scroll Down</h6>
+                <h6 class="animated delay-1s scroll-down-top">SCROLL DOWN</h6>
                 <g-image class="animated delay-1s scroll-triangle" src="../assets/scroll-down-triangle.svg" />
             </div>
         </div>
@@ -228,7 +228,7 @@ hr{
     }
     .hdr{
         height: 690px;
-        padding-top: 66px;
+        padding-top: 150px;
     background-image: url(../assets/mobile-landing-hdr-bg.png), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
         background-position: 60% 0%;
     }
