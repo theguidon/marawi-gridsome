@@ -1295,6 +1295,24 @@ html {
     padding-right: 0px;
 }
 
+header>.container{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+header>.container>.row{
+ width: 85vw;
+    margin: 0 auto;
+    
+}
+
+header>.container>.row>.header-text-div>h3{
+   width: 78vw;
+
+  font-size: 15px;
+  line-height: 22px;
+    
+}
+
 .quote{
   width: 80vw;
   margin: 0 auto;;
