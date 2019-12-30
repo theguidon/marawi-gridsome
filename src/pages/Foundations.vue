@@ -68,8 +68,6 @@
         <g-image
           class="portrait rounded mb-3 mb-md-0"
           src="../assets/081119-Marawi IJP-Santiago-148.jpg"
-          alt
-          style="margin: auto;"
         />
     
       </div>
@@ -1260,12 +1258,12 @@ html {
 }
 
 @media only screen and (max-width: 600px) {
-  .image-1 {
+  /* .image-1 {
     height: 100%;
     width: 100vw;
     position: relative;
     left: -100px;
-  }
+  } */
 
   .row {
     padding: 0;
@@ -1275,6 +1273,8 @@ html {
     padding-left: 0;
     height: 100vh;
     width: 100vw;
+     display: block;
+    margin: auto;
   }
 
   .landscape {
