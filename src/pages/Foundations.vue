@@ -1090,7 +1090,8 @@ html {
 }
 
 .quote {
-  margin-top: 100px;
+  padding-top: 200px;
+  height: 700px;
 }
 
 .quote h1 {
