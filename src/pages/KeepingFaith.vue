@@ -69,7 +69,7 @@
 
       <br>
 
-      Islamic teacher from the Marqaz Mosque in Marawi City Abolkhair Bantuas shared similar sentiments. “Kung baga sa Islam, pantay-pantay—walang mataas at walang mababa… Basta sa Islam, pare-pareho—dapat nagkakaisa (In Islam, we are all equal--no one is ranked above or below the other. In Islam, we are one),” he said about the Christian-Muslim dynamic in Mindanao.<br>
+      Islamic teacher from the Marqaz Mosque in Marawi City Abolkhair Bantuas shared similar sentiments. “Kung baga sa Islam, pantay-pantay—walang mataas at walang mababa… Basta sa Islam, pare-pareho—dapat nagkakaisa (In Islam, we are all equal—no one is ranked above or below the other. In Islam, we are one),” he said about the Christian-Muslim dynamic in Mindanao.<br>
 
       <br>
 
@@ -117,7 +117,7 @@
 <span id=quote >
         <div class="ql" style="margin-top:25px;"><i class="fas fa-quote-left"></i></div>
 
-        <h2><span class="qlb">"</span>“Ang Islam <em>at ang</em> [Christianity]<em>—isa lang ‘yan. Ang nag-iiba lang ang</em> prophet (Islam and Christianity are one and the same. The only difference is the prophet).”
+        <h2><span class="qlb">"</span>“Ang Islam <em>at ang</em> [Christianity]—isa lang ‘yan. Ang nag-iiba lang ang prophet (Islam and Christianity are one and the same. The only difference is the prophet).”
 <br>- Marqaz Mosque Islamic teacher Abolkhair Bantuas<span style="transform: translate(50px,0);"></span><span class="qrb">"</span></h2>
 
         <div class="qr"><i class="fas fa-quote-right"></i></div>
@@ -589,7 +589,9 @@ padding-top: 20px;
 
   :root{--font-increase: 3px;}
 
-
+#s2{
+  /* height: 7000px; */
+}
 #s3{
   height: 0px !important;
   margin-top: 50px !important;
