@@ -30,15 +30,15 @@
 
       <br>
 
-      It has been two years since the <span id=uline><a href="https://www.aljazeera.com/indepth/features/2017/10/happened-marawi-171029085314348.html">siege</a></span> that devastated Marawi City. What started out as an Armed Forces of the Philippines (AFP) mission to detain Abu Sayyaf subleader and Maute Group member Isnilon Hapilon led to a five-month battle that displaced nearly <span id=uline><a href="https://www.aljazeera.com/indepth/features/2017/10/happened-marawi-171029085314348.html">300,000 Maranaos</a></span> and even residents from nearby municipalities. <br>
+      It has been two years since the <span id="uline"><a href="https://www.aljazeera.com/indepth/features/2017/10/happened-marawi-171029085314348.html">siege</a></span> that devastated Marawi City. What started out as an Armed Forces of the Philippines (AFP) mission to detain Abu Sayyaf subleader and Maute Group member Isnilon Hapilon led to a five-month battle that displaced nearly <span id="uline"><a href="https://www.aljazeera.com/indepth/features/2017/10/happened-marawi-171029085314348.html">300,000 Maranaos</a></span> and even residents from nearby municipalities. <br>
 
       <br>
 
-      But for the Maute Group, the destruction that ensued wasn’t just about protecting the interests of one man—it was also a war for and about religion. Numerous reports have said that the Maute Group targeted not only the AFP, but the <span id=uline><a href="https://time.com/marawi-philippines-isis/">Christian population</a></span> in Marawi as well. Christians who refused to convert to Islam were reportedly beheaded, a Catholic church was burnt to the ground, and a priest and several Christians who worshipped with him were held hostage for the entirety of the siege.<br>
+      But for the Maute Group, the destruction that ensued wasn’t just about protecting the interests of one man—it was also a war for and about religion. Numerous reports have said that the Maute Group targeted not only the AFP, but the <span id="uline"><a href="https://time.com/marawi-philippines-isis/">Christian population</a></span> in Marawi as well. Christians who refused to convert to Islam were reportedly beheaded, a Catholic church was burnt to the ground, and a priest and several Christians who worshipped with him were held hostage for the entirety of the siege.<br>
 
       <br>
 
-      Perhaps without meaning to, these stories have further reinforced the <span id=uline><a href="https://www.reuters.com/article/us-philippines-militants-muslims/philippine-muslims-fear-marawi-fighting-may-deepen-communal-discord-idUSKBN19J132">misguided notion</a></span> of Muslim-Christian hostility in the Philippines. In reality, the Maute Group’s acts of violence, which they claim to have done allahu akbar, or in the name of God, also severely hurt their fellow Muslims. Not only were mosques used as battlefields, ancestral homes destroyed, and many killed as casualties of the war, but the siege also added to the already difficult challenge of deconstructing the anti-Muslim narrative.<br>
+      Perhaps without meaning to, these stories have further reinforced the <span id="uline"><a href="https://www.reuters.com/article/us-philippines-militants-muslims/philippine-muslims-fear-marawi-fighting-may-deepen-communal-discord-idUSKBN19J132">misguided notion</a></span> of Muslim-Christian hostility in the Philippines. In reality, the Maute Group’s acts of violence, which they claim to have done allahu akbar, or in the name of God, also severely hurt their fellow Muslims. Not only were mosques used as battlefields, ancestral homes destroyed, and many killed as casualties of the war, but the siege also added to the already difficult challenge of deconstructing the anti-Muslim narrative.<br>
 
       <br><br>
 
@@ -46,11 +46,11 @@
 
     <br><br>
 
-    In contrast to the acts of violence perpetrated by the Maute Group, the Holy Qur’an—the <span id=uline><a href="https://rlp.hds.harvard.edu/religions/islam/quran-word-god">central religious text</a></span> of Islam—contains several <span id=uline><a href="https://www.alislam.org/library/articles/Holy-Quran-on-World-Peace.pdf">verses</a></span> that teach and promote peace, such as Qur’an 6:108 which says, “And do not insult those they invoke other than Allah, lest they insult Allah in enmity without knowledge.” Qur’an 59:23 even <span id=uline><a href="https://quran.com/59/23">reveals</a></span> that peace is one of the names of God himself: “He (is) Allah, the One Who, (there is) no god but He, the Sovereign, the Holy One, the Giver of Peace, the Giver of Security, the Guardian, the All-Mighty, the Irresistible, the Supreme. Glory (be to) Allah from what they associate (with Him).”<br>
+    In contrast to the acts of violence perpetrated by the Maute Group, the Holy Qur’an—the <span id="uline"><a href="https://rlp.hds.harvard.edu/religions/islam/quran-word-god">central religious text</a></span> of Islam—contains several <span id="uline"><a href="https://www.alislam.org/library/articles/Holy-Quran-on-World-Peace.pdf">verses</a></span> that teach and promote peace, such as Qur’an 6:108 which says, “And do not insult those they invoke other than Allah, lest they insult Allah in enmity without knowledge.” Qur’an 59:23 even <span id="uline"><a href="https://quran.com/59/23">reveals</a></span> that peace is one of the names of God himself: “He (is) Allah, the One Who, (there is) no god but He, the Sovereign, the Holy One, the Giver of Peace, the Giver of Security, the Guardian, the All-Mighty, the Irresistible, the Supreme. Glory (be to) Allah from what they associate (with Him).”<br>
 
     <br>
 
-    A manifestation of this adherence to peace was seen in the Marawi siege itself when former Catholic Bishops Conference of the Philippines (CBCP) President Socrates Villegas <span id=uline><a href="https://newsinfo.inquirer.net/912700/cbcp-catholics-should-talk-more-with-muslims-people-of-other-faiths">recounted</a></span> narratives of Muslims and Christians protecting each other from harm. <br>
+    A manifestation of this adherence to peace was seen in the Marawi siege itself when former Catholic Bishops Conference of the Philippines (CBCP) President Socrates Villegas <span id="uline"><a href="https://newsinfo.inquirer.net/912700/cbcp-catholics-should-talk-more-with-muslims-people-of-other-faiths">recounted</a></span> narratives of Muslims and Christians protecting each other from harm. <br>
 
     <br>
 
@@ -73,7 +73,7 @@
 
       <br>
 
-      This much is seen in Sarimanok Tent City 2. On the day of <span id=uline><a href="https://www.hfcc.edu/news/2019/what-eid-al-adha-means">Eid al-Adha</a></span>, the holier of two internationally celebrated Islamic holidays, Muslim and Christian refugees alike shared in the meat from the cows that were sacrificed as part of the religious feast. Regardless of faith, the residents of the tent city enjoyed equal amounts of beef for dinner.<br>
+      This much is seen in Sarimanok Tent City 2. On the day of <span id="uline"><a href="https://www.hfcc.edu/news/2019/what-eid-al-adha-means">Eid al-Adha</a></span>, the holier of two internationally celebrated Islamic holidays, Muslim and Christian refugees alike shared in the meat from the cows that were sacrificed as part of the religious feast. Regardless of faith, the residents of the tent city enjoyed equal amounts of beef for dinner.<br>
 
       <br>
 
@@ -89,15 +89,15 @@
 
     <br><br>
 
-      The negative perceptions about the Muslim faith have been historically widespread—so much so that the term Islamophobia was coined in the <span id=uline><a href="http://www.jstor.org/stable/41940895">1990s</a></span> to encompass such attitudes. More specifically, <span id=uline><a href="http://www.jstor.org/stable/41940895">Islamophobia</a></span> refers to the fear or anxiety that is associated with the religion of Islam or its believers. Much of this fear has to do with uninformed opinions and negative stereotypes that resulted from <span id=uline><a href="https://www.ajol.info/index.php/jsr/article/view/70021">political propaganda</a></span> against the rise of Islam. Over the years, the manifestations of these negative attitudes toward Muslims have gradually <span id=uline><a href="https://nationalinterest.org/feature/roots-islamophobia-48142">escalated</a></span> from avoidance and othering to outright violence.<br>
+      The negative perceptions about the Muslim faith have been historically widespread—so much so that the term Islamophobia was coined in the <span id="uline"><a href="http://www.jstor.org/stable/41940895">1990s</a></span> to encompass such attitudes. More specifically, <span id="uline"><a href="http://www.jstor.org/stable/41940895">Islamophobia</a></span> refers to the fear or anxiety that is associated with the religion of Islam or its believers. Much of this fear has to do with uninformed opinions and negative stereotypes that resulted from <span id="uline"><a href="https://www.ajol.info/index.php/jsr/article/view/70021">political propaganda</a></span> against the rise of Islam. Over the years, the manifestations of these negative attitudes toward Muslims have gradually <span id="uline"><a href="https://nationalinterest.org/feature/roots-islamophobia-48142">escalated</a></span> from avoidance and othering to outright violence.<br>
 
       <br>
 
-      However, what truly <span id=uline><a href="https://nationalinterest.org/feature/roots-islamophobia-48142">aggravated</a></span> Islamophobia in the West, thus influencing their fear to bleed out into nations near and far, is the infamous 9/11 terrorist attack in 2001. Among the most remembered facts of the case is the involvement of an Islamic terrorist group called Al-Qaeda. Al-Qaeda’s coordinated attack <span id=uline><a href="https://www.911memorial.org/911-frequently-asked-questions">left</a></span> approximately 2,977 people dead. <br>
+      However, what truly <span id="uline"><a href="https://nationalinterest.org/feature/roots-islamophobia-48142">aggravated</a></span> Islamophobia in the West, thus influencing their fear to bleed out into nations near and far, is the infamous 9/11 terrorist attack in 2001. Among the most remembered facts of the case is the involvement of an Islamic terrorist group called Al-Qaeda. Al-Qaeda’s coordinated attack <span id="uline"><a href="https://www.911memorial.org/911-frequently-asked-questions">left</a></span> approximately 2,977 people dead. <br>
 
       <br>
 
-      Following this extreme act of violence was the erroneous association of terrorism with the Islamic faith. The Islamophobia of the 1990s took on a different, more aggressive tone—one that persists to this very day. In fact, the <span id=uline><a href="https://www.nbcnews.com/news/world/christchurch-mosque-attack-suspect-pleads-not-guilty-trial-set-next-n1017466">latest attack</a></span> on the Muslim population happened on March 2019 in Christchurch, New Zealand, wherein a gunman shot 51 Muslims during Friday prayers at two mosques. The incident has since been <span id=uline><a href="https://www.nbcnews.com/news/world/christchurch-mosque-attack-suspect-pleads-not-guilty-trial-set-next-n1017466">labeled</a></span> as America’s “worst peace-time mass shooting.”<br>
+      Following this extreme act of violence was the erroneous association of terrorism with the Islamic faith. The Islamophobia of the 1990s took on a different, more aggressive tone—one that persists to this very day. In fact, the <span id="uline"><a href="https://www.nbcnews.com/news/world/christchurch-mosque-attack-suspect-pleads-not-guilty-trial-set-next-n1017466">latest attack</a></span> on the Muslim population happened on March 2019 in Christchurch, New Zealand, wherein a gunman shot 51 Muslims during Friday prayers at two mosques. The incident has since been <span id="uline"><a href="https://www.nbcnews.com/news/world/christchurch-mosque-attack-suspect-pleads-not-guilty-trial-set-next-n1017466">labeled</a></span> as America’s “worst peace-time mass shooting.”<br>
 
       <br><br>
 
@@ -105,7 +105,7 @@
 
     <br><br>
 
-      In the local context, the manifestations of Islamophobia are not as violent, but the fear is <span id=uline><a href="https://www.rappler.com/thought-leaders/178209-confronting-islamophobia">present</a></span>, nonetheless. Like their Western counterparts, many Filipinos have cited the existence of Islamic <span id=uline><a href="https://ctc.usma.edu/the-islamic-state-in-the-philippines-a-looming-shadow-in-southeast-asia/">militant</a></span> groups as the source of their wariness with the country’s Muslim population.<br>
+      In the local context, the manifestations of Islamophobia are not as violent, but the fear is <span id="uline"><a href="https://www.rappler.com/thought-leaders/178209-confronting-islamophobia">present</a></span>, nonetheless. Like their Western counterparts, many Filipinos have cited the existence of Islamic <span id="uline"><a href="https://ctc.usma.edu/the-islamic-state-in-the-philippines-a-looming-shadow-in-southeast-asia/">militant</a></span> groups as the source of their wariness with the country’s Muslim population.<br>
 
       <br>
 
@@ -128,7 +128,7 @@
       <br>
       
 
-      The Holy Qur’an <span id=uline><a href="https://www.al-islam.org/morals-and-ethics-quran-ali-rahim/war-and-peace#peace-encouraged-quran">encourages</a></span> the people of this faith to practice peacekeeping and prohibits them from creating “unnecessary enmity” with others, unless in defense from oppressors. However, in contrast to this, misconceptions that link Islam and terrorism perpetuate to this day as verses in the Holy Qur’an <span id=uline><a href="https://gulfnews.com/uae/extremists-attempt-to-distort-quranic-concepts-islamic-scholars-1.1557941944172">remain</a></span> vulnerable to the risk of misinterpretation from extremist groups. <br>
+      The Holy Qur’an <span id="uline"><a href="https://www.al-islam.org/morals-and-ethics-quran-ali-rahim/war-and-peace#peace-encouraged-quran">encourages</a></span> the people of this faith to practice peacekeeping and prohibits them from creating “unnecessary enmity” with others, unless in defense from oppressors. However, in contrast to this, misconceptions that link Islam and terrorism perpetuate to this day as verses in the Holy Qur’an <span id="uline"><a href="https://gulfnews.com/uae/extremists-attempt-to-distort-quranic-concepts-islamic-scholars-1.1557941944172">remain</a></span> vulnerable to the risk of misinterpretation from extremist groups. <br>
 
       <br><br>
 
@@ -136,15 +136,15 @@
 
       <br><br>
 
-      These misguided notions of violence in the name of Islam have contributed to the severe discrimination against the religion, causing many Muslims to hide the signs of their faith due to feelings of <span id=uline><a href="https://lawlex.org/lex-bulletin/the-effects-of-racial-sexual-or-religious-discrimination/8682">inferiority</a></span>. However, in the case of Marawi, the free expression of faith is essential in their recovery. <br>
+      These misguided notions of violence in the name of Islam have contributed to the severe discrimination against the religion, causing many Muslims to hide the signs of their faith due to feelings of <span id="uline"><a href="https://lawlex.org/lex-bulletin/the-effects-of-racial-sexual-or-religious-discrimination/8682">inferiority</a></span>. However, in the case of Marawi, the free expression of faith is essential in their recovery. <br>
 
       <br>
 
-      Faith is among the central forces in post-war rehabilitation initiatives—a "<span id=uline><a href="https://www.jstor.org/stable/24764229?seq=1">reconciler</a></span>" of sorts, as researcher Prince Conteh put it. Further studies have also shown that being able to practice one’s faith, especially after a “major life stressor,” boosts resilience and allows individuals to “achieve fundamental positive transformation.”<br>
+      Faith is among the central forces in post-war rehabilitation initiatives—a "<span id="uline"><a href="https://www.jstor.org/stable/24764229?seq=1">reconciler</a></span>" of sorts, as researcher Prince Conteh put it. Further studies have also shown that being able to practice one’s faith, especially after a “major life stressor,” boosts resilience and allows individuals to “achieve fundamental positive transformation.”<br>
 
 <br>
 
-This importance of faith is evidenced in the displaced Maranao’s simple <span id=uline><a href="https://www.facebook.com/TheGUIDON/videos/1532907356849085/">request</a></span>: Amidst the need for basic goods, medicine, and shelter, they also ask for cultural and religious understanding from their fellow Filipinos so that they may practice Islam unburdened with discrimination and accusations.<br>
+This importance of faith is evidenced in the displaced Maranao’s simple <span id="uline"><a href="https://www.facebook.com/TheGUIDON/videos/1532907356849085/">request</a></span>: Amidst the need for basic goods, medicine, and shelter, they also ask for cultural and religious understanding from their fellow Filipinos so that they may practice Islam unburdened with discrimination and accusations.<br>
 
 <br>
 
@@ -393,10 +393,14 @@ padding-top: 20px;
   margin-bottom: -48px;
 }
 
-.c-elem3>h4>#uline{
+/* .c-elem3>h4>#uline{ */
+
+
   /* text-decoration: underline;
   text-decoration-color: #1C4480; */
-  width: 30px;
+
+
+  /* width: 30px;
   height: 22px;
   padding: 3px 5px 1.8px;
   border-bottom: 1px solid #1C4480;
@@ -405,7 +409,7 @@ padding-top: 20px;
 .c-elem3>h4>#uline:hover{
   background-color: #1C4480;
   color: white;
-}
+} */
 
 .c-elem3>h4>#heading>div{
   /* padding: 0 40%; */

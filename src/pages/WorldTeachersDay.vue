@@ -24,10 +24,10 @@
     <br>
   </div>
     <div class="c-elem3">
-    <h4><span id=blue>IT HAS been two years</span>  since the siege that devastated the heart of Marawi City, but full recovery remains far out of arm’s reach to this very day. Obstacles to this include  <span id="uline"> unexploded ordnances,</span>   possible threats of  <span id="uline"> extremist resurgence, </span> low trust in the national government, and the Armed Forces of the Philippines’ <span id="uline"> “poorly managed post-conflict rehabilitation. </span><br>
-      <br> The ongoing fight for access to education is another, but recent strides have been made in the attempt to overcome this. For example, in November 2018, Philippine Business for Social Progress Executive Director Reynaldo Laguda mentioned that a construction project worth Php 3.5 billion—sponsored by the Coca Cola Foundation—was set to  <span id="uline"> provide</span>     two school buildings in Barangay Gadongan. <br><br>
-      Moreover, September 2018 saw the Philippine Disaster Resilience Foundation (PDRF), along with the Project Handclasp Foundation and the US-Philippines Society,  <span id="uline"> turn over</span> Smart School-in-a-Bag kits to learning institutions such as Tuca Boganga Elementary School as part of its Children of Marawi project. Smart School in-a-Bag kits serve as “a portable digital classroom designed to facilitate learning in remote areas without electricity.”<br>
-      The Office of the Vice President also recently  <span id="uline">turned over</span> two-classroom buildings to Mapandi Elementary School in Barangay Gadongan. Several other classrooms and housing units were built through Vice President Leni Robredo’s anti-poverty program called Angat Buhay.<br><br><br>
+    <h4><span id=blue>IT HAS been two years</span>  since the siege that devastated the heart of Marawi City, but full recovery remains far out of arm’s reach to this very day. Obstacles to this include  <span id="uline"> <a href="https://newsinfo.inquirer.net/1149905/46-more-unexploded-bombs-keeping-marawi-folks-return-at-bay">unexploded ordnances</a>,</span>   possible threats of  <span id="uline"> <a href="https://www.theguardian.com/world/2019/feb/08/the-fight-is-not-over-fears-of-isis-resurgence-in-philippines">extremist resurgence</a> </span>, <span id="uline"><a href="https://www.aspi.org.au/report/marawi-crisis-urban-conflict-and-information-operations">low trust</a></span> in the national government, and the Armed Forces of the Philippines’ <span id="uline"> “<a href="https://www.aspi.org.au/report/marawi-crisis-urban-conflict-and-information-operations">poorly managed post-conflict rehabilitation</a>." </span><br>
+      <br> The ongoing fight for access to education is another, but recent strides have been made in the attempt to overcome this. For example, in November 2018, Philippine Business for Social Progress Executive Director Reynaldo Laguda mentioned that a construction project worth Php 3.5 billion—sponsored by the Coca Cola Foundation—was set to  <span id="uline"> <a href="https://www.pna.gov.ph/articles/1055069">provide</a></span>     two school buildings in Barangay Gadongan. <br><br>
+      Moreover, September 2018 saw the Philippine Disaster Resilience Foundation (PDRF), along with the Project Handclasp Foundation and the US-Philippines Society,  <span id="uline"> <a href="https://business.inquirer.net/258166/marawi-schools-get-school-kits">turn over</a></span> Smart School-in-a-Bag kits to learning institutions such as Tuca Boganga Elementary School as part of its Children of Marawi project. Smart School in-a-Bag kits serve as “a portable digital classroom designed to facilitate learning in remote areas without electricity.”<br>
+      The Office of the Vice President also recently  <span id="uline"><a href="https://newsinfo.inquirer.net/1134806/robredo-to-turn-over-school-buildings-houses-in-marawi">turned over</a></span> two-classroom buildings to Mapandi Elementary School in Barangay Gadongan. Several other classrooms and housing units were built through Vice President Leni Robredo’s anti-poverty program called Angat Buhay.<br><br><br>
 
     <span id='heading'><div><b>A Maranao educator’s plight</b></div></span><br><br><br>
 
@@ -54,7 +54,7 @@
 
       This was much easier said than done, especially with the educators’ lack of facilities. Acquiring the right materials was among the first, and most difficult, struggles the “tent school” had to face. But with the help of donations from non-profit organizations like Save the Children Philippines and the Philippine Red Cross, Selic was able to secure enough tents, tables, chairs, and blackboards to house and accommodate nearly 200 IDPs. The school’s operations officially began in July 2019 and Selic’s group of educators currently teach students from grades two to seven. <br><br><br>
 
-      However, aside from the facilities, educators in Marawi also value the <span id="uline">  Islamization of education,</span>  which has long catered to the distinct socio-cultural traditions of Muslim Mindanao. This is evident even in makeshift schools like that of Sarimanok Tent City Area 2, wherein students are taught about Arabic language and Islam alongside subjects like math, english, and social sciences. <br>
+      However, aside from the facilities, educators in Marawi also value the <span id="uline">  <a href="https://www.jstor.org/stable/10.1086/503883?seq=2#metadata_info_tab_contents">Islamization of education</a>,</span>  which has long catered to the distinct socio-cultural traditions of Muslim Mindanao. This is evident even in makeshift schools like that of Sarimanok Tent City Area 2, wherein students are taught about Arabic language and Islam alongside subjects like math, english, and social sciences. <br>
 
       <span id="c-img1-container"><div id="c-img3"><g-image src="../assets/cimg3.png" alt=""/><h6>ISLAMIC ROOTS. An elementary teacher lectures about the Arabic language in adherence to the Madrasah Educational Program. | Photo by Aldo Santiago</h6></div></span>
 
@@ -63,9 +63,9 @@
     <span id='heading'><div><b>The need for depth</b></div></span><br><br><br>
 
       Selic explained that Islafm-centered education is integral to the development of the Muslim youth, especially after a situation as traumatic as the five-month long siege. Even at the primary level, Muslim students are taught about the language and history of their faith in hopes that it may establish a sense of identity and illuminate a path—or “destination,” as Selic put it—for the students to look forward to after   the war. <br><br><br>
-      This Islamized curriculum is institutionalized by the Department of Education (DepEd) as part of their <span id="uline"> “Education for All”</span> mandate. In 2004, DepEd released <span id="uline">DepEd Order (DO) No. 51,</span> which ordered madaris (i.e., Islamic educational institutions) nationwide to adopt the Madrasah Educational Program on top of conventional schooling. <br><br><br>
+      This Islamized curriculum is institutionalized by the Department of Education (DepEd) as part of their <span id="uline"> “<a href="https://planipolis.iiep.unesco.org/sites/planipolis/files/ressources/philippines_efa_mda.pdf">Education for All</a>”</span> mandate. In 2004, DepEd released <span id="uline"><a href="https://www.deped.gov.ph/wp-content/uploads/2004/08/DO_s2004_051.pdf">DepEd Order (DO) No. 51</a>,</span> which ordered madaris (i.e., Islamic educational institutions) nationwide to adopt the Madrasah Educational Program on top of conventional schooling. <br><br><br>
 
-      DO No. 51 aims to <span id="uline">address</span>  Muslim ignorance about their religion and the language of their Holy Qur’an, among other things. The Madrasah Educational Program was created to combat such ignorance by providing “meaningful, relevant, and culture-sensitive” education for the Muslim population. DepEd Undersecretary for Muslim Affairs Manaros Boransing, PhD further emphasized that the madaris, as the “oldest educational institution[s] in Mindanao,” are integral to the preservation of the values mandated by Islamic faith and culture in the Philippines.<br><br><br>
+      DO No. 51 aims to <span id="uline"><a href="https://www.deped.gov.ph/wp-content/uploads/2004/08/DO_s2004_051.pdf">address</a></span>  Muslim ignorance about their religion and the language of their Holy Qur’an, among other things. The Madrasah Educational Program was created to combat such ignorance by providing “meaningful, relevant, and culture-sensitive” education for the Muslim population. DepEd Undersecretary for Muslim Affairs Manaros Boransing, PhD further emphasized that the madaris, as the “oldest educational institution[s] in Mindanao,” are integral to the preservation of the values mandated by Islamic faith and culture in the Philippines.<br><br><br>
 
       However, the Madrasah Educational Program has its limitations. University of the Philippines Institute of Islamic Studies Assistant Professor Nassef Manabilang Adiong, PhD pointed out that majority of Madrasah schools provide Islamic education that is lacking in depth. <br>
 
@@ -325,7 +325,8 @@ padding-bottom: 100px;
   width: 30px;
   height: 22px;
   padding: 0 5px 1.8px;
-  border-bottom: 1px solid #1C4480;
+
+  /* border-bottom: 1px solid #1C4480; */
 }
 
 .c-elem3>h4>#uline:hover{
@@ -337,7 +338,14 @@ padding-bottom: 100px;
   border-bottom: 1px solid #1C4480; */
   background-color: #1C4480;
   color: white;
+  cursor: pointer;
+
   /* padding: 1px 5px; */
+}
+
+a:hover{
+color: white;
+text-decoration: none;
 }
 
 .c-elem3>h4>#heading>div{
