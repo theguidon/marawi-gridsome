@@ -25,7 +25,7 @@
     <span id='heading'><div><b>A Maranao educator’s plight</b></div></span><br><br><br>
 
     <span id=quote>
-      <div class="ql"><i class="fas fa-quote-left"></i></div>
+      <div class="ql ql-1"><i class="fas fa-quote-left"></i></div>
 
       <h2><span class="qlb"></span>"Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable" <br><span class="attribution">- PDRF President Rene Meily</span><span class="qrb"></span></h2>
 
@@ -44,7 +44,7 @@
       Selic shared that she and her fellow professors used to teach in various schools in Ground Zero. Not all of them were employed under the same institutions, but after the siege, Selic resolved to find enough teachers to join her mission to continue the education of the displaced Maranao youth. 
 
 <span id=quote>
-      <div class="ql"><i class="fas fa-quote-left"></i></div>
+      <div class="ql ql-2"><i class="fas fa-quote-left"></i></div>
 
       <h2><span class="qlb"></span><em>“<i>Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan</i> </em>(The most important thing for us is to ensure that we’re able to get anyone and everyone into school)” <br><span class="attribution">- Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic</span> <span class="qrb"></span></h2>
 
@@ -377,6 +377,14 @@ text-decoration: none;
   transform: translate(-10%,30px);
 }
 
+.ql-1{
+  margin-top: -50px;
+}
+
+.ql-2{
+  margin-top: 50px;
+}
+
 .qr{
   font-size: 27px;
 
@@ -385,6 +393,7 @@ text-decoration: none;
 
 .qlb{
   color: white;
+
 }
 
 .qrb{
