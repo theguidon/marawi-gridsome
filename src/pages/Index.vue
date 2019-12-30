@@ -74,13 +74,13 @@ export default {
     width: 100vw;
     height: 120vh;
     /* background-image: url(../assets/bg.png),          linear-gradient(to top, #000417 0%, rgba(196, 196, 196, 0) 250.29%); */
-    background-image: url(../assets/landing-bg-new.jpg), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
+    background-image: url(../assets/Landing.jpg), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
     /* mix-blend-mode: lighten; */
     background-blend-mode: overlay;
     text-align: center;
     padding-top: 128px;
     margin-bottom: 0px;
-    /* background-size: cover; */
+    background-size: cover;
     background-position: top left;
     
 }
@@ -229,8 +229,10 @@ hr{
     .hdr{
         height: 690px;
         padding-top: 150px;
-    background-image: url(../assets/mobile-landing-hdr-bg.png), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
+    background-image: url(../assets/Landing-mobile.png), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
         background-position: 60% 0%;
+    background-size: cover;
+
     }
     .hdr>h1{
         width: 80vw;
