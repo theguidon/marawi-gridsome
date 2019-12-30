@@ -31,7 +31,7 @@
 
       <br>
 
-      Perhaps without meaning to, these stories have further reinforced the <span id="uline"><a href="https://www.reuters.com/article/us-philippines-militants-muslims/philippine-muslims-fear-marawi-fighting-may-deepen-communal-discord-idUSKBN19J132">misguided notion</a></span> of Muslim-Christian hostility in the Philippines. In reality, the Maute Group’s acts of violence, which they claim to have done allahu akbar, or in the name of God, also severely hurt their fellow Muslims. Not only were mosques used as battlefields, ancestral homes destroyed, and many killed as casualties of the war, but the siege also added to the already difficult challenge of deconstructing the anti-Muslim narrative.<br>
+      Perhaps without meaning to, these stories have further reinforced the <span id="uline"><a href="https://www.reuters.com/article/us-philippines-militants-muslims/philippine-muslims-fear-marawi-fighting-may-deepen-communal-discord-idUSKBN19J132">misguided notion</a></span> of Muslim-Christian hostility in the Philippines. In reality, the Maute Group’s acts of violence, which they claim to have done <i>allahu akbar</i>, or in the name of God, also severely hurt their fellow Muslims. Not only were mosques used as battlefields, ancestral homes destroyed, and many killed as casualties of the war, but the siege also added to the already difficult challenge of deconstructing the anti-Muslim narrative.<br>
 
       <br><br>
 
@@ -62,7 +62,7 @@
 
       <br>
 
-      Islamic teacher from the Marqaz Mosque in Marawi City Abolkhair Bantuas shared similar sentiments. “Kung baga sa Islam, pantay-pantay—walang mataas at walang mababa… Basta sa Islam, pare-pareho—dapat nagkakaisa (In Islam, we are all equal—no one is ranked above or below the other. In Islam, we are one),” he said about the Christian-Muslim dynamic in Mindanao.<br>
+      Islamic teacher from the Marqaz Mosque in Marawi City Abolkhair Bantuas shared similar sentiments. “<i>Kung baga sa Islam, pantay-pantay—walang mataas at walang mababa… Basta sa</i> Islam, <i>pare-pareho—dapat nagkakaisa</i> (In Islam, we are all equal—no one is ranked above or below the other. In Islam, we are one),” he said about the Christian-Muslim dynamic in Mindanao.<br>
 
       <br>
 
@@ -116,7 +116,7 @@
         <div class="qr"><i class="fas fa-quote-right"></i></div>
 
       </span><br>
-      Bantuas adds to this, saying that Islamic groups who enact violence against individuals of different faiths allahu akbar are misinformed. “Naligaw ang landas ng ibang [Muslim] (Some Muslims have lost their way),” he said. “Ang Islam at ang [Christianity]—isa lang ‘yan. Ang nag-iiba lang ang prophet (Islam and Christianity are one and the same. The only difference is the prophet).”<br>
+      Bantuas adds to this, saying that Islamic groups who enact violence against individuals of different faiths <i>allahu akbar</i> are misinformed. “<i>Naligaw ang landas ng ibang</i> [Muslim] (Some Muslims have lost their way),” he said. “<i>Ang</i> Islam at ang [Christianity]—<i>isa lang ‘yan. Ang nag-iiba lang ang</i> prophet (Islam and Christianity are one and the same. The only difference is the prophet).”<br>
 
       <br>
       
