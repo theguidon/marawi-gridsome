@@ -17,13 +17,13 @@
     <div class="c-elem1">
       <!-- <h6>ONE IN PRAYER. Classes in Marawi City, the only Islamic city in the Philippines, begin with an Islam prayer. For local educators, the reestablishment of a proper education system to get children back to school is crucial to the rehabilitation of the city and the full recovery of its people. | Photo by Jason Mariano</h6> -->
     </div>
-    <div class="c-elem2">
+    <!-- <div class="c-elem2">
       <span><h6 id='h61'>ARTICLE</h6></span>
       <span><h1>Keeping faith</h1></span>
       <span><h5>When news of the Marawi siege broke out, misconceptions about Muslim-Christian hostility quickly followed. The GUIDON debunks these Islamophobic notions and puts forth a simple plea from the Maranao Muslims: Religious understanding from their fellow Filipinos so that they may practice their faith unburdened with discrimination and accusations.</h5></span>
       <span><h6 style="font-family: Chivo; font-size:15px;">By Danielle R. Garcia and Alithea C. Soriano</h6></span>
     <br>
-  </div>
+  </div> -->
     <div class="c-elem3">
     <!-- <h4> -->
       <span id=blue>AMONG MOUNTAINS of crushed cement,</span> tangles of overgrown vines, and scatterings of misshapen steel, a silver crescent sits atop the rubble as it furiously glints under the harsh rays of the Mindanao sun.<br>
