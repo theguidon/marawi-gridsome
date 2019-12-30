@@ -614,12 +614,19 @@ line-height: 24px;
 }
 
 .c-elem2{
-  height: 60vh;
+  height: 90vh;
 }
 
 .c-elem2>span>h5{
   font-size: 13px;
-  height:30vh
+  height:50vh;
+  margin: 0 auto;
+}
+
+.c-elem2>span>h6{
+  width: 80vw;
+  margin: 0 auto;
+  font-size: 11px;
 }
 #arrow{
   padding-left: 20px;
