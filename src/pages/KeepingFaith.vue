@@ -219,7 +219,8 @@ nav{
 
   background-repeat:no-repeat;
   background-size:cover;
-  background-image: url(../assets/headline-img.png);
+  /* background-image: url(../assets/headline-img.png); */
+  background-image: url(../assets/kf-bg.jpg);
 
   position: relative;
   z-index: 0;
@@ -347,6 +348,7 @@ padding-top: 20px;
   color: #1C4480;
   font-weight: 1000;
   font-size: 48px;
+  font-family: 'Tiempos Bold'
 }
 
 .fad>.landing-elems>h1{
