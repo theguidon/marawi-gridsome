@@ -18,20 +18,12 @@
       </div>
     </div>
     <div class="video-container">
-      <!-- <g-image class = "video" src="../assets/video.png" /> -->
-      <iframe
-        src="https://www.youtube.com/embed/5mwLaIIX7rQ"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+      <iframe src="https://www.youtube.com/embed/b-sGBVGH29E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     <div class="text-container">
       <h1 class="animated bottom-animation-div bottom-text wow">
-        “Lorem ipsum dolor sit amet, consectetur
-        <br />adipiscing elit, sed do eiusmod tempor
-        <br />incididunt ut labore et dolore magna aliqua.”
+        ‪lorem ipsum
       </h1>
     </div>
     <CardsSection />
@@ -282,6 +274,7 @@ iframe {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  width: 80vw;
 }
 
 .bottom-text {

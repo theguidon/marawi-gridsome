@@ -28,9 +28,7 @@
 
     <div class="text-container">
       <h1 class="animated bottom-animation-div bottom-text wow">
-        “Lorem ipsum dolor sit amet, consectetur
-        <br />adipiscing elit, sed do eiusmod tempor
-        <br />incididunt ut labore et dolore magna aliqua.”
+        "Hindi naman namin pinangarap na yung Marawi magmukhang BGC. Gusto lang namin maayos siya‬."
       </h1>
     </div>
     <CardsSection />
@@ -286,6 +284,8 @@ iframe {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  width: 80vw;
+  margin: 0 auto;
 }
 
 .bottom-text {
