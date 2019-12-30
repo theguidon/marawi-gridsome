@@ -522,6 +522,13 @@ line-height: 34px;
     margin-left: 26%;
   }
 
+#c-img1>#ffe{
+  padding-top:15px;
+  text-align: center;
+  width: 80vw;
+  font-size: 75%;
+  margin: 0 auto;
+} 
   .c-elem1{
 
     width: 91.5% !important;
@@ -558,7 +565,7 @@ line-height: 34px;
     width: 113% !important;
   }
 
-  #c-img1>#ffe,#c-img2>h6,#c-img3>h6,#c-img4>h6,#c-img6>h6{
+#c-img2>h6,#c-img3>h6,#c-img4>h6,#c-img6>h6{
     margin-left: 23px !important;
     width: 94.88%;
   }

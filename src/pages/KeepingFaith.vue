@@ -604,6 +604,15 @@ object-fit: contain;
 
 
 }
+
+#c-img1>#ffe{
+  padding-top:15px;
+  text-align: center;
+  width: 80vw;
+  margin: 0 auto;
+  font-size: 75%;
+
+}
 #s3{
   height: 0px !important;
   margin-top: 50px !important;
