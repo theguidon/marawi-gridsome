@@ -728,6 +728,7 @@ margin-bottom: 0px;
 
 .s3-mobile{
   height: 758px !important;
+
   background-image: url(../assets/keepin-faith-thumbnail.png);
 
   background-repeat:no-repeat;
