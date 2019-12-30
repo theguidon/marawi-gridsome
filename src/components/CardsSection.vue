@@ -105,7 +105,6 @@ export default {
   font-style: normal;
   width: 340px;
   height: 35px;
-  vertical-align: middle;
   font-weight: 500;
   font-size: 18px;
   /* line-height: 22px; */
@@ -232,6 +231,16 @@ line-height: 18px;
     );
   }
 
+.the-narratives-header{
+  /* width: 70vw; */
+  width: 276px;
+  height: 20px;
+  vertical-align: middle;
+  padding-top:3px;
+
+  font-size: 13px;
+  line-height: 16px;
+}
   
 
   .flex-container-1,
