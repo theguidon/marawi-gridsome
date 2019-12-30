@@ -111,7 +111,7 @@
         <div class="ql" style="margin-top:25px;"><i class="fas fa-quote-left"></i></div>
 
         <h2><span class="qlb">"</span>“Ang Islam <em>at ang</em> [Christianity]—isa lang ‘yan. Ang nag-iiba lang ang prophet (Islam and Christianity are one and the same. The only difference is the prophet).”
-<br>- Marqaz Mosque Islamic teacher Abolkhair Bantuas<span style="transform: translate(50px,0);"></span><span class="qrb">"</span></h2>
+<br><span class="attribution">- Marqaz Mosque Islamic teacher Abolkhair Bantuas</span><span style="transform: translate(50px,0);"></span><span class="qrb">"</span></h2>
 
         <div class="qr"><i class="fas fa-quote-right"></i></div>
 
@@ -233,6 +233,9 @@ nav{
   position: absolute;
   z-index: 1;
 
+}
+.attribution{
+  font-size: 65%;
 }
 
 .fad{

@@ -20,21 +20,21 @@
     <h4><span id=blue>IT HAS been two years</span>  since the siege that devastated the heart of Marawi City, but full recovery remains far out of arm’s reach to this very day. Obstacles to this include  <span id="uline"> <a href="https://newsinfo.inquirer.net/1149905/46-more-unexploded-bombs-keeping-marawi-folks-return-at-bay">unexploded ordnances</a>,</span>   possible threats of  <span id="uline"> <a href="https://www.theguardian.com/world/2019/feb/08/the-fight-is-not-over-fears-of-isis-resurgence-in-philippines">extremist resurgence</a> </span>, <span id="uline"><a href="https://www.aspi.org.au/report/marawi-crisis-urban-conflict-and-information-operations">low trust</a></span> in the national government, and the Armed Forces of the Philippines’ <span id="uline"> “<a href="https://www.aspi.org.au/report/marawi-crisis-urban-conflict-and-information-operations">poorly managed post-conflict rehabilitation</a>." </span><br>
       <br> The ongoing fight for access to education is another, but recent strides have been made in the attempt to overcome this. For example, in November 2018, Philippine Business for Social Progress Executive Director Reynaldo Laguda mentioned that a construction project worth Php 3.5 billion—sponsored by the Coca Cola Foundation—was set to  <span id="uline"> <a href="https://www.pna.gov.ph/articles/1055069">provide</a></span>     two school buildings in Barangay Gadongan. <br><br>
       Moreover, September 2018 saw the Philippine Disaster Resilience Foundation (PDRF), along with the Project Handclasp Foundation and the US-Philippines Society,  <span id="uline"> <a href="https://business.inquirer.net/258166/marawi-schools-get-school-kits">turn over</a></span> Smart School-in-a-Bag kits to learning institutions such as Tuca Boganga Elementary School as part of its Children of Marawi project. Smart School in-a-Bag kits serve as “a portable digital classroom designed to facilitate learning in remote areas without electricity.”<br>
-      The Office of the Vice President also recently  <span id="uline"><a href="https://newsinfo.inquirer.net/1134806/robredo-to-turn-over-school-buildings-houses-in-marawi">turned over</a></span> two-classroom buildings to Mapandi Elementary School in Barangay Gadongan. Several other classrooms and housing units were built through Vice President Leni Robredo’s anti-poverty program called Angat Buhay.<br><br><br>
+      The Office of the Vice President also recently  <span id="uline"><a href="https://newsinfo.inquirer.net/1134806/robredo-to-turn-over-school-buildings-houses-in-marawi">turned over</a></span> two-classroom buildings to Mapandi Elementary School in Barangay Gadongan. Several other classrooms and housing units were built through Vice President Leni Robredo’s anti-poverty program called <i>Angat Buhay.</i><br><br><br>
 
     <span id='heading'><div><b>A Maranao educator’s plight</b></div></span><br><br><br>
 
     <span id=quote>
       <div class="ql"><i class="fas fa-quote-left"></i></div>
 
-      <h2><span class="qlb">"</span>"Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable" <br>- PDRF President Rene Meily<span class="qrb">"</span></h2>
+      <h2><span class="qlb"></span>"Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable" <br><span class="attribution">- PDRF President Rene Meily</span><span class="qrb"></span></h2>
 
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
     </span><br><br>
 
     
-    PDRF President Rene Meily emphasized the need to prioritize access to education in war-torn areas like Marawi City. “Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable,” he said.
+    PDRF President Rene Meily emphasized the need to prioritize access to education in war-torn areas like Marawi City. “Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable.” - PDRF President Rene Meily
 
       <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/cimg1.png" alt=""/><h6 id="ffe">FIGHT FOR EDUCATION. Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic shares the hardships she experienced as she pushed for the creation of a school for the internally displaced people of Marawi. | Photo by Jason Mariano</h6></div></span>
 
@@ -46,7 +46,7 @@
 <span id=quote>
       <div class="ql"><i class="fas fa-quote-left"></i></div>
 
-      <h2><span class="qlb">"</span><em>“Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan </em>(The most important thing for us is to ensure that we’re able to get anyone and everyone into school)” <br>- Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic <span class="qrb">"</span></h2>
+      <h2><span class="qlb"></span><em>“<i>Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan</i> </em>(The most important thing for us is to ensure that we’re able to get anyone and everyone into school)” <br><span class="attribution">- Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic</span> <span class="qrb"></span></h2>
 
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
@@ -60,35 +60,35 @@
 
       However, aside from the facilities, educators in Marawi also value the <span id="uline">  <a href="https://www.jstor.org/stable/10.1086/503883?seq=2#metadata_info_tab_contents">Islamization of education</a>,</span>  which has long catered to the distinct socio-cultural traditions of Muslim Mindanao. This is evident even in makeshift schools like that of Sarimanok Tent City Area 2, wherein students are taught about Arabic language and Islam alongside subjects like math, english, and social sciences. <br>
 
-      <span id="c-img1-container"><div id="c-img3"><g-image src="../assets/cimg3.png" alt=""/><h6>ISLAMIC ROOTS. An elementary teacher lectures about the Arabic language in adherence to the Madrasah Educational Program. | Photo by Aldo Santiago</h6></div></span>
+      <span id="c-img1-container"><div id="c-img3"><g-image src="../assets/cimg3.png" alt=""/><h6>ISLAMIC ROOTS. An elementary teacher lectures about the Arabic language in adherence to the <i>Madrasah</i> Educational Program. | Photo by Aldo Santiago</h6></div></span>
 
       <br>
 
     <span id='heading'><div><b>The need for depth</b></div></span><br><br><br>
 
       Selic explained that Islafm-centered education is integral to the development of the Muslim youth, especially after a situation as traumatic as the five-month long siege. Even at the primary level, Muslim students are taught about the language and history of their faith in hopes that it may establish a sense of identity and illuminate a path—or “destination,” as Selic put it—for the students to look forward to after   the war. <br><br><br>
-      This Islamized curriculum is institutionalized by the Department of Education (DepEd) as part of their <span id="uline"> “<a href="https://planipolis.iiep.unesco.org/sites/planipolis/files/ressources/philippines_efa_mda.pdf">Education for All</a>”</span> mandate. In 2004, DepEd released <span id="uline"><a href="https://www.deped.gov.ph/wp-content/uploads/2004/08/DO_s2004_051.pdf">DepEd Order (DO) No. 51</a>,</span> which ordered madaris (i.e., Islamic educational institutions) nationwide to adopt the Madrasah Educational Program on top of conventional schooling. <br><br><br>
+      This Islamized curriculum is institutionalized by the Department of Education (DepEd) as part of their <span id="uline"> “<a href="https://planipolis.iiep.unesco.org/sites/planipolis/files/ressources/philippines_efa_mda.pdf">Education for All</a>”</span> mandate. In 2004, DepEd released <span id="uline"><a href="https://www.deped.gov.ph/wp-content/uploads/2004/08/DO_s2004_051.pdf">DepEd Order (DO) No. 51</a>,</span> which ordered <i>madaris</i> (i.e., Islamic educational institutions) nationwide to adopt the <i>Madrasah</i> Educational Program on top of conventional schooling. <br><br><br>
 
-      DO No. 51 aims to <span id="uline"><a href="https://www.deped.gov.ph/wp-content/uploads/2004/08/DO_s2004_051.pdf">address</a></span>  Muslim ignorance about their religion and the language of their Holy Qur’an, among other things. The Madrasah Educational Program was created to combat such ignorance by providing “meaningful, relevant, and culture-sensitive” education for the Muslim population. DepEd Undersecretary for Muslim Affairs Manaros Boransing, PhD further emphasized that the madaris, as the “oldest educational institution[s] in Mindanao,” are integral to the preservation of the values mandated by Islamic faith and culture in the Philippines.<br><br><br>
+      DO No. 51 aims to <span id="uline"><a href="https://www.deped.gov.ph/wp-content/uploads/2004/08/DO_s2004_051.pdf">address</a></span>  Muslim ignorance about their religion and the language of their Holy Qur’an, among other things. The <i>Madrasah</i> Educational Program was created to combat such ignorance by providing “meaningful, relevant, and culture-sensitive” education for the Muslim population. DepEd Undersecretary for Muslim Affairs Manaros Boransing, PhD further emphasized that the <i>madaris</i>, as the “oldest educational institution[s] in Mindanao,” are integral to the preservation of the values mandated by Islamic faith and culture in the Philippines.<br><br><br>
 
-      However, the Madrasah Educational Program has its limitations. University of the Philippines Institute of Islamic Studies Assistant Professor Nassef Manabilang Adiong, PhD pointed out that majority of Madrasah schools provide Islamic education that is lacking in depth. <br>
+      However, the <i>Madrasah</i> Educational Program has its limitations. University of the Philippines Institute of Islamic Studies Assistant Professor Nassef Manabilang Adiong, PhD pointed out that majority of <i>Madrasah</i> schools provide Islamic education that is lacking in depth. <br>
 
       <span id="c-img1-container"><div id="c-img4"><g-image src="../assets/cimg4.png" alt=""/><h6>NEWFOUND LEARNING. Grade school students from Sarimanok Tent City Area 2 have regularly attended class since the school’s opening in July 2019. | Photo by Aldo Santiago</h6></div></span>
 
 
-      “Ang Madrasah system dito…karamihan ang mga tinuturo ay lenggwahe ng Arabo. Mag-aaral [ang mga bata] ng Arabic language tapos aside from that yung basic knowledge sa Islam…Hindi siya in-depth, kung hindi napaka-basic lang yung tinuturo [sa kanila].” <br><br><br>
+      “<i>Ang Madrasah system dito…karamihan ang mga tinuturo ay lenggwahe ng Arabo. Mag-aaral [ang mga bata] ng Arabic language tapos aside from that yung basic knowledge sa Islam…Hindi siya in-depth, kung hindi napaka-basic lang yung tinuturo [sa kanila].</i>” <br><br><br>
 
-      (Madrasah schools often focus on teaching students Arabic language and basic knowledge of Islam. These are not in-depth because they only provide basic understanding.) <br><br><br>
+      (<i>Madrasah</i> schools often focus on teaching students Arabic language and basic knowledge of Islam. These are not in-depth because they only provide basic understanding.) <br><br><br>
 
-      Adiong added that to mitigate this, DepEd should conduct more training sessions for Madrasah teachers. “[They] must undergo training [that prepares them to] to be educated with various bodies of knowledge, not only of Islam, so that they can have all-around plurality of knowledge [that will be useful in teaching their students].” <br>
+      Adiong added that to mitigate this, DepEd should conduct more training sessions for <i>Madrasah</i> teachers. “[They] must undergo training [that prepares them to] to be educated with various bodies of knowledge, not only of Islam, so that they can have all-around plurality of knowledge [that will be useful in teaching their students].” <br>
 
       <span id="c-img1-container"><div id="c-img6"><g-image src="../assets/cimg6.png" alt=""/><h6>HEALING THROUGH EDUCATION. Teachers at the Marawi Sarimanok Elementary Pilot School continue to push for a just and inclusive education for the displaced children of Marawi. These educators firmly believe that bringing the youth back to school will greatly help with the long-term healing of the community. | Photo by Jason Mariano</h6></div></span>
 
   <span id='heading'><div><b>In classrooms again</b></div></span><br><br>
 
       This only goes to show that for educators like Selic who shoulder the responsibility of teaching Muslim students about the basics of their faith and developing their sense of identity after years of being displaced, material assistance may not be enough. <br><br><br>
-      Selic and her fellow educators at Marawi Sarimanok Elementary Pilot School have fought tooth and nail to provide the displaced youth of Marawi with the primary education that they deserve. However, government and non-government agencies have the resources to take this a step further. Aside from donating materials and facilities, these organizations must also look into providing training and manpower for Maranao teachers. Doing so not only makes education more accessible in the city, but also allows these educators to holistically teach their students about the Islamic faith, as the Madrasah Educational Program intended. <br><br><br>
-      Marawi and its residents still face a long road of recovery ahead, but determined educators will not cease to teach, travel, and build until Marawi’s displaced youth find themselves in classrooms once again. As Selic herself said, “Kapag ilipat sila [sa iba], susunod kami kung saan sila [mapunta] hangga’t sa hindi pa maayos ang [mga paaralan sa] Ground Zero (If they are moved somewhere else, we will follow until the schools in Ground Zero stand again).” <br></h4></div>
+      Selic and her fellow educators at Marawi Sarimanok Elementary Pilot School have fought tooth and nail to provide the displaced youth of Marawi with the primary education that they deserve. However, government and non-government agencies have the resources to take this a step further. Aside from donating materials and facilities, these organizations must also look into providing training and manpower for Maranao teachers. Doing so not only makes education more accessible in the city, but also allows these educators to holistically teach their students about the Islamic faith, as the <i>Madrasah</i> Educational Program intended. <br><br><br>
+      Marawi and its residents still face a long road of recovery ahead, but determined educators will not cease to teach, travel, and build until Marawi’s displaced youth find themselves in classrooms once again. As Selic herself said, “<i>Kapag ilipat sila [sa iba], susunod kami kung saan sila [mapunta] hangga’t sa hindi pa maayos ang [mga paaralan sa]</i> Ground Zero (If they are moved somewhere else, we will follow until the schools in Ground Zero stand again).” <br></h4></div>
 
 
 
@@ -260,6 +260,9 @@ color: #3F3F3F;
 
 }
 
+.attribution{
+  font-size: 65%;
+}
 #h61{
   margin-bottom: 4.21px;
 
