@@ -38,19 +38,9 @@
 
       <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/cimg1.png" alt=""/><h6 id="ffe">FIGHT FOR EDUCATION. Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic shares the hardships she experienced as she pushed for the creation of a school for the internally displaced people of Marawi. | Photo by Jason Mariano</h6></div></span>
 
-      <br>
-
       Such is the philosophy of Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic, who, along with other former Marawi-based professors, established a makeshift school at Sarimanok Tent City Area 2, Marawi City. <br><br><br>
-      Selic shared that she and her fellow professors used to teach in various schools in Ground Zero. Not all of them were employed under the same institutions, but after the siege, Selic resolved to find enough teachers to join her mission to continue the education of the displaced Maranao youth. 
-
-<span id=quote>
-      <div class="ql ql-2"><i class="fas fa-quote-left"></i></div>
-
-      <h2><span class="qlb"></span><em>“<i>Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan</i> </em>(The most important thing for us is to ensure that we’re able to get anyone and everyone into school)” <br><span class="attribution">- Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic</span> <span class="qrb"></span></h2>
-
-      <div class="qr"><i class="fas fa-quote-right"></i></div>
-
-    </span><br><br>      
+      Selic shared that she and her fellow professors used to teach in various schools in Ground Zero. Not all of them were employed under the same institutions, but after the siege, Selic resolved to find enough teachers to join her mission to continue the education of the displaced Maranao youth. “<i>Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan</i> (The most important thing for us is to ensure that we’re able to get anyone and everyone into school),” she said.
+<br>    
 
       <span id="c-img1-container"><div id="c-img2"><g-image src="../assets/cimg2.png" alt=""/><h6>MAKESHIFT SCHOOLS. The Marawi Sarimanok Elementary Pilot School was successfully established by a group of former Marawi-based professors with the help of Save the Children Philippines and the Philippine Red Cross. However, two years after the armed conflict that displaced many residents in the city, communities still struggle to build educational institutions due to the lack of quality facilities and materials. | Photo by Aldo Santiago</h6></div></span>
 
@@ -64,9 +54,18 @@
 
       <br>
 
-    <span id='heading'><div><b>The need for depth</b></div></span><br><br><br>
+    <span id='heading'><div><b>The need for depth</b></div></span>
 
-      Selic explained that Islafm-centered education is integral to the development of the Muslim youth, especially after a situation as traumatic as the five-month long siege. Even at the primary level, Muslim students are taught about the language and history of their faith in hopes that it may establish a sense of identity and illuminate a path—or “destination,” as Selic put it—for the students to look forward to after   the war. <br><br><br>
+<span id=quote>
+      <div class="ql ql-2"><i class="fas fa-quote-left"></i></div>
+
+      <h2><span class="qlb"></span>“<i>Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan</i> (The most important thing for us is to ensure that we’re able to get anyone and everyone into school)” <br><span class="attribution">- Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic</span> <span class="qrb"></span></h2>
+
+      <div class="qr"><i class="fas fa-quote-right"></i></div>
+
+    </span><br><br>  
+
+      Selic explained that Islam-centered education is integral to the development of the Muslim youth, especially after a situation as traumatic as the five-month long siege. Even at the primary level, Muslim students are taught about the language and history of their faith in hopes that it may establish a sense of identity and illuminate a path—or “destination,” as Selic put it—for the students to look forward to after   the war. <br><br><br>
       This Islamized curriculum is institutionalized by the Department of Education (DepEd) as part of their <span id="uline"> “<a href="https://planipolis.iiep.unesco.org/sites/planipolis/files/ressources/philippines_efa_mda.pdf">Education for All</a>”</span> mandate. In 2004, DepEd released <span id="uline"><a href="https://www.deped.gov.ph/wp-content/uploads/2004/08/DO_s2004_051.pdf">DepEd Order (DO) No. 51</a>,</span> which ordered <i>madaris</i> (i.e., Islamic educational institutions) nationwide to adopt the <i>Madrasah</i> Educational Program on top of conventional schooling. <br><br><br>
 
       DO No. 51 aims to <span id="uline"><a href="https://www.deped.gov.ph/wp-content/uploads/2004/08/DO_s2004_051.pdf">address</a></span>  Muslim ignorance about their religion and the language of their Holy Qur’an, among other things. The <i>Madrasah</i> Educational Program was created to combat such ignorance by providing “meaningful, relevant, and culture-sensitive” education for the Muslim population. DepEd Undersecretary for Muslim Affairs Manaros Boransing, PhD further emphasized that the <i>madaris</i>, as the “oldest educational institution[s] in Mindanao,” are integral to the preservation of the values mandated by Islamic faith and culture in the Philippines.<br><br><br>
@@ -500,6 +499,11 @@ text-decoration: none;
   .fad>.landing-elems>h5>br{
     display: none;
   }
+
+.c-elem3>h4{
+  width: 80vw;
+  margin: 0 auto;
+}
 
   .fad>.landing-elems>h1{
     margin-bottom: 13px !important;

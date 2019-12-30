@@ -7,7 +7,7 @@
         <g-link to="/keeping-faith/">
         <div class="textbox">
           <h6 class="box-category">ARTICLE</h6>
-          <h2 class="box-title">Keeping Faith</h2>
+          <h2 class="box-title">Keeping faith</h2>
           <p class="box-desc animated fadeIn">The GUIDON’s last article for the Marawi rehabilitation series debunks Islamophobic notions and puts forth a simple plea from the Muslims of Maranao: Religious understanding from their fellow Filipinos so that they may practice their faith, which is essential to their recovery, unburdened with discrimination and accusations.</p>
           <p class="box-credits">by Danielle R. Garcia and Alithea C. Soriano</p>
         </div>
@@ -17,9 +17,9 @@
         <g-link to="/rehabilitation-efforts/">
         <div class="textbox">
           <h6 class="box-category">BROADCAST NEWS</h6>
-          <h2 class="box-title">Marawi’s Rehabilitation Efforts</h2>
+          <h2 class="box-title">Marawi’s rehabilitation efforts</h2>
           <p class="box-desc animated fadeIn">As Marawi City commemorates the second year since President Rodrigo Duterte declared its liberation from the extremist group Maute, #TheGlimpses on The GUIDON looks into the residents’ various efforts to rebuild their beloved city.‬</p>
-          <p class="box-credits">by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
+          <p class="box-credits">by Mariana Gardoce and Tatiana Maligro</p>
         </div>
         </g-link>
       </div>
@@ -49,9 +49,9 @@
         <g-link to="/continued-displacement/">
         <div class="textbox">
           <h6 class="box-category">MINI DOCUMENTARY</h6>
-          <h2 class="box-title">The Maranao’s continued displacement</h2>
+          <h2 class="box-title">Kawaraw</h2>
           <p class="box-desc animated fadeIn">Named after the word for bravery in Maranao, Kawaraw tells the stories of Marawi's residents as they face the new battle of rebuilding their beloved city while retaining their cultural identity. Despite the hazy future brought by rehabilitation delays and insufficient relief efforts, residents continue to persist in hopes that they may soon come home.</p>
-          <p class="box-credits">by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
+          <p class="box-credits">by Mariana Gardoce and Tatiana Maligro</p>
         </div>
         </g-link>
       </div>
@@ -139,12 +139,9 @@ export default {
 }
 
 .photoessay-box {
-  /* background-image: url(../assets/photoessay-thumbnail.png); */
   background-image: url('../assets/081319-Marawi IJP-Santiago-127.jpg');
   background-size: cover;
   background-position: 25%;
-  /* background-size: 80%; */
-  
 }
 
 .flex-container-2 {
