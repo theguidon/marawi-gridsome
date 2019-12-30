@@ -34,11 +34,13 @@
     <span id=quote>
       <div class="ql"><i class="fas fa-quote-left"></i></div>
 
-      <h2><i><span class="qlb">"</span>"Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable"<span class="qrb">"</span></i></h2>
+      <h2><span class="qlb">"</span>"Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable" <br>- PDRF President Rene Meily<span class="qrb">"</span></h2>
 
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
     </span><br><br>
+
+    
     PDRF President Rene Meily emphasized the need to prioritize access to education in war-torn areas like Marawi City. “Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable,” he said.
 
       <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/cimg1.png" alt=""/><h6 id="ffe">FIGHT FOR EDUCATION. Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic shares the hardships she experienced as she pushed for the creation of a school for the internally displaced people of Marawi. | Photo by Jason Mariano</h6></div></span>
@@ -46,7 +48,16 @@
       <br>
 
       Such is the philosophy of Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic, who, along with other former Marawi-based professors, established a makeshift school at Sarimanok Tent City Area 2, Marawi City. <br><br><br>
-      Selic shared that she and her fellow professors used to teach in various schools in Ground Zero. Not all of them were employed under the same institutions, but after the siege, Selic resolved to find enough teachers to join her mission to continue the education of the displaced Maranao youth. <i>“Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan (The most important thing for us is to ensure that we’re able to get anyone and everyone into school),”</i> she said. <br>
+      Selic shared that she and her fellow professors used to teach in various schools in Ground Zero. Not all of them were employed under the same institutions, but after the siege, Selic resolved to find enough teachers to join her mission to continue the education of the displaced Maranao youth. 
+
+<span id=quote>
+      <div class="ql"><i class="fas fa-quote-left"></i></div>
+
+      <h2><span class="qlb">"</span><em>“Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan </em>(The most important thing for us is to ensure that we’re able to get anyone and everyone into school)” <br>- Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic <span class="qrb">"</span></h2>
+
+      <div class="qr"><i class="fas fa-quote-right"></i></div>
+
+    </span><br><br>      
 
       <span id="c-img1-container"><div id="c-img2"><g-image src="../assets/cimg2.png" alt=""/><h6>MAKESHIFT SCHOOLS. The Marawi Sarimanok Elementary Pilot School was successfully established by a group of former Marawi-based professors with the help of Save the Children Philippines and the Philippine Red Cross. However, two years after the armed conflict that displaced many residents in the city, communities still struggle to build educational institutions due to the lack of quality facilities and materials. | Photo by Aldo Santiago</h6></div></span>
 
@@ -367,6 +378,9 @@ text-decoration: none;
 
 #quote>h2{
   font-weight: bold;
+  border-style: solid none;
+  border-color: black;
+  padding: 20px;
 }
 
 .ql{
