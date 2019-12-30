@@ -57,15 +57,15 @@
     <span id=quote>
       <div class="ql"><i class="fas fa-quote-left"></i></div>
 
-      <h2><i><span class="qlb">"</span>"Muslims and Christians protecting each other from harm. Muslims have protected and helped Christians to escape from almost certain death. Even now Christians are assisting thousands of Muslims who have fled from Marawi for safety. These are indisputable signs that there is no religious war,"<span class="qrb">"</span></i></h2>
-
+      <h2><span class="qlb">"</span>"In reality, the Maute Group’s acts of violence, which they claim to have done <em>allahu akbar</em>, or in the name of God, also severely hurt their fellow Muslims."<span class="qrb">"</span></h2>
+ 
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
     </span><br>
 
       <br>
 
-       Villegas said, in an attempt to dispel public notions about how the siege was a war between Muslims and Christians.<br>
+       Muslims have protected and helped Christians to escape from almost certain death. Even now Christians are assisting thousands of Muslims who have fled from Marawi for safety. These are indisputable signs that there is no religious war," Villegas said, in an attempt to dispel public notions about how the siege was a war between Muslims and Christians.<br>
 
       <br>
 
@@ -109,22 +109,24 @@
 
       <br>
 
-      <span id=quote>
-        <div class="ql"><i class="fas fa-quote-left"></i></div>
+      
 
-        <h2><i><span class="qlb">"</span><span style="transform: translate(50px,0);">"We don’t hold the right to label [Muslims], whether [they] are extreme or moderate,"</span><span class="qrb">"</span></i></h2>
+      <br>
+
+      However, Adiong calls on the Filipino people, especially those who live in Manila and are more generally removed from Muslim Mindanao, to temper such judgments. "We don’t hold the right to label [Muslims], whether [they] are extreme or moderate," he explained.<br>
+<span id=quote >
+        <div class="ql" style="margin-top:25px;"><i class="fas fa-quote-left"></i></div>
+
+        <h2><span class="qlb">"</span>“Ang Islam <em>at ang</em> [Christianity]<em>—isa lang ‘yan. Ang nag-iiba lang ang</em> prophet (Islam and Christianity are one and the same. The only difference is the prophet).”
+<br>- Marqaz Mosque Islamic teacher Abolkhair Bantuas<span style="transform: translate(50px,0);"></span><span class="qrb">"</span></h2>
 
         <div class="qr"><i class="fas fa-quote-right"></i></div>
 
       </span><br>
-
-      <br>
-
-      he explained.<br>
-
       Bantuas adds to this, saying that Islamic groups who enact violence against individuals of different faiths allahu akbar are misinformed. “Naligaw ang landas ng ibang [Muslim] (Some Muslims have lost their way),” he said. “Ang Islam at ang [Christianity]—isa lang ‘yan. Ang nag-iiba lang ang prophet (Islam and Christianity are one and the same. The only difference is the prophet).”<br>
 
       <br>
+      
 
       The Holy Qur’an <span id=uline>encourages</span> the people of this faith to practice peacekeeping and prohibits them from creating “unnecessary enmity” with others, unless in defense from oppressors. However, in contrast to this, misconceptions that link Islam and terrorism perpetuate to this day as verses in the Holy Qur’an <span id=uline>remain</span> vulnerable to the risk of misinterpretation from extremist groups. <br>
 
@@ -379,15 +381,16 @@ padding-top: 20px;
   padding: 2px 5px;
 }
 
-/* #heading{
-  padding-top: 30px;
-} */
-
 #heading>div{
-  padding-top: 50px;
-  margin-bottom: -40px;
+  /* padding: 0 40%; */
+  margin: 5px 0% 0px;
+  border-style: solid none;
+  border-color: #9FA2C0;
+  /* text-decoration-line: line-through;
+  text-decoration-color: rgba(233, 185, 202, 0.7); */
+  border-width: 0.5px;
   text-align: center;
-
+  margin-bottom: -48px;
 }
 
 .c-elem3>h4>#uline{
@@ -414,6 +417,7 @@ padding-top: 20px;
 }
 
 .c-elem3>h4>#quote{
+
   font-size: 36px;
   padding: 0 30%;
   margin: 50px 0% 100px;
@@ -422,6 +426,9 @@ padding-top: 20px;
 #quote>h2{
   font-weight: bold;
   line-height: 50px;
+  border-style: solid none;
+  border-color: black;
+
 }
 
 .ql{
