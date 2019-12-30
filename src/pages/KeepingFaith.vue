@@ -284,23 +284,8 @@ nav{
   margin: 0 auto;
 }
 
-.c-elem2>span>h5{
-  width: 80vw;
-height: 120px;
-font-weight: normal;
-font-size: 18px;
-line-height: 27px;
-text-align: center;
-color: #3F3F3F;
-padding-top: 20px;
-}
 
-/* .fad>.landing-elems>h6{
-  font-size: 12px;
-  line-height: 14px;
-  text-align: center;
-  color: #5597FB;
-} */
+
 
 .fad>.landing-elems>h5{
   color: #FFFFFF;
@@ -331,12 +316,6 @@ padding-top: 20px;
   overflow-x: hidden;
 }
 
-.c-elem2{
-  margin-bottom: 55px;
-  margin: 0 auto;
-  text-align: center;
-}
-
 #h61{
   margin-bottom: 4.21px;
 
@@ -348,22 +327,11 @@ padding-top: 20px;
   color: #5597FB;
 }
 
-.c-elem2>span>h1,.fad>.landing-elems>h1{
-  margin-bottom: 8px;
-  color: #1C4480;
-  font-weight: 1000;
-  font-size: 48px;
-  font-family: 'Tiempos Bold'
-}
 
 .fad>.landing-elems>h1{
   color: #FFFFFF;
 }
 
-.c-elem2>span>h5,.landing-elems>h5{
-  margin-bottom: 48px;
-  font-size: 18px;
-}
 
 .c-elem3{
   margin-top:40px;
@@ -643,21 +611,6 @@ margin-bottom: 0px;
   margin: 0 auto;
 }
 
-.c-elem2{
-  height: 60vh;
-}
-
-.c-elem2>span>h5{
-  font-size: 13px;
-  height:35vh;
-  margin: 0 auto;
-}
-
-.c-elem2>span>h6{
-  width: 80vw;
-  margin: 0 auto;
-  font-size: 11px;
-}
 #arrow{
   padding-left: 20px;
   margin-bottom: 30px;

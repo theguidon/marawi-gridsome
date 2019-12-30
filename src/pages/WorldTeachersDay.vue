@@ -253,11 +253,6 @@ color: #3F3F3F;
   width: 100%;
 }
 
-.c-elem2{
-  margin-bottom: 55px;
-  text-align: center;
-
-}
 
 .attribution{
   font-size: 65%;
@@ -273,30 +268,11 @@ color: #3F3F3F;
   color: #5597FB;
 }
 
-.c-elem2>span>h1,.fad>.landing-elems>h1{
-  margin-bottom: 8px;
-  color: #1C4480;
-  font-weight: 1000;
-  font-size: 48px;
-}
-
 .fad>.landing-elems>h1{
   color: #FFFFFF;
 }
 
-.c-elem2>span>h5,.landing-elems>h5{
-  margin-bottom: 48px;
-  font-size: 18px;
-  
-}
 
-.c-elem2>span>h5{
-  width: 578px;
-height: 44px;
-margin: 0 auto;
-display: block;
-padding-bottom: 100px;
-}
 
 .c-elem3{
   width: 57.3%;
@@ -548,15 +524,6 @@ line-height: 34px;
 
   #h61{
     font-size: calc(11px + var(--font-increase)) !important;
-  }
-
-  .c-elem2{
-    overflow: hidden;
-
-    height: 0px;
-
-    margin-bottom: 20px !important;
-
   }
 
   .c-elem3{
