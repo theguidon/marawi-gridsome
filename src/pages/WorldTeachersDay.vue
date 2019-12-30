@@ -16,13 +16,6 @@
     <div class="c-elem1">
       <h6>ONE IN PRAYER. Classes in Marawi City, the only Islamic city in the Philippines, begin with an Islam prayer. For local educators, the reestablishment of a proper education system to get children back to school is crucial to the rehabilitation of the city and the full recovery of its people. | Photo by Jason Mariano</h6>
     </div>
-    <div class="c-elem2">
-      <span><h6 id='h61'>ARTICLE</h6></span>
-      <span><h1>Beyond makeshift classrooms</h1></span>
-      <span><h5>Despite lacking facilities, determined educators have established makeshift schools so that the displaced youth may find themselves in classrooms once again. But what else can government and non-government agencies provide to ease their plight?</h5></span>
-      <span><h6 style="font-family: Chivo; font-size:15px;">By Danielle R. Garcia and Alithea C. Soriano</h6></span>
-    <br>
-  </div>
     <div class="c-elem3">
     <h4><span id=blue>IT HAS been two years</span>  since the siege that devastated the heart of Marawi City, but full recovery remains far out of arm’s reach to this very day. Obstacles to this include  <span id="uline"> <a href="https://newsinfo.inquirer.net/1149905/46-more-unexploded-bombs-keeping-marawi-folks-return-at-bay">unexploded ordnances</a>,</span>   possible threats of  <span id="uline"> <a href="https://www.theguardian.com/world/2019/feb/08/the-fight-is-not-over-fears-of-isis-resurgence-in-philippines">extremist resurgence</a> </span>, <span id="uline"><a href="https://www.aspi.org.au/report/marawi-crisis-urban-conflict-and-information-operations">low trust</a></span> in the national government, and the Armed Forces of the Philippines’ <span id="uline"> “<a href="https://www.aspi.org.au/report/marawi-crisis-urban-conflict-and-information-operations">poorly managed post-conflict rehabilitation</a>." </span><br>
       <br> The ongoing fight for access to education is another, but recent strides have been made in the attempt to overcome this. For example, in November 2018, Philippine Business for Social Progress Executive Director Reynaldo Laguda mentioned that a construction project worth Php 3.5 billion—sponsored by the Coca Cola Foundation—was set to  <span id="uline"> <a href="https://www.pna.gov.ph/articles/1055069">provide</a></span>     two school buildings in Barangay Gadongan. <br><br>
@@ -100,15 +93,7 @@
 
 
   </section>
-
-  <section id='s3'>
     <CardsSection />
-  </section>
-  <!-- <div class="s3-mobile">
-    <button type="button" id="next-page">NEXT: The Maranao’s<br> continued displacement<span id="arrow"><i class="fas fa-arrow-right" style="color: white;"></i></span>
-
-    </button>
-  </div> -->
 
 </PageLayout>
 </template>
