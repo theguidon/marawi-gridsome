@@ -23,7 +23,7 @@
 
     <div class="text-container">
       <h1 class="animated bottom-animation-div bottom-text wow">
-        ‪lorem ipsum
+        ‪”Islam is peace, so I don’t think kailangan nating ilagay sa isip natin yung Muslims are terrorists. Terrorists are bad people, not Muslims.‬”
       </h1>
     </div>
     <CardsSection />

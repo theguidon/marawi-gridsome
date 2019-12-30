@@ -236,7 +236,7 @@ line-height: 18px;
   width: 276px;
   height: 20px;
   vertical-align: middle;
-  padding-top:3px;
+  padding-top:7px;
 
   font-size: 13px;
   line-height: 16px;

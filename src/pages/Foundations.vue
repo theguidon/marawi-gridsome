@@ -1098,7 +1098,7 @@ html {
   color: #1c4480;
   line-height: 50px;
   font-style: italic;
-  font-family: ‘Tiempos Text’, sans-serif;
+  font-family: 'Tiempos Text', sans-serif;
   font-size: 24px;
   font-weight: 500;
 }
@@ -1293,6 +1293,18 @@ html {
       width: 80vw;
     margin: 0 auto;
     padding-right: 0px;
+}
+
+.quote{
+  width: 80vw;
+  margin: 0 auto;;
+  margin-top: 250px;
+}
+
+.quote>h1{
+    line-height:40px;
+  font-size: 18px;
+
 }
 }
 </style>
