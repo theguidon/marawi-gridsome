@@ -1,13 +1,8 @@
 <template>
-  <div id="header-container">
+  <div id="header-container" v-if="!hideNavbar">
     <div id="header-flexbox">
       <div class="left-side">
-        <!-- <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/> -->
-        <!-- <g-image src="../assets/GDN_Horizontal-whitetext.svg" class="logo" /> -->
         <g-link to='/'><g-image src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" class="logo" /></g-link>
-        <!-- <div class="hr-1"></div> -->
-        <!-- <hr> -->
-        <!-- <div class="page-title">{{title}}</div> -->
       </div>
       <div class="right-side">
         <g-link :to='prev'><g-image src="../assets/left-arrow.svg" class="arrow" /></g-link>
@@ -22,8 +17,6 @@
       <div id="flexbox-mobile-container">
         <g-image id="burger" src="../assets/burger.svg" @click="toggleSidebar"></g-image>
         <g-link to='/'><g-image src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" class="logo" /></g-link>
-
-        <!-- <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo" /> -->
       </div>
     </div>
 
@@ -73,13 +66,9 @@ export default {
         showSideBar:false,
     };
   },
-  props: ['title', 'prev', 'next'],
+  props: ['title', 'prev', 'next', 'hideNavbar'],
   methods: {
     toggleSidebar: function() {
-    //   var sidebar = document.getElementById("sidebar").style.display;
-    //   sidebar = "none"
-    //     ? (document.getElementById("sidebar").style.display = "block")
-    //     : (document.getElementById("sidebar").style.display = "none");
     this.showSideBar = !this.showSideBar
       console.log("clicked");
     },

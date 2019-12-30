@@ -1,6 +1,6 @@
 <template>
     <div>
-        <HeaderNavbar :title='title' :prev='prev' :next='next'/>
+        <HeaderNavbar :title='title' :prev='prev' :next='next' :hideNavbar='hideNavbar'/>
         <slot />
         <Footer />
     </div>
@@ -16,7 +16,7 @@ export default {
         Footer,
         HeaderNavbar,
     },
-    props: ['title', 'prev', 'next']
+    props: ['title', 'prev', 'next', 'hideNavbar']
 }
 </script>
 

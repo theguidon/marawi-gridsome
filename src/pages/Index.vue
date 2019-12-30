@@ -1,5 +1,5 @@
 <template>
-    <PageLayout title="The GUIDON Interactive: Marawi" leftSideWidth="width: 450px;">
+    <PageLayout title="The GUIDON Interactive: Marawi" leftSideWidth="width: 450px;" hideNavbar=true>
         <div class="hdr">
             <!-- <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/logo-clear.png"/></div> -->
             <!-- <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/90thYear_Logo (WHITE).png"/></div> -->
