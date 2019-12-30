@@ -49,7 +49,7 @@
           <div class="section">
             <g-link to="/continued-displacement/">The Maranao's Continued Displacement</g-link>
           </div>
-          <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo" />
+          <g-image src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" class="logo" />
         </div>
     </transition>
       </div>
@@ -283,11 +283,12 @@ hr {
   }
 
   .logo {
-    width: 123px;
-    height: 22px;
+    width: 180px;
+    height: 122px;
     position: relative;
   bottom: 4px;
   left: 10px;
+  margin-left: -20px;
   }
 }
 </style>

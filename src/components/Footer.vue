@@ -1,6 +1,5 @@
 <template>
     <div class="footer">
-                <!-- <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" /> -->
                 <g-image class="gdn-horizontal" src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" />
                 <p class="footer-content">
                     Marawi Special Report 2019

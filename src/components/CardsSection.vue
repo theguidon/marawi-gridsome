@@ -81,8 +81,6 @@ export default {
 
 .the-narratives {
   text-align: center;
-  /* background-image: url(../assets/bg-2.png), linear-gradient(to bottom, #000417 0%, rgba(196, 196, 196, 0) 194.29%);*/
-  /* background-image: url(../assets/lower-bg-2.png), linear-gradient(to bottom, #FFFFFF, rgba(255, 255, 245, 0.99) 20%); */
   background-image: url(../assets/landing-bg-new.jpg),
     linear-gradient(
       to bottom,
