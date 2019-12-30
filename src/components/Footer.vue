@@ -1,7 +1,7 @@
 <template>
     <div class="footer">
                 <!-- <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" /> -->
-                <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.svg" />
+                <g-image class="gdn-horizontal" src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" />
                 <p class="footer-content">
                     Marawi Special Report 2019
                     <br>
@@ -55,7 +55,10 @@ export default {
     padding-top: 38px;
 }
 
-.gdn-horizontal, .footer-content{
+.gdn-horizontal{
+    margin-left: 60px;
+}
+.footer-content{
     margin-left: 87px;
 }
 
@@ -71,9 +74,12 @@ export default {
 {
     margin-top: 34px;
     width:147px;
-    height: 17px;
+    height: 20px;
 }
-.gdn-horizontal, .footer-content{
+.gdn-horizontal{
+    margin-left: 5px;
+}
+.footer-content{
     margin-left: 30px;
 }
 
