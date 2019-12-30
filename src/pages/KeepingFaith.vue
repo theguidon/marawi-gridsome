@@ -14,14 +14,16 @@
     </div>
   </section>
   <section id='s2'>
-    <div class="c-elem1">
-      <!-- <h6>ONE IN PRAYER. Classes in Marawi City, the only Islamic city in the Philippines, begin with an Islam prayer. For local educators, the reestablishment of a proper education system to get children back to school is crucial to the rehabilitation of the city and the full recovery of its people. | Photo by Jason Mariano</h6> -->
-    </div>
+    
     <div class="c-elem3">
     <!-- <h4> -->
+      <span id="c-img1-container"><div id="c-img1" class="photo-1"><g-image src="../assets/kf-3.jpg" alt=""/><h6 id="ffe">Residents of Sarimanok Tent City 2 look on as a sacrificial cow is slaughtered in honor of the Eid al-Adha celebrations. | Photo by Jason Mariano</h6></div></span>
+
       <span id=blue>AMONG MOUNTAINS of crushed cement,</span> tangles of overgrown vines, and scatterings of misshapen steel, a silver crescent sits atop the rubble as it furiously glints under the harsh rays of the Mindanao sun.<br>
 
       <br>
+      <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/kf-bg.jpg" alt=""/><h6 id="ffe">The ruins of a mosque that once stood tall in Marawi City remain untouched despite the ongoing demolition operations. | Photo by Aldo Santiago</h6></div></span>
+<br>
 
       It has been two years since the <span id="uline"><a href="https://www.aljazeera.com/indepth/features/2017/10/happened-marawi-171029085314348.html">siege</a></span> that devastated Marawi City. What started out as an Armed Forces of the Philippines (AFP) mission to detain Abu Sayyaf subleader and Maute Group member Isnilon Hapilon led to a five-month battle that displaced nearly <span id="uline"><a href="https://www.aljazeera.com/indepth/features/2017/10/happened-marawi-171029085314348.html">300,000 Maranaos</a></span> and even residents from nearby municipalities. <br>
 
@@ -33,7 +35,10 @@
 
       Perhaps without meaning to, these stories have further reinforced the <span id="uline"><a href="https://www.reuters.com/article/us-philippines-militants-muslims/philippine-muslims-fear-marawi-fighting-may-deepen-communal-discord-idUSKBN19J132">misguided notion</a></span> of Muslim-Christian hostility in the Philippines. In reality, the Maute Group’s acts of violence, which they claim to have done <i>allahu akbar</i>, or in the name of God, also severely hurt their fellow Muslims. Not only were mosques used as battlefields, ancestral homes destroyed, and many killed as casualties of the war, but the siege also added to the already difficult challenge of deconstructing the anti-Muslim narrative.<br>
 
-      <br><br>
+      <br>
+      <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/kf-1.jpg" alt=""/><h6 id="ffe">Islamic teacher Abolkhair Bantuas explains the heart of the Islamic faith: Peace and unity with all. | Photo by Jason Mariano</h6></div></span>
+      
+      <br>
 
     <span id='heading'><div><b>Of the same feather</b></div></span><br>
 
@@ -76,7 +81,10 @@
 
       In an interview with The GUIDON, founder of the International Relations and Islamic Studies Research Cohort at the University of the Philippines Diliman Nassef Manabilang Adiong, PhD pointed out the lack of communication between Christians and Muslims as one of the barriers to understanding the two interconnected religions. “We don’t have a lot of opportunities for dialogue where we can discuss our issues together,” he said. <br>
 
-      <br><br>
+      <br>
+      <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/kf-2.jpg" alt=""/><h6 id="ffe">A soldier and a Maranao sit side-by-side near the entrance to the Grand Mosque, which still stands strong despite the violent siege. | Photo by Aldo Santiago</h6></div></span>
+      
+      <br>
 
     <span id='heading'><div><b>Deconstructing Islamophobia</b></div></span><br>
 
@@ -92,7 +100,10 @@
 
       Following this extreme act of violence was the erroneous association of terrorism with the Islamic faith. The Islamophobia of the 1990s took on a different, more aggressive tone—one that persists to this very day. In fact, the <span id="uline"><a href="https://www.nbcnews.com/news/world/christchurch-mosque-attack-suspect-pleads-not-guilty-trial-set-next-n1017466">latest attack</a></span> on the Muslim population happened on March 2019 in Christchurch, New Zealand, wherein a gunman shot 51 Muslims during Friday prayers at two mosques. The incident has since been <span id="uline"><a href="https://www.nbcnews.com/news/world/christchurch-mosque-attack-suspect-pleads-not-guilty-trial-set-next-n1017466">labeled</a></span> as America’s “worst peace-time mass shooting.”<br>
 
-      <br><br>
+      <br>
+      <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/kf-6.jpg" alt=""/><h6 id="ffe">Muslim families spend a peaceful afternoon under the sun after the early morning Eid al-Adha ceremonies. | Photo by Jason Mariano</h6></div></span>
+      
+      <br>
 
     <span id='heading'><div><b>Wayward son</b></div></span><br>
 
@@ -123,7 +134,10 @@
 
       The Holy Qur’an <span id="uline"><a href="https://www.al-islam.org/morals-and-ethics-quran-ali-rahim/war-and-peace#peace-encouraged-quran">encourages</a></span> the people of this faith to practice peacekeeping and prohibits them from creating “unnecessary enmity” with others, unless in defense from oppressors. However, in contrast to this, misconceptions that link Islam and terrorism perpetuate to this day as verses in the Holy Qur’an <span id="uline"><a href="https://gulfnews.com/uae/extremists-attempt-to-distort-quranic-concepts-islamic-scholars-1.1557941944172">remain</a></span> vulnerable to the risk of misinterpretation from extremist groups. <br>
 
-      <br><br>
+      <br>
+      <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/kf-5.jpg" alt=""/><h6 id="ffe">Muslim and Christian residents of Sarimanok Tent City 2 share the meat from the Eid al-Adha sacrificial cow with one another. | Photo by Jason Mariano</h6></div></span>
+      
+      <br>
 
       <span id='heading'><div><b>Moving mountains</b></div></span><br>
 
@@ -208,6 +222,14 @@ nav{
   height: 854px;
   margin-bottom: 10px;
 }
+
+.photo-1{
+  padding-top:-50px;
+}
+
+/* #c-img1-container>div{
+  padding-top: -100px;
+} */
 
 .landing{
   height: 854px;
@@ -309,21 +331,6 @@ padding-top: 20px;
   flex-direction: column;
   height: 100%;
   overflow-x: hidden;
-}
-
-.c-elem1{
-  font-size: 14px;
-  line-height: 150%;
-  text-align: left;
-
-  width: 86%;
-  height: 42px;
-
-  margin: 0 0 95px 7%
-}
-
-.c-elem1>h6{
-  width: 100%;
 }
 
 .c-elem2{
@@ -446,7 +453,7 @@ text-decoration: none;
   color: white;
 }
 #c-img1{
-  margin: 100px 0 100px;
+  margin: 50px 0 50px;
   transform: translate(-10%,0);
   width: 130%;
   /* width: 1029px; */
@@ -584,8 +591,18 @@ text-decoration: none;
 
   :root{--font-increase: 3px;}
 
-#s2{
-  /* height: 7000px; */
+#c-img1{
+object-fit: contain;
+  /* width: 80vw; */
+  text-align: center; 
+  /* margin: 0 auto; */
+
+}
+
+#c-img1-container{
+  
+
+
 }
 #s3{
   height: 0px !important;
