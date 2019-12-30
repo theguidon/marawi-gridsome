@@ -81,7 +81,7 @@ export default {
     padding-top: 128px;
     margin-bottom: 0px;
     background-size: cover;
-    background-position: top left;
+    background-position: top center;
     
 }
 
@@ -229,10 +229,14 @@ hr{
     .hdr{
         height: 690px;
         padding-top: 150px;
-    background-image: url(../assets/Landing-mobile.png), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
+    background-image: url(../assets/Landing-mobile.png);
         background-position: 60% 0%;
     background-size: cover;
 
+    }
+
+    .scroll-down-top{
+        margin-top: 196px;
     }
     .hdr>h1{
         width: 80vw;
