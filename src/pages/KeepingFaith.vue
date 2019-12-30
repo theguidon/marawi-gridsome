@@ -237,7 +237,6 @@ nav{
 
   background-repeat:no-repeat;
   background-size:cover;
-  /* background-image: url(../assets/headline-img.png); */
   background-image: url(../assets/kf-bg.jpg);
 
   position: relative;
@@ -729,7 +728,6 @@ margin-bottom: 0px;
 
 .s3-mobile{
   height: 758px !important;
-  /* background-image: url(assets/marawi-rehab-thumbnail.png); */
   background-image: url(../assets/keepin-faith-thumbnail.png);
 
   background-repeat:no-repeat;
