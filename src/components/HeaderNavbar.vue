@@ -296,7 +296,9 @@ hr {
   .logo {
     width: 123px;
     height: 22px;
-    margin-bottom: 10px;
+    position: relative;
+  bottom: 4px;
+  left: 10px;
   }
 }
 </style>
