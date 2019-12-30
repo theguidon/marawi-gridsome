@@ -23,7 +23,10 @@
 
     <div class="text-container">
       <h1 class="animated bottom-animation-div bottom-text wow">
-        ‪"Islam is peace, so I don’t think kailangan nating ilagay sa isip natin yung Muslims are terrorists. Terrorists are bad people, not Muslims.‬"
+        ‪"Islam is peace, so I don’t think <i>kailangan nating ilagay sa isip natin yung</i> Muslims are terrorists. Terrorists are bad people, not Muslims.‬"
+        <br>
+        <span class="attribution">temp name</span>
+
       </h1>
     </div>
     <CardsSection />
@@ -158,6 +161,9 @@ iframe {
     url(../assets/bg.jpg) center 80%;
 }
 
+.attribution{
+  font-size: 65%;
+}
 .bg {
   background-image: url(../assets/bg.png);
   filter: contrast(0.8) brightness(1.1);
@@ -280,7 +286,6 @@ iframe {
 
 .bottom-text {
   font-family: 'Tiempos Med';
-  font-style: italic;
   font-weight: 500;
   font-size: 36px;
   line-height: 50px;

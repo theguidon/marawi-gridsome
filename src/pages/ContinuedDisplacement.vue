@@ -28,7 +28,9 @@
 
     <div class="text-container">
       <h1 class="bottom-text wow">
-        "Hindi naman namin pinangarap na yung Marawi magmukhang BGC. Gusto lang namin maayos siya‬."
+        "<i>Hindi naman namin pinangarap na yung</i> Marawi <i>magmukhang</i> BGC. <i>Gusto lang namin maayos siya</i>‬."
+        <br>
+        <span class="attribution">temp name</span>
       </h1>
     </div>
     <CardsSection />
@@ -70,6 +72,9 @@ export default {
   src: url("../assets/Tiempos Text - Medium.otf");
 }
 
+.attribution{
+  font-size: 65%;
+}
 body {
   font-family: "Tiempos Text";
   background-color: black;
@@ -255,6 +260,8 @@ iframe {
   height: 100vh;
   text-align: center;
   background-color: black;
+  padding-top: 150px;
+  padding-bottom: 100px;
 }
 .video {
   position: relative;
@@ -286,7 +293,6 @@ iframe {
 
 .bottom-text {
   font-family: 'Tiempos Med';
-  font-style: italic;
   font-weight: 500;
   font-size: 36px;
   line-height: 50px;
