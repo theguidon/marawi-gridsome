@@ -7,7 +7,7 @@
           <span><h6 id='h61'>ARTICLE</h6></span>
           <h1 style="color:#FFFFFF;" class="main-title">Beyond makeshift classrooms</h1>
           <h5 id = "blurb-header1">Despite lacking facilities, determined educators have established makeshift schools so that the displaced youth may find themselves in classrooms once again. But what else can government and non-government agencies provide to ease their plight?</h5>
-          <h6 id='h6-2'>By Danielle R. Garcia and Alithea C. Soriano</h6>
+          <h6 id='h6-2'>by Danielle R. Garcia and Alithea C. Soriano</h6>
         </div>
       </div>
     </div>
@@ -93,11 +93,11 @@
   <section id='s3'>
     <CardsSection />
   </section>
-  <div class="s3-mobile">
+  <!-- <div class="s3-mobile">
     <button type="button" id="next-page">NEXT: The Maranao’s<br> continued displacement<span id="arrow"><i class="fas fa-arrow-right" style="color: white;"></i></span>
 
     </button>
-  </div>
+  </div> -->
 
 </PageLayout>
 </template>

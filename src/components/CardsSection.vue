@@ -9,7 +9,7 @@
           <h6 class="box-category">ARTICLE</h6>
           <h2 class="box-title">Keeping Faith</h2>
           <p class="box-desc animated fadeIn">The GUIDON’s last article for the Marawi rehabilitation series debunks Islamophobic notions and puts forth a simple plea from the Muslims of Maranao: Religious understanding from their fellow Filipinos so that they may practice their faith, which is essential to their recovery, unburdened with discrimination and accusations.</p>
-          <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
+          <p class="box-credits">by Danielle R. Garcia and Alithea C. Soriano</p>
         </div>
         </g-link>
       </div>
@@ -19,17 +19,17 @@
           <h6 class="box-category">BROADCAST NEWS</h6>
           <h2 class="box-title">Marawi’s Rehabilitation Efforts</h2>
           <p class="box-desc animated fadeIn">As Marawi City commemorates the second year since President Rodrigo Duterte declared its liberation from the extremist group Maute, #TheGlimpses on The GUIDON looks into the residents’ various efforts to rebuild their beloved city.‬</p>
-          <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
+          <p class="box-credits">by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
         </div>
         </g-link>
       </div>
       <div class="photoessay-box">
         <g-link to="/foundations/">
         <div class="textbox">
-          <h6 class="box-category">PHOTOESSAY</h6>
+          <h6 class="box-category">PHOTO ESSAY</h6>
           <h2 class="box-title">Foundations</h2>
           <p class="box-desc animated fadeIn">It has been more than two years since the liberation of Marawi City from armed conflict, but many displaced Maranaos still find themselves situated in temporary shelters. The recent Mindanao calamities and the prolonged rehabilitation process leave Marawi’s former residents to wonder when they will be able to truly start anew.</p>
-          <p class="box-credits">By: Jason Mariano and Aldo Santiago</p>
+          <p class="box-credits">by Jason Mariano and Aldo Santiago</p>
         </div>
         </g-link>
       </div>
@@ -41,7 +41,7 @@
           <h6 class="box-category">ARTICLE</h6>
           <h2 class="box-title">Beyond makeshift classrooms</h2>
           <p class="box-desc animated fadeIn">Despite lacking facilities, determined educators have established makeshift schools so that the displaced youth may find themselves in classrooms once again. But what else can government and non-government agencies provide to ease their plight?</p>
-          <p class="box-credits">By: Danielle R. Garcia and Alithea C. Soriano</p>
+          <p class="box-credits">by Danielle R. Garcia and Alithea C. Soriano</p>
         </div>
         </g-link>
       </div>
@@ -51,7 +51,7 @@
           <h6 class="box-category">MINI DOCUMENTARY</h6>
           <h2 class="box-title">The Maranao’s continued displacement</h2>
           <p class="box-desc animated fadeIn">Named after the word for bravery in Maranao, Kawaraw tells the stories of Marawi's residents as they face the new battle of rebuilding their beloved city while retaining their cultural identity. Despite the hazy future brought by rehabilitation delays and insufficient relief efforts, residents continue to persist in hopes that they may soon come home.</p>
-          <p class="box-credits">By: Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
+          <p class="box-credits">by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</p>
         </div>
         </g-link>
       </div>

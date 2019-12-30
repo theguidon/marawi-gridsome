@@ -7,7 +7,7 @@
       >As Marawi City commemorates the second year since President Rodrigo Duterte declared its liberation from the extremist group Maute, #TheGlimpses on The GUIDON looks into the residents’ various efforts to rebuild their beloved city.‬</h3>
       <h2
         class="animated delay-1s fast scroll-animation-div landing-credits"
-      >By Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</h2>
+      >by Mariana Gardoce and Tatiana Maligro</h2>
       <div id="button" class="animated delay-2s scroll-animation-div">
         <h6 id="button" class="animated delay-1s slow scroll-down-top">WATCH NOW</h6>
         <g-image

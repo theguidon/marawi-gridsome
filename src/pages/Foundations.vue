@@ -4,12 +4,12 @@
       <div class="container h-100">
         <div class="row h-100 align-items-center">
           <div class="col-12 text-center header-text-div">
-            <h5>PHOTOESSAY</h5>
-            <h1>Foundations</h1>
+            <h5>PHOTO ESSAY</h5>
+            <h1>The long road home</h1>
             <h3>
              It has been more than two years since the liberation of Marawi City from armed conflict, but many displaced Maranaos still find themselves situated in temporary shelters. The recent Mindanao calamities and the prolonged rehabilitation process leave Marawi’s former residents to wonder when they will be able to truly start anew.
             </h3>
-            <h2>By Jason Mariano and Aldo Santiago</h2>
+            <h2>by Jason Mariano and Aldo Santiago</h2>
 
             
             <h6 class="animated delay-1s scroll-down-top">SCROLL DOWN</h6>
@@ -925,9 +925,9 @@ html {
   font-family: "Tiempos Text", sans-serif;
 }
 
-.side-nav g-image fit="contain" {
+/* .side-nav g-image fit="contain" {
   padding: 200px 10px 10px 30px;
-}
+} */
 
 .side-nav a:hover {
   color: #fff;
@@ -1305,6 +1305,9 @@ header>.container>.row{
     
 }
 
+.header-text-div>h1{
+  font-size: 43px;
+}
 header>.container>.row>.header-text-div>h3{
    width: 78vw;
 

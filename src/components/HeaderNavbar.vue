@@ -3,7 +3,8 @@
     <div id="header-flexbox">
       <div class="left-side">
         <!-- <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo"/> -->
-        <g-image src="../assets/GDN_Horizontal-whitetext.svg" class="logo" />
+        <!-- <g-image src="../assets/GDN_Horizontal-whitetext.svg" class="logo" /> -->
+        <g-link to='/'><g-image src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" class="logo" /></g-link>
         <!-- <div class="hr-1"></div> -->
         <!-- <hr> -->
         <!-- <div class="page-title">{{title}}</div> -->
@@ -20,7 +21,9 @@
     <div id="header-flexbox-mobile">
       <div id="flexbox-mobile-container">
         <g-image id="burger" src="../assets/burger.svg" @click="toggleSidebar"></g-image>
-        <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo" />
+        <g-link to='/'><g-image src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" class="logo" /></g-link>
+
+        <!-- <g-image src="../assets/GDN_Horizontal-whitetext.png" class="logo" /> -->
       </div>
     </div>
 
@@ -119,8 +122,8 @@ export default {
   color: #ffffff;
 }
 .logo {
-  width: 200px;
-  height: 26px;
+  /* width: 250px; */
+  height: 35px;
 }
 
 .page-title {
@@ -292,7 +295,8 @@ hr {
 
   .logo {
     width: 123px;
-    height: 15px;
+    height: 22px;
+    margin-bottom: 10px;
   }
 }
 </style>

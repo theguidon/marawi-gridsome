@@ -1,13 +1,13 @@
 <template>
   <PageLayout title="The Maranao's continued displacement" next='/keeping-faith/' prev='world-teachers-day'>
     <div class="landing-container">
-      <h1 class="animated slow scroll-animation-div landing-head">The Maranao's continued displacement</h1>
+      <h1 class="animated slow scroll-animation-div landing-head">Kawaraw: Faces of hope in Marawi City</h1>
       <h3
         class="animated delay-1s fast scroll-animation-div landing-sub"
       >Named after the word for bravery in Maranao, Kawaraw tells the stories of Marawi's residents as they face the new battle of rebuilding their beloved city while retaining their cultural identity. Despite the hazy future brought by rehabilitation delays and insufficient relief efforts, residents continue to persist in hopes that they may soon come home.</h3>
       <h2
         class="animated delay-1s fast scroll-animation-div landing-credits"
-      >By Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia</h2>
+      >by Mariana Gardoce and Tatiana Maligro</h2>
       <div id="button" class="animated delay-2s scroll-animation-div">
         <h6 id="button" class="animated delay-1s slow scroll-down-top">WATCH NOW</h6>
         <g-image

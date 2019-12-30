@@ -3,17 +3,18 @@
                 <!-- <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.png" /> -->
                 <g-image class="gdn-horizontal" src="../assets/GDN_Horizontal-whitetext.svg" />
                 <p class="footer-content">
-                    ABOUT THE INTERACTIVE
+                    Marawi Special Report 2019
                     <br>
-                    An immersive journalism project by The GUIDON in 2019
-                    <br>
-                Introduction written by [Name]
+                Written by Alithea C. Soriano and Danielle R. Garcia
                 <br>
                 Interactive by Alannah Mitra, Bea Martin, Bea Sison, Cobbie Quintos, Davin Cuaso, Keith Bartido, Prezil Ong, and Zekie Ordoveza
                 <br>
                 Photos by Aldo Santiago and Jason Mariano
                 <br>
-                Videos by Patricia D. Villoria, Tatiana Maligro, and Danielle R. Garcia </p>
+                Videos by Mariana Gardoce, Tatiana Maligro, Jason Mariano, and Aldo Santiago 
+                <br>
+                Special thanks to the Asian Center for Journalism
+                </p>
 
         </div>
 </template>
