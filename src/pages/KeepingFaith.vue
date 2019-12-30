@@ -142,6 +142,8 @@ This importance of faith is evidenced in the displaced Maranao’s simple <span 
 <br>
 
 “More [opportunities for] dialogue [are] needed [between Muslims and Christians] for better understanding of [each other’s] needs,” Adiong said.
+<br>
+<br>
 Despite the misinterpretations of individuals from within and outside of the faith, Islam is a peaceful religion that has sustained the displaced Maranaos throughout two long years of rehabilitation. The problems of Marawi’s recovery process run deep, but regular Filipino citizens can begin to play their part by practicing cultural and religious sensitivity—the foundations of solidarity, peace, and empathy. <br>
     </div>
   </section>

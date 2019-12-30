@@ -172,6 +172,7 @@ export default {
   transition-duration: 0.7s;
 }
 
+
 .textbox:hover {
   height: 391px;
   top: 0px;
@@ -254,10 +255,14 @@ line-height: 18px;
     height: 132px;
   }
 
-  .textbox:hover {
-    height: 399px;
-  }
+.textbox {
+  height: 399px;
+  top: 0px;
+}
 
+.box-desc{
+  display: block;
+}
   .textbox *{
       position: relative;
       width: 85%
