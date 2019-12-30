@@ -139,7 +139,12 @@ export default {
 }
 
 .photoessay-box {
-  background-image: url(../assets/photoessay-thumbnail.png);
+  /* background-image: url(../assets/photoessay-thumbnail.png); */
+  background-image: url('../assets/081319-Marawi IJP-Santiago-127.jpg');
+  background-size: cover;
+  background-position: 25%;
+  /* background-size: 80%; */
+  
 }
 
 .flex-container-2 {
