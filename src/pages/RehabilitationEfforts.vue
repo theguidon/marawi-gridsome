@@ -158,7 +158,9 @@ iframe {
       rgba(126, 126, 129, 0.112842) 97.68%,
       rgba(196, 196, 196, 0) 100%
     ),
-    url(../assets/bg.jpg) center 80%;
+    url('../assets/081319-Marawi Rehabilitation efforts-Mariano-1.jpg');
+    background-size: cover;
+    background-position: center 70%;
 }
 
 .attribution{
