@@ -12,9 +12,9 @@
             </div>
         </div>
         <div class="main-text">
-            <p class="p1">On May 23, 2017, terrorist affiliates of the Islamic State laid siege to the Islamic City of Marawi, the provincial capital of Lanao del Sur and one of the most important urban centers in Muslim Mindanao. The terrorists spared none in their conquest of the city, killing wantonly and taking freely from the residents. Christians and Muslims alike were the victims of their cruel and inhumane actions.</p>
-            <p class="p2">But gradually, after months of fighting between government forces and the insurgents, Secretary of Defense Delfin Lorenzana declared the end of combat operations on October 23, 2017, and the rehabilitation program could begin in earnest.</p>
-            <p class="p3">The GUIDON looks into the situation in Marawi a year since the fated attack. The stories presented in this hub are the lived experiences of people affected by the siege and those trying to build back better from the carnage.</p>
+            <p class="p1">The extremist Maute Group seized control of Marawi City on May 23, 2017. From <a href="https://news.abs-cbn.com/news/05/23/17/look-marawi-city-jail-dansalan-college-on-fire">burning</a> Dansalan College to holding Amai Pakpak Medical Center <a href="https://www.gmanetwork.com/news/news/regions/611834/maute-group-takes-over-marawi-hospital-soldier-hurt-in-firefight/story/">hostage</a>, the Maute Group was determined to carve their own territory and establish an Islamic caliphate. The conflict persisted for five months until the Armed Forces of the Philippines successfully reclaimed the Islamic city on October 17. However, this feat came with devastating consequences on Marawi City and its people.</p>
+            <p class="p2">To this day, 127,309 embattled internally <a href="https://news.abs-cbn.com/spotlight/10/16/19/for-ground-zero-idps-in-marawi-theres-no-going-back">displaced</a> Maranaos have yet to make their way back home. Apart from their daily struggle to overcome food and shelter insecurity, sporadic government relief efforts, and insufficient resources for youth education, the internally displaced residents of Marawi face deeply rooted religious discrimination from Filipinos beyond Mindanao. Nonetheless, the internally displaced Maranaos look on with steadfast hope, faith, and perseverance. In spite of news riddled with coverage of military efforts in rebuilding Marawi City, the voices of Marawi’s internally displaced call the Philippine media to turn its head their way.</p>
+            <p class="p3">In light of the Marawi siege’s second anniversary and the conclusion of Martial Law in Mindanao, The GUIDON looks into the narratives that illustrate the Maranao’s hopes amidst their ongoing plight. In response to <a href="http://interactive.theguidon.com/2018/05/marawi/#/">Strength and Resolve: Tales of Recovery in the Islamic City</a> and its reportage of Marawi’s condition in 2018, The GUIDON sheds a new light on the residents’ own efforts to reclaim a semblance of normalcy after the siege. </p>
         </div>
         <CardsSection>
             <div slot="explore-div">
@@ -192,7 +192,7 @@ hr{
 }
 
 .main-text{
-    height: 482px;
+    height: 760px;
     z-index: 10;
     margin-top: 102px;
     overflow: visible;
@@ -211,6 +211,14 @@ hr{
     margin-top: 33px;
 }
 
+.p1>a,
+.p2>a,
+.p3>a{
+    color: #007bff;
+    text-decoration: none;
+
+}
+
 
 
 
@@ -222,7 +230,8 @@ hr{
 @media screen and (max-device-width: 420px) 
 {
     .main-text{
-        height: 1000px;
+        height: 1600px;
+        overflow: scroll;
     }
     .hdr{
         height: 690px;
@@ -233,9 +242,7 @@ hr{
 
     }
 
-    .scroll-down-top{
-        margin-top: 196px;
-    }
+  
     .hdr>h1{
         width: 80vw;
         font-size: 36px;
