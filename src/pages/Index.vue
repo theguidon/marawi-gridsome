@@ -72,7 +72,7 @@ export default {
     width: 100vw;
     height: 120vh;
     /* background-image: url(../assets/bg.png),          linear-gradient(to top, #000417 0%, rgba(196, 196, 196, 0) 250.29%); */
-    background-image: url(../assets/Landing.jpg), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
+    background-image: url('../assets/081119-Marawi IJP-Santiago-1a.jpg'), linear-gradient(to top, rgba(252, 254, 255, 1) 0%, rgba(252, 254, 255, 0) 60%);
     /* mix-blend-mode: lighten; */
     background-blend-mode: overlay;
     text-align: center;

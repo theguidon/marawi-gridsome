@@ -25,7 +25,7 @@
       <h1 class="animated bottom-animation-div bottom-text wow">
         ‪"Islam is peace, so I don’t think <i>kailangan nating ilagay sa isip natin yung</i> Muslims are terrorists. Terrorists are bad people, not Muslims.‬"
         <br>
-        <span class="attribution">temp name</span>
+        <span class="attribution">Janikka Tiempo (Program Director, Duyog Marawi)</span>
 
       </h1>
     </div>
@@ -163,6 +163,7 @@ iframe {
 
 .attribution{
   font-size: 65%;
+  line-height: 1px;
 }
 .bg {
   background-image: url(../assets/bg.png);

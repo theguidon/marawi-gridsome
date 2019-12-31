@@ -330,6 +330,7 @@ nav{
 
 .fad>.landing-elems>h1{
   color: #FFFFFF;
+  font-family: 'Tiempos Bold'
 }
 
 

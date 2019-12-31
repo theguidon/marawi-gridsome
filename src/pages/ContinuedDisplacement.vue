@@ -30,7 +30,7 @@
       <h1 class="bottom-text wow">
         "<i>Hindi naman namin pinangarap na yung</i> Marawi <i>magmukhang</i> BGC. <i>Gusto lang namin maayos siya</i>‬."
         <br>
-        <span class="attribution">temp name</span>
+        <span class="attribution">Abubakar Basman (Technical Assistant to the Vice Governor of Lanao del Sur)</span>
       </h1>
     </div>
     <CardsSection />
@@ -74,6 +74,7 @@ export default {
 
 .attribution{
   font-size: 65%;
+  line-height: 20%;
 }
 body {
   font-family: "Tiempos Text";

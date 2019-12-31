@@ -26,7 +26,7 @@
       <div class="col-md-7">
         <g-image fit="contain"
           class="landscape rounded mb-3 mb-md-0 pe-img"
-          src="../assets/081119-Marawi IJP-Santiago-1a.jpg"
+          src="../assets/Landing.jpg"
           alt
           style="margin: auto;"
         />
@@ -986,7 +986,7 @@ html {
 }
 .masthead h1 {
   color: #1c4480;
-  font-family: "Tiempos Text";
+  font-family: "Tiempos Bold";
   font-size: 48px;
   font-weight: bold;
 }
@@ -1160,6 +1160,7 @@ header>.container>.row{
 
 .header-text-div>h1{
   font-size: 43px;
+  font-family: 'Tiempos Bold'
 }
 header>.container>.row>.header-text-div>h3{
    width: 78vw;
