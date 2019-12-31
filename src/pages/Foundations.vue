@@ -803,7 +803,7 @@
       <div class="col-md-7">
         <g-image fit="contain"
           class="landscape rounded mb-3 mb-md-0 pe-img"
-          src="../assets/081319-Marawi IJP-Santiago-127.jpg"
+          src="../assets/TEMP1.jpg"
           alt
           style="margin: auto;"
         />

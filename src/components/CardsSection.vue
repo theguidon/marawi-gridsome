@@ -137,7 +137,7 @@ export default {
 }
 
 .photoessay-box {
-  background-image: url('../assets/081319-Marawi IJP-Santiago-127.jpg');
+  background-image: url('../assets/TEMP1.jpg');
   background-size: cover;
   background-position: 25%;
 }
