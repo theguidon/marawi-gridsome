@@ -54,7 +54,7 @@
     <span id=quote>
       <div class="ql"><i class="fas fa-quote-left"></i></div>
 
-      <h2><span class="qlb">"</span>"In reality, the Maute Group’s acts of violence, which they claim to have done <em>allahu akbar</em>, or in the name of God, also severely hurt their fellow Muslims."<span class="qrb">"</span></h2>
+      <h2><span class="qlb"></span>"In reality, the Maute Group’s acts of violence, which they claim to have done <em>allahu akbar</em>, or in the name of God, also severely hurt their fellow Muslims."<span class="qrb"></span></h2>
  
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
@@ -62,7 +62,7 @@
 
       <br>
 
-       Muslims have protected and helped Christians to escape from almost certain death. Even now Christians are assisting thousands of Muslims who have fled from Marawi for safety. These are indisputable signs that there is no religious war," Villegas said, in an attempt to dispel public notions about how the siege was a war between Muslims and Christians.<br>
+       "Muslims have protected and helped Christians to escape from almost certain death. Even now Christians are assisting thousands of Muslims who have fled from Marawi for safety. These are indisputable signs that there is no religious war," Villegas said, in an attempt to dispel public notions about how the siege was a war between Muslims and Christians.<br>
 
       <br>
 
