@@ -93,7 +93,7 @@
 
       <br>
 
-      However, what truly <span id="uline"><a href="https://nationalinterest.org/feature/roots-islamophobia-48142">aggravated</a></span> Islamophobia in the West, thus influencing their fear to bleed out into nations near and far, is the infamous 9/11 terrorist attack in 2001. Among the most remembered facts of the case is the involvement of an Islamic terrorist group called Al-Qaeda. Al-Qaeda’s coordinated attack <span id="uline"><a href="https://www.911memorial.org/911-frequently-asked-questions">left</a></span> approximately 2,977 people dead. <br>
+      However, what truly <span id="uline"><a href="https://nationalinterest.org/feature/roots-islamophobia-48142">aggravated</a></span> Islamophobia in the West, thus influencing their fear to bleed out into nations near and far, is the infamous 9/11 terrorist attack in 2001. Among the most remembered facts of the case is the involvement of a terrorist group called Al-Qaeda. Al-Qaeda’s coordinated attack <span id="uline"><a href="https://www.911memorial.org/911-frequently-asked-questions">left</a></span> approximately 2,977 people dead. <br>
 
       <br>
 
