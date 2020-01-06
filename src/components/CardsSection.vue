@@ -87,13 +87,10 @@ export default {
       rgba(252, 254, 255, 1) 0%,
       rgba(252, 254, 255, 0) 60%
     );
-  /* mix-blend-mode: lighten; */
-
-  height: 120%;
+    padding-bottom: 40px;
+  height: 140%;
   margin: 0;
   background-blend-mode: overlay;
-  margin-top: -34px;
-  padding-bottom: 40px;
   overflow: auto;
 }
 
@@ -107,7 +104,7 @@ export default {
   font-size: 18px;
   /* line-height: 22px; */
   margin: 0 auto;
-  margin-top: 154px;
+  margin-top: 104px;
 
   background-color: #1c4480;
 }
@@ -230,6 +227,8 @@ line-height: 18px;
       rgba(252, 254, 255, 1) 0%,
       rgba(252, 254, 255, 0.85) 60%
     );
+    margin-top: 15px;
+
   }
 
 .the-narratives-header{
@@ -238,7 +237,7 @@ line-height: 18px;
   height: 20px;
   vertical-align: middle;
   padding-top:7px;
-
+  margin-top: 25px;
   font-size: 13px;
   line-height: 16px;
 }

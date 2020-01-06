@@ -28,9 +28,9 @@
 
     <div class="text-container">
       <h1 class="bottom-text wow">
-        "<i>Hindi naman namin pinangarap na yung</i> Marawi <i>magmukhang</i> BGC. <i>Gusto lang namin maayos siya</i>‬."
+        "<i>Hindi naman namin pinangarap na yung</i> Marawi <i>magmukhang</i> BGC. <i>Gusto lang namin maayos siya</i>‬ (We don't want Marawi to look like BGC. We just want our city to be complete again)."
         <br>
-        <span class="attribution">Abubakar Basman (Technical Assistant to the Vice Governor of Lanao del Sur)</span>
+        <span class="attribution">- Technical Assistant to the Vice Governor of Lanao del Sur Abubakar Basman</span>
       </h1>
     </div>
     <CardsSection />
@@ -74,7 +74,7 @@ export default {
 
 .attribution{
   font-size: 65%;
-  line-height: 20%;
+  line-height: 1%;
 }
 body {
   font-family: "Tiempos Text";
@@ -278,7 +278,7 @@ iframe {
   background-color: #ffffff;
   overflow: hidden;
   height: 100vh;
-  padding-top: 8em;
+  /* padding-top: 8em; */
 }
 
 .text-container>h1{
@@ -350,7 +350,7 @@ iframe {
 	
 	width: 80vw;
 	margin: 0 auto;
-	height: 101px;
+	height: 100vw;
 	font-size: 26px;
 	line-height: 42px;
 }

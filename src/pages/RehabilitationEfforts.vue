@@ -23,9 +23,9 @@
 
     <div class="text-container">
       <h1 class="animated bottom-animation-div bottom-text wow">
-        ‪"Islam is peace, so I don’t think <i>kailangan nating ilagay sa isip natin yung</i> Muslims are terrorists. Terrorists are bad people, not Muslims.‬"
+        ‪"Islam is peace, so I don’t think <i>kailangan nating ilagay sa isip natin yung</i> (we should believe that) Muslims are terrorists. Terrorists are bad people, not Muslims.‬"
         <br>
-        <span class="attribution">Janikka Tiempo (Program Director, Duyog Marawi)</span>
+        <span class="attribution"> - Duyog Marawi Program Director Janikka Tiempo</span>
 
       </h1>
     </div>
@@ -274,7 +274,6 @@ iframe {
   min-width: 100%;
   min-height: 100%;
   position: relative;
-  padding-top: 8em;
 }
 
 .text-container>h1{
@@ -340,10 +339,16 @@ iframe {
 	height: 100vh;
 }
 .text-container>h1{
-	
-	width: 80vw;
-	font-size: 26px;
-	line-height: 42px;
+
+  
+  	text-align: center;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 80vw;
+  margin: 0 auto;
 }
 }
 </style>

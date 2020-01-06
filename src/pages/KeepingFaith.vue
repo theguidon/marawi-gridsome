@@ -255,7 +255,8 @@ nav{
 
 }
 .attribution{
-  font-size: 65%;
+  font-size: 60%;
+  line-height: 0px;
 }
 
 .fad{
@@ -610,6 +611,10 @@ margin-bottom: 0px;
 .landing-elems>h6{
   width: 70vw;
   margin: 0 auto;
+}
+
+.attribution{
+  line-height: 1px;
 }
 
 #arrow{

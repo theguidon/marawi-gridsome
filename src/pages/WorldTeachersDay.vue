@@ -19,7 +19,7 @@
     <div class="c-elem3">
     <h4><span id=blue>IT HAS been two years</span>  since the siege that devastated the heart of Marawi City, but full recovery remains far out of arm’s reach to this very day. Obstacles to this include  <span id="uline"> <a href="https://newsinfo.inquirer.net/1149905/46-more-unexploded-bombs-keeping-marawi-folks-return-at-bay">unexploded ordnances</a>,</span>   possible threats of  <span id="uline"> <a href="https://www.theguardian.com/world/2019/feb/08/the-fight-is-not-over-fears-of-isis-resurgence-in-philippines">extremist resurgence</a> </span>, <span id="uline"><a href="https://www.aspi.org.au/report/marawi-crisis-urban-conflict-and-information-operations">low trust</a></span> in the national government, and the Armed Forces of the Philippines’ <span id="uline"> “<a href="https://www.aspi.org.au/report/marawi-crisis-urban-conflict-and-information-operations">poorly managed post-conflict rehabilitation</a>." </span><br>
       <br> The ongoing fight for access to education is another, but recent strides have been made in the attempt to overcome this. For example, in November 2018, Philippine Business for Social Progress Executive Director Reynaldo Laguda mentioned that a construction project worth Php 3.5 billion—sponsored by the Coca Cola Foundation—was set to  <span id="uline"> <a href="https://www.pna.gov.ph/articles/1055069">provide</a></span>     two school buildings in Barangay Gadongan. <br><br>
-      Moreover, September 2018 saw the Philippine Disaster Resilience Foundation (PDRF), along with the Project Handclasp Foundation and the US-Philippines Society,  <span id="uline"> <a href="https://business.inquirer.net/258166/marawi-schools-get-school-kits">turn over</a></span> Smart School-in-a-Bag kits to learning institutions such as Tuca Boganga Elementary School as part of its Children of Marawi project. Smart School in-a-Bag kits serve as “a portable digital classroom designed to facilitate learning in remote areas without electricity.”<br>
+      Moreover, September 2018 saw the Philippine Disaster Resilience Foundation (PDRF), along with the Project Handclasp Foundation and the US-Philippines Society,  <span id="uline"> <a href="https://business.inquirer.net/258166/marawi-schools-get-school-kits">turn over</a></span> Smart School-in-a-Bag kits to learning institutions such as Tuca Boganga Elementary School as part of its Children of Marawi project. Smart School in-a-Bag kits serve as “a portable digital classroom designed to facilitate learning in remote areas without electricity.”<br> <br>
       The Office of the Vice President also recently  <span id="uline"><a href="https://newsinfo.inquirer.net/1134806/robredo-to-turn-over-school-buildings-houses-in-marawi">turned over</a></span> two-classroom buildings to Mapandi Elementary School in Barangay Gadongan. Several other classrooms and housing units were built through Vice President Leni Robredo’s anti-poverty program called <i>Angat Buhay.</i><br><br><br>
 
     <span id='heading'><div><b>A Maranao educator’s plight</b></div></span><br><br><br>
@@ -27,14 +27,14 @@
     <span id=quote>
       <div class="ql ql-1"><i class="fas fa-quote-left"></i></div>
 
-      <h2><span class="qlb"></span>"Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable" <br><span class="attribution">- PDRF President Rene Meily</span><span class="qrb"></span></h2>
+      <h2><span class="qlb"></span>"Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable." <br><span class="attribution">- PDRF President Rene Meily</span><span class="qrb"></span></h2>
 
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
     </span><br><br>
 
     
-    PDRF President Rene Meily emphasized the need to prioritize access to education in war-torn areas like Marawi City. “Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable.” - PDRF President Rene Meily
+    PDRF President Rene Meily emphasized the need to prioritize access to education in war-torn areas like Marawi City. “Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable,” he said.
 
       <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/cimg1.png" alt=""/><h6 id="ffe">FIGHT FOR EDUCATION. Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic shares the hardships she experienced as she pushed for the creation of a school for the internally displaced people of Marawi. | Photo by Jason Mariano</h6></div></span>
 
@@ -529,6 +529,7 @@ line-height: 34px;
   .c-elem3{
     width: 90% !important;
     margin-left: 5% !important;
+    height: 110% !important; 
   }
 
   #c-img1,#c-img2,#c-img3,#c-img4,#c-img6{
