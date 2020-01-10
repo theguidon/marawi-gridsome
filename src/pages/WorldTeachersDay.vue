@@ -281,8 +281,10 @@ color: #3F3F3F;
 
 .c-elem3>h4{
 
-  font-size: 22px;
-  line-height: 29px;
+  /* font-size: 22px; */
+  font-size: 1rem;
+  /* line-height: 29px; */
+  line-height: 1.5;
   text-align: left;
   margin-bottom: 50px;
 }
