@@ -26,7 +26,7 @@
       <div class="col-md-7">
         <g-image fit="contain"
           class="landscape rounded mb-3 mb-md-0 pe-img"
-          src="../assets/Landing.jpg"
+          src="../assets/TEMP2.jpg"
           alt
           style="margin: auto;"
         />

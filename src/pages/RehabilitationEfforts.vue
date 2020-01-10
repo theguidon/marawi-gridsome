@@ -269,7 +269,7 @@ iframe {
 
 .text-container {
   background-color: #ffffff;
-  height: 100vh;
+  height: 90vh;
   overflow: hidden;
   min-width: 100%;
   min-height: 100%;
@@ -335,9 +335,6 @@ iframe {
 	  height: 80vh;
   }
 
-.text-container{
-	height: 100vh;
-}
 .text-container>h1{
 
   

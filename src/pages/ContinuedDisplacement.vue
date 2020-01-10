@@ -277,7 +277,7 @@ iframe {
 .text-container {
   background-color: #ffffff;
   overflow: hidden;
-  height: 100vh;
+  height: 80vh;
   /* padding-top: 8em; */
 }
 
@@ -344,7 +344,8 @@ iframe {
   }
 
 .text-container{
-	height: 100vh;
+  padding-bottom: 10vh;
+
 }
 .text-container>h1{
 	
