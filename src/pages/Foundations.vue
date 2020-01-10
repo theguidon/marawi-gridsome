@@ -1172,8 +1172,8 @@ header>.container>.row>.header-text-div>h3{
 
 .quote{
   width: 80vw;
-  margin: 0 auto;;
-  margin-top: 250px;
+  margin: 0 auto;
+  margin-bottom:20vh;
 }
 
 .quote>h1{
