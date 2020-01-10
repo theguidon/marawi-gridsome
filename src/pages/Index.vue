@@ -54,8 +54,12 @@ export default {
 }
 
 @font-face {
-    font-family: 'Tiempos Text - Bold Italic';
+    font-family: "Tiempos Text - Bold Italic";
     src: url("../assets/Tiempos Text - Bold Italic.otf")
+}
+@font-face {
+  font-family: "Tiempos Bold";
+  src: url("../assets/Tiempos Text - Semibold.otf");
 }
 * {
     margin: 0;
@@ -110,7 +114,9 @@ h1{
     line-height: 77px;
     width: 485px;
     margin-top: 64px;
-    font-family: 'Tiempos Text - Bold Italic';
+    font-family: "Tiempos Text - Bold Italic";
+    /* font-family: 'Tiempos Bold' */
+    
 }
 
 h3{
