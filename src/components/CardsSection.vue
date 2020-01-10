@@ -297,8 +297,12 @@ line-height: 18px;
     text-align: center;
     margin: 0 auto;
     margin-top: 38px;
+    background-size: cover;
   }
 
+.textbox{
+  background-size: cover;
+}
   .docu-box{
       margin-bottom: 60px;
   }
