@@ -8,7 +8,11 @@
           <span><h6 id='h61'>ARTICLE</h6></span>
           <h1>Keeping faith</h1>
           <h5>When news of the Marawi siege broke out, misconceptions about Muslim-Christian hostility quickly followed. The GUIDON debunks these Islamophobic notions and puts forth a simple plea from the Maranao Muslims: Religious understanding from their fellow Filipinos so that they may practice their faith unburdened with discrimination and accusations.</h5>
-          <h6 id='h6-2'>by Danielle R. Garcia and Alithea C. Soriano</h6>
+          <h6 id='h6-2'>by Danielle R. Garcia and Alithea C. Soriano
+            <br>
+            <br>
+            Photo by Aldo Santiago
+          </h6>
         </div>
       </div>
     </div>
