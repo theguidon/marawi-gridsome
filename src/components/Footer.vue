@@ -36,7 +36,7 @@ export default {
 
 }
 .footer{
-    height: 407px;
+    height: 60vh;
     background-color: #1C4480;
     font-size: 14px;
     line-height: 35px;
@@ -45,13 +45,13 @@ export default {
 
 .gdn-horizontal
 {
-    margin-top: 60px;
+    padding-top: 4vh;
     width: 276px;
     height: 45px;
 }
 
 .footer-content{
-    padding-top: 38px;
+    padding-top: 1vh;
 }
 
 .gdn-horizontal{
@@ -71,7 +71,6 @@ export default {
 
 .gdn-horizontal
 {
-    margin-top: 34px;
     width:147px;
     height: 20px;
 }
@@ -79,11 +78,11 @@ export default {
     margin-left: 5px;
 }
 .footer-content{
+    margin-top: -10px;
     margin-left: 30px;
 }
 
 .footer-content{
-    padding-top: 13px;
     width: 80vw;
     line-height: 170%;
 }

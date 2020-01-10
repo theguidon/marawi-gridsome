@@ -28,6 +28,7 @@
 <script>
 import animated from 'animate.css';
 import CardsSection from '~/components/CardsSection.vue'
+import thumbnail from '~/assets/TEMP2.jpg'
 
 export default {
   name: 'Landing',
@@ -37,7 +38,7 @@ export default {
         {charset: 'UTF=8'},
         {name: 'viewport', content: 'width=device-width, initial-scale=1.0'},
         {httpEquiv: 'X-UA-Compatible', content: 'ie=edge'},
-        {name: 'thumbnail', content: url('../assets/TEMP2.jpg')}
+        {name: 'thumbnail', content: {thumbnail}}
     ],
   },
   components: {
