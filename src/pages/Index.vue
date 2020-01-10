@@ -259,6 +259,7 @@ hr{
         font-size: 36px;
         margin-top: 0px;
         padding-top: 25px;
+        font-family: "Tiempos Text - Bold Italic";
     }
     .hdr>h3{
         margin-top: -15px;
