@@ -118,7 +118,10 @@ export default {
 }
 
 .kf-box {
-  background-image: url(../assets/keepin-faith-thumbnail.png);
+  /* background-image: url(../assets/keepin-faith-thumbnail.png); */
+   background-image: url('../assets/kf-bg.jpg');
+  background-size: cover;
+  background-position: center 20%;
 }
 
 .kf-box,
@@ -155,7 +158,9 @@ export default {
 .docu-box {
   width: 655px;
   height: 391px;
-  background-image: url(../assets/mini-docu-thumbnail.png);
+  background-image: url(../assets/bg.jpg);
+  background-size: cover;
+  background-position: center bottom;
 }
 
 .textbox {
