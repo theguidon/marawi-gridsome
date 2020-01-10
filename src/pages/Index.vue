@@ -37,7 +37,7 @@ export default {
         {charset: 'UTF=8'},
         {name: 'viewport', content: 'width=device-width, initial-scale=1.0'},
         {httpEquiv: 'X-UA-Compatible', content: 'ie=edge'},
-        {name: 'thumbnail', content: '../assets/TEMP2.jpg'}
+        {name: 'thumbnail', content: url('../assets/TEMP2.jpg')}
     ],
   },
   components: {
