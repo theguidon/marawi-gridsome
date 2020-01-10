@@ -17,7 +17,7 @@
             <p class="p3">In light of the Marawi siege’s second anniversary and the conclusion of Martial Law in Mindanao, The GUIDON looks into the narratives that illustrate the Maranao’s hopes amidst their ongoing plight. In response to <a href="http://interactive.theguidon.com/2018/05/marawi/#/">Strength and Resolve: Tales of Recovery in the Islamic City</a> and its reportage of Marawi’s condition in 2018, The GUIDON sheds a new light on the residents’ own efforts to reclaim a semblance of normalcy after the siege. </p>
         </div>
         <CardsSection>
-            <div slot="explore-div">
+            <div slot="explore-div" class="explore-div">
                 <h6 class="explore scroll-down-top2">Explore the Narratives</h6>
                 <g-image class="scroll-triangle scroll-down-top" src="../assets/scroll-down-triangle-blue.svg" />
             </div>
@@ -243,6 +243,9 @@ hr{
     }
 
   
+  .explore-div{
+      display: none;
+  }
     .hdr>h1{
         width: 80vw;
         font-size: 36px;

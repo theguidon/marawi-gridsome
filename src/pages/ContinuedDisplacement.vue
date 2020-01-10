@@ -257,6 +257,7 @@ iframe {
   color: #ffffff;
 }
 
+
 .video-container {
   height: 100vh;
   text-align: center;
@@ -328,6 +329,10 @@ iframe {
     height: 76px;
     line-height: 19px;
   }
+
+  .scroll-down-top{
+  margin-top: 0px;
+}
 
   .landing-sub, .landing-credits{
     font-size: 16px;
