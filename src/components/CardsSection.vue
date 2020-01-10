@@ -133,7 +133,9 @@ export default {
 .bn-box {
   width: 426px;
   height: 391px;
-  background-image: url(../assets/marawi-rehab-thumbnail.png);
+  background-image: url('../assets/081319-Marawi Rehabilitation efforts-Mariano-1.jpg');
+  background-size: cover;
+  background-position: bottom center;
 }
 
 .photoessay-box {
