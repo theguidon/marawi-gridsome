@@ -6,6 +6,7 @@ import '~/assets/styles.css';
 import PageLayout from '~/layouts/PageLayout.vue'
 
 
+
 export default function (Vue, { router, head, isClient }) {
   Vue.component('PageLayout', PageLayout)
 
@@ -16,6 +17,10 @@ export default function (Vue, { router, head, isClient }) {
 
     head.link.push({
       href: 'https://fonts.googleapis.com/css?family=Chivo&display=swap',
-      rel: 'stylesheet'
+      rel: 'stylesheet',
+      meta: [
+        {name: 'thumbnail', content: {thumbnail}}
+      ]
+
     })
   }
