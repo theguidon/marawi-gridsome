@@ -4,7 +4,7 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import '~/assets/styles.css';
 import PageLayout from '~/layouts/PageLayout.vue'
-
+import thumbnail from '~/assets/TEMP2.jpg'
 
 
 export default function (Vue, { router, head, isClient }) {

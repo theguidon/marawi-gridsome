@@ -4,6 +4,7 @@
       <div class="left-side">
         <g-link to='/'><g-image src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" class="logo" /></g-link>
       </div>
+      <g-link to="/"><div id="center">Catching Light: Faces of hope in Marawi City</div></g-link>
       <div class="right-side">
         <g-link :to='prev'><g-image src="../assets/left-arrow.svg" class="arrow" /></g-link>
         <g-link :to='prev'><span class="prev">Prev</span></g-link>
@@ -114,7 +115,9 @@ export default {
   /* width: 250px; */
   height: 35px;
 }
-
+#center:hover{
+  color: white;
+}
 .page-title {
   font-size: 16px;
   padding-top: 5px;
@@ -187,6 +190,8 @@ hr {
   /* height: 5vw; */
   width: 100vw;
   background: #1c4480;
+  z-index: 9;
+  position: fixed;
 }
 
 #header-flexbox {
