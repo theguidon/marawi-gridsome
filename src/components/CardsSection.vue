@@ -8,7 +8,7 @@
         <div class="textbox">
           <h6 class="box-category">ARTICLE</h6>
           <h2 class="box-title">Keeping faith</h2>
-          <p class="box-desc animated fadeIn">The GUIDON’s last article for the Marawi rehabilitation series debunks Islamophobic notions and puts forth a simple plea from the Muslims of Maranao: Religious understanding from their fellow Filipinos so that they may practice their faith, which is essential to their recovery, unburdened with discrimination and accusations.</p>
+          <p class="box-desc animated fadeIn">When news of the Marawi siege broke out, misconceptions about Muslim-Christian hostility quickly followed. The GUIDON debunks these Islamophobic notions and puts forth a simple plea from the Maranao Muslims: Religious understanding from their fellow Filipinos so that they may practice their faith unburdened with discrimination and accusations.</p>
           <p class="box-credits">by Danielle R. Garcia and Alithea C. Soriano</p>
         </div>
         </g-link>

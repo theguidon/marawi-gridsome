@@ -5,7 +5,7 @@
             <h1 class="animated fadeInDown slow delay-1s">Catching light:</h1>
             <h3 class="animated fadeInDown slow delay-1s">Faces of hope in Marawi City</h3>
             <hr class="animated fadeInDown slow delay-1s">
-            <h5 class="animated fadeInDown slow delay-1s">December 2019</h5>
+            <h5 class="animated fadeInDown slow delay-1s">January 2020</h5>
             <div class="animated delay-3s scroll-animation-div">
                 <h6 class="animated delay-1s scroll-down-top">SCROLL DOWN</h6>
                 <g-image class="animated delay-1s scroll-triangle" src="../assets/scroll-down-triangle.svg" />
