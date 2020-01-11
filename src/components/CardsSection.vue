@@ -27,7 +27,7 @@
         <g-link to="/foundations/">
         <div class="textbox">
           <h6 class="box-category">PHOTO ESSAY</h6>
-          <h2 class="box-title">Foundations</h2>
+          <h2 class="box-title">The long road home</h2>
           <p class="box-desc animated fadeIn">It has been more than two years since the liberation of Marawi City from armed conflict, but many displaced Maranaos still find themselves situated in temporary shelters. The recent Mindanao calamities and the prolonged rehabilitation process leave Marawi’s former residents to wonder when they will be able to truly start anew.</p>
           <p class="box-credits">by Jason Mariano and Aldo Santiago</p>
         </div>
