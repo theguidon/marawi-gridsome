@@ -243,7 +243,7 @@ line-height: 18px;
   width: 276px;
   height: 20px;
   vertical-align: middle;
-  padding-top:7px;
+  padding-top:4px;
   margin-top: 25px;
   font-size: 13px;
   line-height: 16px;
