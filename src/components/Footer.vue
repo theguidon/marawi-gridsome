@@ -49,12 +49,10 @@ export default {
     width: 276px;
     /* height: 30px; */
     margin-left: 82px;
-    padding-bottom:20px;
 
 }
 
 .footer-content{
-    padding-top: 1vh;
     margin-left: 87px;
 
 }
@@ -77,6 +75,7 @@ export default {
     margin-top: -10px;
     margin-left: 30px;
     width: 80vw;
+    padding-top: 1vh;
     line-height: 170%;
 }
 
