@@ -47,18 +47,16 @@ export default {
 {
     padding-top: 4vh;
     width: 276px;
-    height: 45px;
+    /* height: 30px; */
+    margin-left: 82px;
+    padding-bottom:20px;
+
 }
 
 .footer-content{
     padding-top: 1vh;
-}
-
-.gdn-horizontal{
-    margin-left: 60px;
-}
-.footer-content{
     margin-left: 87px;
+
 }
 
 @media screen and (max-device-width: 420px) {
@@ -72,20 +70,16 @@ export default {
 .gdn-horizontal
 {
     width:147px;
-    height: 20px;
-}
-.gdn-horizontal{
-    margin-left: 5px;
+    margin-left: 27px;
+    /* height: 20px; */
 }
 .footer-content{
     margin-top: -10px;
     margin-left: 30px;
-}
-
-.footer-content{
     width: 80vw;
     line-height: 170%;
 }
+
 
 }
 
