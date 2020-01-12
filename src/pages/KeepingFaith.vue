@@ -172,7 +172,7 @@ import animated from 'animate.css'
 export default {
   name: "KeepingFaith",
   metaInfo: {
-    title: "Keeping Faith",
+    title: "Keeping faith",
     meta: [
       { name: "viewport", content: "width=device-width, initial-scale=1.0" },
       { charset: "UTF-8" },
