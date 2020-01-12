@@ -40,6 +40,9 @@ export default {
         {httpEquiv: 'X-UA-Compatible', content: 'ie=edge'},
         {name: 'thumbnail', content: {thumbnail}}
     ],
+    link: [
+      { rel: 'imageSrc', href: {thumbnail}},
+    ]
   },
   components: {
       CardsSection,
