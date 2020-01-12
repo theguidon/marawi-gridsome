@@ -1,5 +1,5 @@
 <template>
-  <PageLayout title="Marawi's Rehabilitation Efforts" prev="/keeping-faith/" next="/foundations/">
+  <PageLayout title="Marawi's Rehabilitation Efforts" prev="/keeping-faith/" next="/the-long-road-home/">
     <div class="landing-container">
       <h1 class="landing-head">Marawi's rehabilitation efforts</h1>
       <h3

@@ -24,7 +24,7 @@
         </g-link>
       </div>
       <div class="photoessay-box">
-        <g-link to="/foundations/">
+        <g-link to="/the-long-road-home/">
         <div class="textbox">
           <h6 class="box-category">PHOTO ESSAY</h6>
           <h2 class="box-title">The long road home</h2>
@@ -36,7 +36,7 @@
     </div>
     <div class="flex-container-2">
       <div class="wtd-box">
-      <g-link to="/world-teachers-day/">
+      <g-link to="/beyond-makeshift-classrooms/">
         <div class="textbox">
           <h6 class="box-category">ARTICLE</h6>
           <h2 class="box-title">Beyond makeshift classrooms</h2>

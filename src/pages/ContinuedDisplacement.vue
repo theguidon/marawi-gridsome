@@ -1,5 +1,5 @@
 <template>
-  <PageLayout title="The Maranao's continued displacement" next='/keeping-faith/' prev='world-teachers-day'>
+  <PageLayout title="The Maranao's continued displacement" next='/keeping-faith/' prev='/beyond-makeshift-classrooms/'>
     <div class="landing-container">
       <h1 class="landing-head">Kawaraw: Faces of hope in Marawi City</h1>
       <h3

@@ -39,11 +39,11 @@
           </div>
     
           <div class="section">
-            <g-link to="/foundations/">Foundations</g-link>
+            <g-link to="/the-long-road-home/">Foundations</g-link>
           </div>
     
           <div class="section">
-            <g-link to="/world-teachers-day/">Beyond makeshift classrooms</g-link>
+            <g-link to="/beyond-makeshift-classrooms/">Beyond makeshift classrooms</g-link>
           </div>
           <hr />
     

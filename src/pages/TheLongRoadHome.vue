@@ -1,5 +1,5 @@
 <template>
-  <PageLayout title='Foundations' prev='/rehabilitation-efforts/' next='world-teachers-day'>
+  <PageLayout title='The long road home' prev='/rehabilitation-efforts/' next='/beyond-makeshift-classrooms/'>
      <header class="masthead">
       <div class="container h-100">
         <div class="row h-100 align-items-center">
@@ -841,9 +841,9 @@
 <script>
 import CardsSection from '~/components/CardsSection.vue'
 export default {
-  name: "Foundations",
+  name: "TheLongRoadHome",
   metaInfo: {
-    title: "Foundations",
+    title: "The long road home",
     meta: [
       { name: "viewport", content: "width=device-width, initial-scale=1.0" },
       { charset: "UTF-8" },
