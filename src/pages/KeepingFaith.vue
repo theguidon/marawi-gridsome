@@ -1,5 +1,5 @@
 <template>
-  <PageLayout title="Keeping Faith" prev='/continued-displacement/' next='/rehabilitation-efforts/'>
+  <PageLayout title="Keeping Faith" prev='/kawaraw/' next='/rehabilitation-efforts/'>
       <section id='s1'>
     <div class="landing">
       <div class="blur"></div>

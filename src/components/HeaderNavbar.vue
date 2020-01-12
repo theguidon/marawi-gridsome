@@ -48,7 +48,7 @@
           <hr />
     
           <div class="section">
-            <g-link to="/continued-displacement/">The Maranao's Continued Displacement</g-link>
+            <g-link to="/kawaraw/">Kawaraw: Faces of hope in Marawi City</g-link>
           </div>
           <g-image src="../assets/theguidonlogo90_GDN Logo Horizontal - White 1.svg" class="logo logo-sidebar" />
         </div>

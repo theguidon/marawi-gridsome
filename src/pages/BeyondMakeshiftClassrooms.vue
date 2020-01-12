@@ -1,5 +1,5 @@
 <template>
-<PageLayout title="Beyond Makeshift Classrooms" prev="/the-long-road-home/" next='/continued-displacement/'>
+<PageLayout title="Beyond Makeshift Classrooms" prev="/the-long-road-home/" next='/kawaraw/'>
         <section id='s1'>
     <div class="landing">
       <div class="fad">

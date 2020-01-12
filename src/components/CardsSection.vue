@@ -46,7 +46,7 @@
         </g-link>
       </div>
       <div class="docu-box">
-        <g-link to="/continued-displacement/">
+        <g-link to="/kawaraw/">
         <div class="textbox">
           <h6 class="box-category">MINI DOCUMENTARY</h6>
           <h2 class="box-title">Kawaraw</h2>
