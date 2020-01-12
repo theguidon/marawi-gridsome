@@ -36,7 +36,7 @@
     
     PDRF President Rene Meily emphasized the need to prioritize access to education in war-torn areas like Marawi City. “Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable,” he said.
 
-      <span id="c-img1-container"><div id="c-img1"><g-image src="../assets/cimg1.png" alt=""/><h6 id="ffe">FIGHT FOR EDUCATION. Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic shares the hardships she experienced as she pushed for the creation of a school for the internally displaced people of Marawi. | Photo by Jason Mariano</h6></div></span>
+      <span id="c-img1-container"><div id="c-img1"><g-image id="fight-4education-pic" src="../assets/cimg1.png" alt=""/><h6 id="ffe">FIGHT FOR EDUCATION. Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic shares the hardships she experienced as she pushed for the creation of a school for the internally displaced people of Marawi. | Photo by Jason Mariano</h6></div></span>
 
       Such is the philosophy of Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic, who, along with other former Marawi-based professors, established a makeshift school at Sarimanok Tent City Area 2, Marawi City. <br><br>
       Selic shared that she and her fellow professors used to teach in various schools in Ground Zero. Not all of them were employed under the same institutions, but after the siege, Selic resolved to find enough teachers to join her mission to continue the education of the displaced Maranao youth. “<i>Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan</i> (The most important thing for us is to ensure that we’re able to get anyone and everyone into school),” she said.
@@ -216,6 +216,10 @@ color: #3F3F3F;
   color: #FFFFFF;
 }
 
+#fight-4education-pic{
+  margin-top: -50px;
+}
+
 #h6-2{
   font-family: Chivo;
   font-style: normal;
@@ -380,9 +384,11 @@ text-decoration: none;
   color: white;
 }
 #c-img1{
-  margin: 100px 0 100px;
+  margin: 100px 0 60px;
   transform: translate(-10%,0);
   width: 130%;
+  /* margin: 100px 0 0px 20px */
+  /* padding-bottom: -190px; */
   /* width: 1029px; */
 }
 
@@ -396,7 +402,7 @@ text-decoration: none;
 }
 
 #c-img2{
-  margin: 90px 0 55px;
+  margin: 50px 0 40px;
   transform: translate(-10%,0);
   width: 130%;
   /* width: 1029px; */
@@ -408,7 +414,7 @@ text-decoration: none;
 }
 
 #c-img3{
-  margin: 90px 0 55px;
+  margin: 50px 0 40px;
   transform: translate(-10%,0);
   width: 130%;
   /* width: 1029px; */
@@ -420,7 +426,7 @@ text-decoration: none;
 }
 
 #c-img4{
-  margin: 90px 0 55px;
+  margin: 50px 0 40px;
   transform: translate(-10%,0);
   width: 130%;
   /* width: 1029px; */
@@ -432,7 +438,7 @@ text-decoration: none;
 }
 
 #c-img6{
-  margin: 90px 0 90px;
+  margin: 50px 0 40px;
   transform: translate(-10%,0);
   width: 130%;
   /* width: 1029px; */
@@ -538,9 +544,14 @@ line-height: 34px;
   }
 
   #c-img1,#c-img2,#c-img3,#c-img4,#c-img6{
-    margin: 100px 0 100px 20px !important;
+    margin: 50px 0px 40px 15px !important;
     width: 113% !important;
   }
+
+   #c-img1{
+         margin: 90px 0px 40px 15px !important;
+
+   }
 
 #c-img2>h6,#c-img3>h6,#c-img4>h6,#c-img6>h6{
     margin-left: 23px !important;
