@@ -22,7 +22,7 @@
       Moreover, September 2018 saw the Philippine Disaster Resilience Foundation (PDRF), along with the Project Handclasp Foundation and the US-Philippines Society,  <span id="uline"> <a href="https://business.inquirer.net/258166/marawi-schools-get-school-kits">turn over</a></span> Smart School-in-a-Bag kits to learning institutions such as Tuca Boganga Elementary School as part of its Children of Marawi project. Smart School in-a-Bag kits serve as “a portable digital classroom designed to facilitate learning in remote areas without electricity.”<br> <br>
       The Office of the Vice President also recently  <span id="uline"><a href="https://newsinfo.inquirer.net/1134806/robredo-to-turn-over-school-buildings-houses-in-marawi">turned over</a></span> two-classroom buildings to Mapandi Elementary School in Barangay Gadongan. Several other classrooms and housing units were built through Vice President Leni Robredo’s anti-poverty program called <i>Angat Buhay.</i><br><br><br>
 
-    <span id='heading'><div><b>A Maranao educator’s plight</b></div></span><br><br><br>
+    <span id='heading'><div><b>A Maranao educator’s plight</b></div></span><br>
 
     <span id=quote>
       <div class="ql ql-1"><i class="fas fa-quote-left"></i></div>
@@ -31,7 +31,7 @@
 
       <div class="qr"><i class="fas fa-quote-right"></i></div>
 
-    </span><br><br>
+    </span><br>
 
     
     PDRF President Rene Meily emphasized the need to prioritize access to education in war-torn areas like Marawi City. “Getting children back into school...will change the trajectory of these children’s lives and help make lasting peace attainable,” he said.
@@ -40,7 +40,7 @@
 
       Such is the philosophy of Marawi Sarimanok Elementary Pilot School Principal Linda Adiong Selic, who, along with other former Marawi-based professors, established a makeshift school at Sarimanok Tent City Area 2, Marawi City. <br><br>
       Selic shared that she and her fellow professors used to teach in various schools in Ground Zero. Not all of them were employed under the same institutions, but after the siege, Selic resolved to find enough teachers to join her mission to continue the education of the displaced Maranao youth. “<i>Pinaka-importante sa amin [ay] kahit sino [mapasok] namin sa paaralan</i> (The most important thing for us is to ensure that we’re able to get anyone and everyone into school),” she said.
-<br>    
+
 
       <span id="c-img1-container"><div id="c-img2"><g-image src="../assets/cimg2.png" alt=""/><h6>MAKESHIFT SCHOOLS. The Marawi Sarimanok Elementary Pilot School was successfully established by a group of former Marawi-based professors with the help of Save the Children Philippines and the Philippine Red Cross. However, two years after the armed conflict that displaced many residents in the city, communities still struggle to build educational institutions due to the lack of quality facilities and materials. | Photo by Aldo Santiago</h6></div></span>
 
@@ -51,9 +51,7 @@
 
       <span id="c-img1-container"><div id="c-img3"><g-image src="../assets/cimg3.png" alt=""/><h6>ISLAMIC ROOTS. An elementary teacher lectures about the Arabic language in adherence to the <i>Madrasah</i> Educational Program. | Photo by Aldo Santiago</h6></div></span>
 
-      <br>
-
-    <span id='heading'><div><b>The need for depth</b></div></span>
+    <span id='heading'><div id="need-depth"><b>The need for depth</b></div></span>
 
 <span id=quote>
       <div class="ql ql-2"><i class="fas fa-quote-left"></i></div>
@@ -82,7 +80,7 @@
 
       <span id="c-img1-container"><div id="c-img6"><g-image src="../assets/cimg6.png" alt=""/><h6>HEALING THROUGH EDUCATION. Teachers at the Marawi Sarimanok Elementary Pilot School continue to push for a just and inclusive education for the displaced children of Marawi. These educators firmly believe that bringing the youth back to school will greatly help with the long-term healing of the community. | Photo by Jason Mariano</h6></div></span>
 
-  <span id='heading'><div><b>In classrooms again</b></div></span><br><br>
+  <span id='heading'><div><b>In classrooms again</b></div></span><br>
 
       This only goes to show that for educators like Selic who shoulder the responsibility of teaching Muslim students about the basics of their faith and developing their sense of identity after years of being displaced, material assistance may not be enough. <br><br>
       Selic and her fellow educators at Marawi Sarimanok Elementary Pilot School have fought tooth and nail to provide the displaced youth of Marawi with the primary education that they deserve. However, government and non-government agencies have the resources to take this a step further. Aside from donating materials and facilities, these organizations must also look into providing training and manpower for Maranao teachers. Doing so not only makes education more accessible in the city, but also allows these educators to holistically teach their students about the Islamic faith, as the <i>Madrasah</i> Educational Program intended. <br><br>
@@ -318,6 +316,8 @@ color: #3F3F3F;
   /* padding: 1px 5px; */
 }
 
+
+
 a:hover{
 color: white;
 text-decoration: none;
@@ -328,10 +328,14 @@ text-decoration: none;
   margin: 5px 0% 0px;
   border-style: solid none;
   border-color: #9FA2C0;
+  /* margin-bottom: -80px; */
   /* text-decoration-line: line-through;
   text-decoration-color: rgba(233, 185, 202, 0.7); */
   border-width: 0.5px;
   text-align: center;
+}
+.c-elem3>h4>#heading>#need-depth{
+  margin-bottom: -70px;
 }
 
 .c-elem3>h4>#quote{
