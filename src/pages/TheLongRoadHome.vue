@@ -1029,7 +1029,7 @@ html {
   margin: auto;
   height: 650px;
   width: auto;
-  padding-left: 200px;
+  display: block
 }
 
 .landscape {
@@ -1107,6 +1107,7 @@ html {
 .pe-img{
   object-fit: contain;
 }
+
 
 @media only screen and (max-width: 1200px) {
   br {
