@@ -114,8 +114,6 @@
 
       In the local context, the manifestations of Islamophobia are not as violent, but the fear is <span id="uline"><a href="https://www.rappler.com/thought-leaders/178209-confronting-islamophobia">present</a></span>, nonetheless. Like their Western counterparts, many Filipinos have cited the existence of Islamic <span id="uline"><a href="https://ctc.usma.edu/the-islamic-state-in-the-philippines-a-looming-shadow-in-southeast-asia/">militant</a></span> groups as the source of their wariness with the country’s Muslim population.<br>
 
-      <br>
-
       
 
       <br>
