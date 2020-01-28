@@ -38,7 +38,8 @@ export default {
         {charset: 'UTF=8'},
         {name: 'viewport', content: 'width=device-width, initial-scale=1.0'},
         {httpEquiv: 'X-UA-Compatible', content: 'ie=edge'},
-        {name: 'thumbnail', content: {thumbnail}}
+        {name: 'thumbnail', content: {thumbnail}},
+        {name: 'description', content: 'Catching light: Faces of hope in Marawi City, an interactive article by The GUIDON. written by Alithea Soriano & Danielle Garcia, Design by Alannah Mitra, Bea Martin, Bea Sison, & Prezil Ong, Developed by Cobbie Quintos, Davin Cuaso, Keith Bartido, and Zekie Ordoveza, Photos by Aldo Santiago and Jason Mariano, Videos by Mariana Gardoce, Tatiana Maligro, Jason Mariano, and Aldo Santiago'}
     ],
     link: [
       { rel: 'imageSrc', href: {thumbnail}},
