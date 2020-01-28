@@ -1,7 +1,7 @@
 <template>
     <PageLayout title="The GUIDON Interactive: Marawi" leftSideWidth="width: 450px;" hideNavbar=true>
         <div class="hdr">
-            <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/03 90th Year Logo (WHITE).svg"/></div>
+            <div class="animated fadeInDown header-logo delay-2s"><g-image src="../assets/03 90th Year Logo (WHITE).svg" alt="The GUIDON logo"/></div>
             <h1 class="animated fadeInDown slow delay-1s">Catching light:</h1>
             <h3 class="animated fadeInDown slow delay-1s">Faces of hope in Marawi City</h3>
             <hr class="animated fadeInDown slow delay-1s">
