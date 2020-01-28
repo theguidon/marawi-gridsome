@@ -46,7 +46,9 @@ export default {
     meta: [
       { name: "viewport", content: "width=device-width, initial-scale=1.0" },
       { charset: "UTF-8" },
-      { httpEquiv: "X-UA-Compatible", content: "ie=edge" }
+      { httpEquiv: "X-UA-Compatible", content: "ie=edge" },
+        {name: 'description', content: 'Title: Kawaraw, filmed by: Tatiana Maligro and Mariana Gardoce, place: Marawi, organization: The GUIDON'}
+
     ],
   },
   components: {

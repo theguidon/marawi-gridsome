@@ -38,7 +38,11 @@ import CardsSection from "~/components/CardsSection";
 export default {
   name: "RehabilitationEfforts",
   metaInfo: {
-    title: "Marawi's Rehabilitation Efforts"
+    title: "Marawi's Rehabilitation Efforts",
+    meta: [
+        {name: 'description', content: 'Title: Marawi\'s rehabilitation efforts, filmed by: Tatiana Maligro and Mariana Gardoce, place: Marawi, organization: The GUIDON'}
+
+    ]
   },
   components: {
     CardsSection
